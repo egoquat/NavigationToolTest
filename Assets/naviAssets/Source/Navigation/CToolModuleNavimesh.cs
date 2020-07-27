@@ -3,7 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-public class CToolModuleNavimesh : MonoBehaviour
+public class CToolModuleNavimesh
 {
     #region constparameter
     public static readonly int DFLT_IDX_RENDERNAVIMESH = CMATH.INT_MAX_DIV32168;
