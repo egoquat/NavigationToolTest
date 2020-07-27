@@ -1,0 +1,460 @@
+fileFormatVersion: 1
+guid: 361e3d1a6496fe74fadc7cdc2065ec5f
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 1
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    'Mesh ':
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    - 6500000
+    mesh:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+    - 6500002
+    Mesh  2:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    - 6500004
+    pan:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    - 6500006
+    wing.lxl:
+    - 100010
+    - 400010
+    - 3300008
+    - 2300008
+    - 6500008
+    sf_Prop03.lxl:
+    - 100012
+    - 400012
+    - 3300010
+    - 2300010
+    - 6500010
+    Line02.lxl:
+    - 100014
+    - 400014
+    - 3300012
+    - 2300012
+    - 6500012
+    rail:
+    - 100016
+    - 400016
+    - 3300014
+    - 2300014
+    - 6500014
+    Mesh  1:
+    - 100018
+    - 400018
+    - 3300016
+    - 2300016
+    - 6500016
+    polySurface8:
+    - 100020
+    - 400020
+    - 3300018
+    - 2300018
+    - 6500018
+    stage_leg:
+    - 100022
+    - 400022
+    - 3300020
+    - 2300020
+    - 6500020
+    polySurface7:
+    - 100024
+    - 400024
+    - 3300022
+    - 2300022
+    - 6500022
+    polySurface19 1:
+    - 100026
+    - 400026
+    - 3300024
+    - 2300024
+    - 6500024
+    polySurface6:
+    - 100028
+    - 400028
+    - 3300026
+    - 2300026
+    - 6500026
+    polySurface5:
+    - 100030
+    - 400030
+    - 3300028
+    - 2300028
+    - 6500028
+    polySurface4:
+    - 100032
+    - 400032
+    - 3300030
+    - 2300030
+    - 6500030
+    sf_Prop02.lxl:
+    - 100034
+    - 400034
+    - 3300032
+    - 2300032
+    - 6500032
+    Mesh:
+    - 100036
+    - 400036
+    - 3300034
+    - 2300034
+    - 6500034
+    pole_Y.lxl:
+    - 100038
+    - 400038
+    polySurface1:
+    - 100040
+    - 400040
+    - 3300036
+    - 2300036
+    - 6500036
+    polySurface3:
+    - 100042
+    - 400042
+    - 3300038
+    - 2300038
+    - 6500038
+    polySurface2:
+    - 100044
+    - 400044
+    - 3300040
+    - 2300040
+    - 6500040
+    polySurface18 1:
+    - 100046
+    - 400046
+    - 3300042
+    - 2300042
+    - 6500042
+    polySurface21:
+    - 100048
+    - 400048
+    - 3300044
+    - 2300044
+    - 6500044
+    polySurface22:
+    - 100050
+    - 400050
+    - 3300046
+    - 2300046
+    - 6500046
+    polySurface10 1:
+    - 100052
+    - 400052
+    - 3300048
+    - 2300048
+    - 6500048
+    gate:
+    - 100054
+    - 400054
+    - 3300050
+    - 2300050
+    - 6500050
+    polySurface25 1:
+    - 100056
+    - 400056
+    - 3300052
+    - 2300052
+    - 6500052
+    polySurface26 1:
+    - 100058
+    - 400058
+    - 3300054
+    - 2300054
+    - 6500054
+    polySurface23 1:
+    - 100060
+    - 400060
+    - 3300056
+    - 2300056
+    - 6500056
+    polySurface24 1:
+    - 100062
+    - 400062
+    - 3300058
+    - 2300058
+    - 6500058
+    polySurface21 1:
+    - 100064
+    - 400064
+    - 3300060
+    - 2300060
+    - 6500060
+    polySurface22 1:
+    - 100066
+    - 400066
+    - 3300062
+    - 2300062
+    - 6500062
+    polySurface18:
+    - 100068
+    - 400068
+    - 3300064
+    - 2300064
+    - 6500064
+    polySurface20 1:
+    - 100070
+    - 400070
+    - 3300066
+    - 2300066
+    - 6500066
+    polySurface19:
+    - 100072
+    - 400072
+    - 3300068
+    - 2300068
+    - 6500068
+    polySurface10:
+    - 100074
+    - 400074
+    - 3300070
+    - 2300070
+    - 6500070
+    polySurface27:
+    - 100076
+    - 400076
+    - 3300072
+    - 2300072
+    - 6500072
+    polySurface9 1:
+    - 100078
+    - 400078
+    - 3300074
+    - 2300074
+    - 6500074
+    group1:
+    - 100080
+    - 400080
+    polySurface17:
+    - 100082
+    - 400082
+    - 3300076
+    - 2300076
+    - 6500076
+    polySurface26:
+    - 100084
+    - 400084
+    - 3300078
+    - 2300078
+    - 6500078
+    polySurface17 1:
+    - 100086
+    - 400086
+    - 3300080
+    - 2300080
+    - 6500080
+    transform1:
+    - 100088
+    - 400088
+    - 3300082
+    - 2300082
+    - 6500082
+    polySurface11 1:
+    - 100090
+    - 400090
+    - 3300084
+    - 2300084
+    - 6500084
+    polySurface14:
+    - 100092
+    - 400092
+    - 3300086
+    - 2300086
+    - 6500086
+    polySurface16:
+    - 100094
+    - 400094
+    - 3300088
+    - 2300088
+    - 6500088
+    polySurface13:
+    - 100096
+    - 400096
+    - 3300090
+    - 2300090
+    - 6500090
+    polySurface15:
+    - 100098
+    - 400098
+    - 3300092
+    - 2300092
+    - 6500092
+    polySurface11:
+    - 100100
+    - 400100
+    - 3300094
+    - 2300094
+    - 6500094
+    polySurface12:
+    - 100102
+    - 400102
+    - 3300096
+    - 2300096
+    - 6500096
+    polySurface9:
+    - 100104
+    - 400104
+    - 3300098
+    - 2300098
+    - 6500098
+    polySurface20:
+    - 100106
+    - 400106
+    - 3300100
+    - 2300100
+    - 6500100
+    polySurface14 1:
+    - 100108
+    - 400108
+    - 3300102
+    - 2300102
+    - 6500102
+    polySurface15 1:
+    - 100110
+    - 400110
+    - 3300104
+    - 2300104
+    - 6500104
+    polySurface13 1:
+    - 100112
+    - 400112
+    - 3300106
+    - 2300106
+    - 6500106
+    polySurface12 1:
+    - 100114
+    - 400114
+    - 3300108
+    - 2300108
+    - 6500108
+    group2:
+    - 100116
+    - 400116
+    polySurface25:
+    - 100118
+    - 400118
+    - 3300110
+    - 2300110
+    - 6500110
+    polySurface24:
+    - 100120
+    - 400120
+    - 3300112
+    - 2300112
+    - 6500112
+    polySurface23:
+    - 100122
+    - 400122
+    - 3300114
+    - 2300114
+    - 6500114
+    polySurface16 1:
+    - 100124
+    - 400124
+    - 3300116
+    - 2300116
+    - 6500116
+    Space Engine 02.lxl:
+    - 100126
+    - 400126
+    - 3300118
+    - 2300118
+    - 6500118
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: 'Mesh '
+    4300002: Mesh
+    4300004: mesh
+    4300006: polySurface1
+    4300008: polySurface2
+    4300010: polySurface3
+    4300012: polySurface4
+    4300014: polySurface5
+    4300016: polySurface6
+    4300018: polySurface7
+    4300020: polySurface8
+    4300022: 'Mesh '
+    4300024: Space Engine 02.lxl
+    4300026: Line02.lxl
+    4300028: sf_Prop03.lxl
+    4300030: wing.lxl
+    4300032: pan
+    4300034: 'Mesh '
+    4300036: sf_Prop02.lxl
+    4300038: rail
+    4300040: stage_leg
+    4300042: polySurface27
+    4300044: transform1
+    4300046: polySurface9
+    4300048: polySurface10
+    4300050: polySurface11
+    4300052: polySurface12
+    4300054: polySurface13
+    4300056: polySurface14
+    4300058: polySurface15
+    4300060: polySurface16
+    4300062: polySurface17
+    4300064: polySurface18
+    4300066: polySurface19
+    4300068: polySurface20
+    4300070: polySurface21
+    4300072: polySurface22
+    4300074: polySurface23
+    4300076: polySurface24
+    4300078: polySurface25
+    4300080: polySurface26
+    4300082: polySurface9
+    4300084: polySurface10
+    4300086: polySurface11
+    4300088: polySurface12
+    4300090: polySurface13
+    4300092: polySurface14
+    4300094: polySurface15
+    4300096: polySurface16
+    4300098: polySurface17
+    4300100: polySurface18
+    4300102: polySurface19
+    4300104: polySurface20
+    4300106: polySurface21
+    4300108: polySurface22
+    4300110: polySurface23
+    4300112: polySurface24
+    4300114: polySurface25
+    4300116: polySurface26
+    4300118: gate

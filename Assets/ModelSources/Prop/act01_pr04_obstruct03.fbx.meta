@@ -1,0 +1,151 @@
+fileFormatVersion: 1
+guid: d0fc1374b9ddaf440865b4b66941722b
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    polySurface232:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    polySurface229:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 13500002
+    polySurface228:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    - 13500004
+    polySurface231:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    - 13500006
+    side_p:
+    - 100008
+    - 400008
+    group2:
+    - 100010
+    - 400010
+    polySurface230:
+    - 100012
+    - 400012
+    - 3300008
+    - 2300008
+    - 13500008
+    gate_top:
+    - 100014
+    - 400014
+    group1:
+    - 100016
+    - 400016
+    polySurface239:
+    - 100018
+    - 400018
+    - 3300010
+    - 2300010
+    - 13500010
+    polySurface240:
+    - 100020
+    - 400020
+    - 3300012
+    - 2300012
+    - 13500012
+    polySurface235:
+    - 100022
+    - 400022
+    - 3300014
+    - 2300014
+    - 13500014
+    polySurface233:
+    - 100024
+    - 400024
+    - 3300016
+    - 2300016
+    - 13500016
+    polySurface234:
+    - 100026
+    - 400026
+    - 3300018
+    - 2300018
+    - 13500018
+    polySurface236:
+    - 100028
+    - 400028
+    - 3300020
+    - 2300020
+    - 13500020
+    polySurface237:
+    - 100030
+    - 400030
+    - 3300022
+    - 2300022
+    - 13500022
+    polySurface241:
+    - 100032
+    - 400032
+    - 3300024
+    - 2300024
+    - 13500024
+    polySurface238:
+    - 100034
+    - 400034
+    - 3300026
+    - 2300026
+    - 13500026
+    group3:
+    - 100036
+    - 400036
+    polySurface242:
+    - 100038
+    - 400038
+    - 3300028
+    - 2300028
+    - 13500028
+    //RootNode:
+    - 100040
+    - 400040
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface228
+    4300002: polySurface229
+    4300004: polySurface230
+    4300006: polySurface231
+    4300008: polySurface233
+    4300010: polySurface232
+    4300012: polySurface234
+    4300014: polySurface235
+    4300016: polySurface236
+    4300018: polySurface237
+    4300020: polySurface238
+    4300022: polySurface239
+    4300024: polySurface240
+    4300026: polySurface241
+    4300028: polySurface242

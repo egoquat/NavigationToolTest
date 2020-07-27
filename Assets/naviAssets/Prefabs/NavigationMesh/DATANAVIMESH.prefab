@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: DATANAVIMESH
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 150.91736, y: -149.24756, z: 76.28842}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8759b428b3818d48a6edac89fc54e7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arrayStageName:
+  - Stage01_00
+  - Stage01_01
+  - Stage02_00
+  - Stage03_00
+  - Stage04_00
+  - Stage04_01
+  - Stage05_00
+  - Stage06_00
+  - Stage07_00
+  - Stage08_00
+  - Stage09_00
+  - Stage10_00
+  - Stage11_00
+  - Stage11_01
+  - Stage12_00
+  - Stage12_01
+  - Stage12_02
+  - Stage12_03
+  - Stage13_00
+  - Stage14_00
+  - Stage15_00
+  - Stage15_01
+  - Stage15_02
+  - Stage16_00
+  - Stage16_01
+  - Stage17_00
+  - Stage17_01
+  - Stage17_02
+  - Stage18_00
+  - Stage19_00
+  - Stage20_00
+  arrayStageMesh:
+  - {fileID: 11400000, guid: 1a0014d0942b70a4a84bb23ab78acf38, type: 3}
+  - {fileID: 11400002, guid: 0b85208822b3fc741981d04fb1f58358, type: 3}
+  - {fileID: 11400000, guid: de3e4b8d32bdd954583164722ff9bc6b, type: 3}
+  - {fileID: 11400000, guid: d3e0487e621b1384d91a264e7a07db01, type: 3}
+  - {fileID: 11400002, guid: 214d92c0dab29c44c96fe822a3fe16ff, type: 3}
+  - {fileID: 11400000, guid: 9474c604b8029e14cb42e4440831d811, type: 3}
+  - {fileID: 11400000, guid: ed9d63ca3dd859f4cad015d34e06431a, type: 3}
+  - {fileID: 11400000, guid: 3a10054cf433068449bd63a5c1c1b88b, type: 3}
+  - {fileID: 11400000, guid: a4ba66087c9a6a54c91b72099b79a2c7, type: 3}
+  - {fileID: 11400000, guid: 2f53d8a34b09e1149b42b95277afb62d, type: 3}
+  - {fileID: 11400000, guid: a9f77ef1217a1284a9b64a766e11d6d3, type: 3}
+  - {fileID: 11400002, guid: c9e1054fc9ed3f942ada7f2066d12afb, type: 3}
+  - {fileID: 11400000, guid: fabfbf27cde2be14e825d47726d0720b, type: 3}
+  - {fileID: 11400000, guid: 12ef0989ec90f864e9b0f20112953bba, type: 3}
+  - {fileID: 11400000, guid: 9e8138ba51b145c4c8c6595032e7a0d5, type: 3}
+  - {fileID: 11400000, guid: ef2c73b21060abc47a446d0642a1b492, type: 3}
+  - {fileID: 11400000, guid: 691f897e5c70e46469d3829f68173b34, type: 3}
+  - {fileID: 11400000, guid: ca2bc26f107b83646a3a249aeec136bf, type: 3}
+  - {fileID: 11400000, guid: c986c851b9c0b7241bf7aa1d9a835761, type: 3}
+  - {fileID: 11400000, guid: 08968e6d453fdd3438841a6f1b61cf23, type: 3}
+  - {fileID: 11400002, guid: 72e7f11798107384191c4f537988ad65, type: 3}
+  - {fileID: 11400002, guid: 6fb772111d1c66f4f857061e21ea7462, type: 3}
+  - {fileID: 11400002, guid: 611a51d189898244997794efd899bd5b, type: 3}
+  - {fileID: 11400000, guid: 503df2b3f07a27644aafe8519002503c, type: 3}
+  - {fileID: 11400002, guid: b853e4f9fcb5d0748bab4cdce5350d8b, type: 3}
+  - {fileID: 11400000, guid: b70a22edc27c1eb4c81805e3fa84b84d, type: 3}
+  - {fileID: 11400000, guid: a44e6505bbac9ca439ae095147d2bd49, type: 3}
+  - {fileID: 11400000, guid: 2a7aaf17a02193644a5b832e63364e5c, type: 3}
+  - {fileID: 11400002, guid: 16601e333041b834f9b922a2ea688fb4, type: 3}
+  - {fileID: 11400002, guid: 54fd96736e303f64687ed026d894cb81, type: 3}
+  - {fileID: 11400002, guid: e4ece468152b3914ea88f7af3e4bf240, type: 3}
+  StartNaviMesh: 0

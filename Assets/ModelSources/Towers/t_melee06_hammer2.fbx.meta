@@ -1,0 +1,1026 @@
+fileFormatVersion: 1
+guid: 234a93aea59025b429a890879f579a96
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      NormalPose:
+        firstFrame: 131
+        lastFrame: 209
+        loop: 0
+        wrapMode: 0
+      Idle0:
+        firstFrame: 451
+        lastFrame: 530
+        loop: 0
+        wrapMode: 0
+      Idle1:
+        firstFrame: 531
+        lastFrame: 630
+        loop: 0
+        wrapMode: 0
+      Attack0:
+        firstFrame: 211
+        lastFrame: 272
+        loop: 0
+        wrapMode: 0
+      Attack1:
+        firstFrame: 281
+        lastFrame: 337
+        loop: 0
+        wrapMode: 0
+      Attack2:
+        firstFrame: 341
+        lastFrame: 402
+        loop: 0
+        wrapMode: 0
+      Destroy:
+        firstFrame: 721
+        lastFrame: 738
+        loop: 0
+        wrapMode: 0
+      NormalBody:
+        firstFrame: 631
+        lastFrame: 708
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    t_polySurface1506:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    t_t_melee06_hammer2_ki_pan1:
+    - 100002
+    - 400002
+    t_t_melee06_hammer3:
+    - 100004
+    - 400004
+    t_t_melee06_hammer2_cube19:
+    - 100006
+    - 400006
+    t_polySurface1507:
+    - 100008
+    - 400008
+    - 3300002
+    - 2300002
+    - 13500002
+    t_t_melee06_hammer2_pPlane6:
+    - 100010
+    - 400010
+    - 3300004
+    - 2300004
+    - 13500004
+    t_t_melee06_hammer2_cube18:
+    - 100012
+    - 400012
+    t_t_melee06_hammer2_cube141 1:
+    - 100014
+    - 400014
+    t_t_melee06_hammer2_group150:
+    - 100016
+    - 400016
+    t_t_melee06_hammer2_group149:
+    - 100018
+    - 400018
+    t_t_melee06_hammer2_cube141:
+    - 100020
+    - 400020
+    t_t_melee06_hammer2_cube142:
+    - 100022
+    - 400022
+    t_t_melee06_hammer2_cube16:
+    - 100024
+    - 400024
+    t_t_melee06_hammer2_cube1:
+    - 100026
+    - 400026
+    t_t_melee06_hammer2_yuyu:
+    - 100028
+    - 400028
+    t_t_melee06_hammer2_cube15:
+    - 100030
+    - 400030
+    t_t_melee06_hammer2_pCube75:
+    - 100032
+    - 400032
+    - 3300006
+    - 2300006
+    - 13500006
+    t_t_melee06_hammer2_pCube74:
+    - 100034
+    - 400034
+    - 3300008
+    - 2300008
+    - 13500008
+    t_t_melee06_hammer2_pSphere1:
+    - 100036
+    - 400036
+    - 3300010
+    - 2300010
+    - 13500010
+    t_t_melee06_hammer2_group23:
+    - 100038
+    - 400038
+    t_t_melee06_hammer2_group26:
+    - 100040
+    - 400040
+    t_t_melee06_hammer2_cube142 1:
+    - 100042
+    - 400042
+    t_t_melee06_hammer2_pCube75 1:
+    - 100044
+    - 400044
+    - 3300012
+    - 2300012
+    - 13500012
+    t_t_melee06_hammer2_pCube74 1:
+    - 100046
+    - 400046
+    - 3300014
+    - 2300014
+    - 13500014
+    t_t_melee06_hammer2_cube147:
+    - 100048
+    - 400048
+    t_t_melee06_hammer2_group147:
+    - 100050
+    - 400050
+    t_t_melee06_hammer2_cube5:
+    - 100052
+    - 400052
+    t_t_melee06_hammer2_pCylinder41:
+    - 100054
+    - 400054
+    - 3300016
+    - 2300016
+    - 13500016
+    t_t_melee06_hammer2_pSphere2:
+    - 100056
+    - 400056
+    - 3300018
+    - 2300018
+    - 13500018
+    t_t_melee06_hammer2_cube8:
+    - 100058
+    - 400058
+    t_t_melee06_hammer2_pCylinder1:
+    - 100060
+    - 400060
+    - 3300020
+    - 2300020
+    - 13500020
+    t_t_melee06_hammer2_cube7:
+    - 100062
+    - 400062
+    t_t_melee06_hammer2_cube136:
+    - 100064
+    - 400064
+    t_t_melee06_hammer2_ai_p01:
+    - 100066
+    - 400066
+    t_t_melee06_hammer2_pCylinder39:
+    - 100068
+    - 400068
+    - 3300022
+    - 2300022
+    - 13500022
+    t_t_melee06_hammer2_pCylinder38:
+    - 100070
+    - 400070
+    - 3300024
+    - 2300024
+    - 13500024
+    t_t_melee06_hammer2_pSphere5:
+    - 100072
+    - 400072
+    - 3300026
+    - 2300026
+    - 13500026
+    t_t_melee06_hammer2_cube138:
+    - 100074
+    - 400074
+    t_t_melee06_hammer2_ai_p03:
+    - 100076
+    - 400076
+    t_t_melee06_hammer2_pSphere4:
+    - 100078
+    - 400078
+    - 3300028
+    - 2300028
+    - 13500028
+    t_t_melee06_hammer2_ai_p02:
+    - 100080
+    - 400080
+    t_t_melee06_hammer2_cube137:
+    - 100082
+    - 400082
+    t_t_melee06_hammer2_pCylinder40:
+    - 100084
+    - 400084
+    - 3300030
+    - 2300030
+    - 13500030
+    t_t_melee06_hammer2_pCylinder36:
+    - 100086
+    - 400086
+    - 3300032
+    - 2300032
+    - 13500032
+    t_t_melee06_hammer2_pCylinder35:
+    - 100088
+    - 400088
+    - 3300034
+    - 2300034
+    - 13500034
+    t_t_melee06_hammer2_pSphere6:
+    - 100090
+    - 400090
+    - 3300036
+    - 2300036
+    - 13500036
+    t_t_melee06_hammer2_pPipe2 1:
+    - 100092
+    - 400092
+    - 3300038
+    - 2300038
+    - 13500038
+    t_t_melee06_hammer2_cube143:
+    - 100094
+    - 400094
+    t_t_melee06_hammer2_pCube72:
+    - 100096
+    - 400096
+    - 3300040
+    - 2300040
+    - 13500040
+    t_t_melee06_hammer2_pCube73:
+    - 100098
+    - 400098
+    - 3300042
+    - 2300042
+    - 13500042
+    t_t_melee06_hammer2_cube134:
+    - 100100
+    - 400100
+    t_t_melee06_hammer2_pCube66:
+    - 100102
+    - 400102
+    - 3300044
+    - 2300044
+    - 13500044
+    t_t_melee06_hammer2_pCube68:
+    - 100104
+    - 400104
+    - 3300046
+    - 2300046
+    - 13500046
+    t_t_melee06_hammer2_pCube70:
+    - 100106
+    - 400106
+    - 3300048
+    - 2300048
+    - 13500048
+    t_t_melee06_hammer2_cube133:
+    - 100108
+    - 400108
+    t_t_melee06_hammer2_cube132:
+    - 100110
+    - 400110
+    t_t_melee06_hammer2_pSphere2 1:
+    - 100112
+    - 400112
+    - 3300050
+    - 2300050
+    - 13500050
+    t_t_melee06_hammer2_cube130 1:
+    - 100114
+    - 400114
+    t_t_melee06_hammer2_cube129 1:
+    - 100116
+    - 400116
+    t_t_melee06_hammer2_cube5 1:
+    - 100118
+    - 400118
+    t_t_melee06_hammer2_cube132 1:
+    - 100120
+    - 400120
+    t_t_melee06_hammer2_group148:
+    - 100122
+    - 400122
+    t_t_melee06_hammer2_cube8 1:
+    - 100124
+    - 400124
+    t_t_melee06_hammer2_cube3:
+    - 100126
+    - 400126
+    t_t_melee06_hammer2_pCube69:
+    - 100128
+    - 400128
+    - 3300052
+    - 2300052
+    - 13500052
+    t_t_melee06_hammer2_cube4:
+    - 100130
+    - 400130
+    t_t_melee06_hammer2_pCylinder2:
+    - 100132
+    - 400132
+    - 3300054
+    - 2300054
+    - 13500054
+    t_t_melee06_hammer2_cube129:
+    - 100134
+    - 400134
+    t_t_melee06_hammer2_pCube71:
+    - 100136
+    - 400136
+    - 3300056
+    - 2300056
+    - 13500056
+    t_t_melee06_hammer2_cube130:
+    - 100138
+    - 400138
+    t_t_melee06_hammer2_cube7 1:
+    - 100140
+    - 400140
+    t_t_melee06_hammer2_cube145:
+    - 100142
+    - 400142
+    t_t_melee06_hammer2_pSphere1 1:
+    - 100144
+    - 400144
+    - 3300058
+    - 2300058
+    - 13500058
+    t_t_melee06_hammer2_cube6 1:
+    - 100146
+    - 400146
+    t_t_melee06_hammer2_pPipe2:
+    - 100148
+    - 400148
+    - 3300060
+    - 2300060
+    - 13500060
+    t_t_melee06_hammer2_cube140:
+    - 100150
+    - 400150
+    t_t_melee06_hammer2_cube6:
+    - 100152
+    - 400152
+    //RootNode:
+    - 100154
+    - 400154
+    - 11100000
+    t_t_melee06_hammer2_cube146:
+    - 100156
+    - 400156
+    t_t_melee06_hammer2_cube139:
+    - 100158
+    - 400158
+    t_t_melee06_hammer2_cube131:
+    - 100160
+    - 400160
+    t_t_melee06_hammer2_cube144:
+    - 100162
+    - 400162
+    t_t_melee06_hammer2_pPipe1 1:
+    - 100164
+    - 400164
+    - 3300062
+    - 2300062
+    - 13500062
+    t_t_melee06_hammer2_cube148:
+    - 100166
+    - 400166
+    t_t_melee06_hammer2_pPipe1:
+    - 100168
+    - 400168
+    - 3300064
+    - 2300064
+    - 13500064
+    t_t_melee06_hammer2_pCube67:
+    - 100170
+    - 400170
+    - 3300066
+    - 2300066
+    - 13500066
+    t_t_melee06_hammer2_polySurface589:
+    - 100172
+    - 400172
+    - 3300068
+    - 2300068
+    - 13500068
+    t_t_melee06_hammer2_polySurface1501:
+    - 100174
+    - 400174
+    - 3300070
+    - 2300070
+    - 13500070
+    t_t_melee06_hammer2_polySurface1497 1:
+    - 100176
+    - 400176
+    - 3300072
+    - 2300072
+    - 13500072
+    t_t_melee06_hammer2_polySurface1505:
+    - 100178
+    - 400178
+    - 3300074
+    - 2300074
+    - 13500074
+    t_t_melee06_hammer2_pCylinder1 1:
+    - 100180
+    - 400180
+    - 3300076
+    - 2300076
+    - 13500076
+    t_t_melee06_hammer2_polySurface736 1:
+    - 100182
+    - 400182
+    - 3300078
+    - 2300078
+    - 13500078
+    t_t_melee06_hammer2_polySurface749:
+    - 100184
+    - 400184
+    - 3300080
+    - 2300080
+    - 13500080
+    t_t_melee06_hammer2_nurbsCircle5:
+    - 100186
+    - 400186
+    t_t_melee06_hammer2_polySurface628:
+    - 100188
+    - 400188
+    - 3300082
+    - 2300082
+    - 13500082
+    t_t_melee06_hammer2_nurbsCircle9:
+    - 100190
+    - 400190
+    t_t_melee06_hammer2_polySurface745 1:
+    - 100192
+    - 400192
+    - 3300084
+    - 2300084
+    - 13500084
+    t_t_melee06_hammer2_polySurface749 2:
+    - 100194
+    - 400194
+    - 3300086
+    - 2300086
+    - 13500086
+    t_t_melee06_hammer2_nurbsCircle9 1:
+    - 100196
+    - 400196
+    t_t_melee06_hammer2_polySurface746 1:
+    - 100198
+    - 400198
+    - 3300088
+    - 2300088
+    - 13500088
+    t_t_melee06_hammer2_polySurface739:
+    - 100200
+    - 400200
+    - 3300090
+    - 2300090
+    - 13500090
+    t_t_melee06_hammer2_polySurface742:
+    - 100202
+    - 400202
+    - 3300092
+    - 2300092
+    - 13500092
+    t_t_melee06_hammer2_nurbsCircle59:
+    - 100204
+    - 400204
+    t_t_melee06_hammer2_polySurface746:
+    - 100206
+    - 400206
+    - 3300094
+    - 2300094
+    - 13500094
+    t_t_melee06_hammer2_polySurface763:
+    - 100208
+    - 400208
+    - 3300096
+    - 2300096
+    - 13500096
+    t_t_melee06_hammer2_polySurface755:
+    - 100210
+    - 400210
+    - 3300098
+    - 2300098
+    - 13500098
+    t_t_melee06_hammer2_polySurface751:
+    - 100212
+    - 400212
+    - 3300100
+    - 2300100
+    - 13500100
+    t_t_melee06_hammer2_nurbsCircle13:
+    - 100214
+    - 400214
+    t_t_melee06_hammer2_polySurface742 1:
+    - 100216
+    - 400216
+    - 3300102
+    - 2300102
+    - 13500102
+    t_t_melee06_hammer2_polySurface623:
+    - 100218
+    - 400218
+    - 3300104
+    - 2300104
+    - 13500104
+    t_t_melee06_hammer2_polySurface624:
+    - 100220
+    - 400220
+    - 3300106
+    - 2300106
+    - 13500106
+    t_t_melee06_hammer2_nurbsCircle8:
+    - 100222
+    - 400222
+    t_t_melee06_hammer2_nurbsCircle4 1:
+    - 100224
+    - 400224
+    t_t_melee06_hammer2_nurbsCircle58:
+    - 100226
+    - 400226
+    t_t_melee06_hammer2_polySurface1504:
+    - 100228
+    - 400228
+    - 3300108
+    - 2300108
+    - 13500108
+    t_t_melee06_hammer2_polySurface630:
+    - 100230
+    - 400230
+    - 3300110
+    - 2300110
+    - 13500110
+    t_t_melee06_hammer2_polySurface1500:
+    - 100232
+    - 400232
+    - 3300112
+    - 2300112
+    - 13500112
+    t_t_melee06_hammer2_nurbsCircle5 1:
+    - 100234
+    - 400234
+    t_t_melee06_hammer2_polySurface587:
+    - 100236
+    - 400236
+    - 3300114
+    - 2300114
+    - 13500114
+    t_t_melee06_hammer2_t_melee06_hammer2_s:
+    - 100238
+    - 400238
+    t_t_melee06_hammer2_polySurface739 1:
+    - 100240
+    - 400240
+    - 3300116
+    - 2300116
+    - 13500116
+    t_t_melee06_hammer2_polySurface580 1:
+    - 100242
+    - 400242
+    - 3300118
+    - 2300118
+    - 13500118
+    t_t_melee06_hammer2_nurbsCircle7 1:
+    - 100244
+    - 400244
+    t_t_melee06_hammer2_polySurface573:
+    - 100246
+    - 400246
+    - 3300120
+    - 2300120
+    - 13500120
+    t_t_melee06_hammer2_polySurface570:
+    - 100248
+    - 400248
+    - 3300122
+    - 2300122
+    - 13500122
+    t_t_melee06_hammer2_polySurface752:
+    - 100250
+    - 400250
+    - 3300124
+    - 2300124
+    - 13500124
+    t_t_melee06_hammer2_nurbsCircle14:
+    - 100252
+    - 400252
+    t_t_melee06_hammer2_pCylinder2 1:
+    - 100254
+    - 400254
+    - 3300126
+    - 2300126
+    - 13500126
+    t_t_melee06_hammer2_polySurface1497:
+    - 100256
+    - 400256
+    - 3300128
+    - 2300128
+    - 13500128
+    t_t_melee06_hammer2_nurbsCircle7:
+    - 100258
+    - 400258
+    t_t_melee06_hammer2_polySurface580:
+    - 100260
+    - 400260
+    - 3300130
+    - 2300130
+    - 13500130
+    t_t_melee06_hammer2_nurbsCircle58 1:
+    - 100262
+    - 400262
+    t_t_melee06_hammer2_polySurface734 1:
+    - 100264
+    - 400264
+    - 3300132
+    - 2300132
+    - 13500132
+    t_t_melee06_hammer2_polySurface730 1:
+    - 100266
+    - 400266
+    t_t_melee06_hammer2_polySurface576:
+    - 100268
+    - 400268
+    - 3300134
+    - 2300134
+    - 13500134
+    t_t_melee06_hammer2_polySurface588:
+    - 100270
+    - 400270
+    - 3300136
+    - 2300136
+    - 13500136
+    t_t_melee06_hammer2_nurbsCircle6 1:
+    - 100272
+    - 400272
+    t_t_melee06_hammer2_polySurface756:
+    - 100274
+    - 400274
+    t_t_melee06_hammer2_polySurface766:
+    - 100276
+    - 400276
+    - 3300138
+    - 2300138
+    - 13500138
+    t_t_melee06_hammer2_polySurface1496 1:
+    - 100278
+    - 400278
+    t_t_melee06_hammer2_polySurface735 1:
+    - 100280
+    - 400280
+    - 3300140
+    - 2300140
+    - 13500140
+    t_t_melee06_hammer2_polySurface1498 1:
+    - 100282
+    - 400282
+    - 3300142
+    - 2300142
+    - 13500142
+    t_t_melee06_hammer2_nurbsCircle8 1:
+    - 100284
+    - 400284
+    t_t_melee06_hammer2_polySurface745:
+    - 100286
+    - 400286
+    - 3300144
+    - 2300144
+    - 13500144
+    t_t_melee06_hammer2_nurbsCircle60:
+    - 100288
+    - 400288
+    t_t_melee06_hammer2_polySurface622:
+    - 100290
+    - 400290
+    - 3300146
+    - 2300146
+    - 13500146
+    t_t_melee06_hammer2_polySurface765:
+    - 100292
+    - 400292
+    - 3300148
+    - 2300148
+    - 13500148
+    t_t_melee06_hammer2_polySurface734:
+    - 100294
+    - 400294
+    - 3300150
+    - 2300150
+    - 13500150
+    t_t_melee06_hammer2_nurbsCircle4:
+    - 100296
+    - 400296
+    t_t_melee06_hammer2_polySurface753:
+    - 100298
+    - 400298
+    - 3300152
+    - 2300152
+    - 13500152
+    t_t_melee06_hammer2_polySurface627:
+    - 100300
+    - 400300
+    - 3300154
+    - 2300154
+    - 13500154
+    t_t_melee06_hammer2_polySurface1493:
+    - 100302
+    - 400302
+    - 3300156
+    - 2300156
+    - 13500156
+    t_t_melee06_hammer2_polySurface632:
+    - 100304
+    - 400304
+    - 3300158
+    - 2300158
+    - 13500158
+    t_t_melee06_hammer2_polySurface764:
+    - 100306
+    - 400306
+    - 3300160
+    - 2300160
+    - 13500160
+    t_t_melee06_hammer2_polySurface736:
+    - 100308
+    - 400308
+    - 3300162
+    - 2300162
+    - 13500162
+    t_t_melee06_hammer2_polySurface1499:
+    - 100310
+    - 400310
+    - 3300164
+    - 2300164
+    - 13500164
+    t_t_melee06_hammer2_polySurface771:
+    - 100312
+    - 400312
+    t_t_melee06_hammer2_polySurface1503:
+    - 100314
+    - 400314
+    - 3300166
+    - 2300166
+    - 13500166
+    t_t_melee06_hammer2_polySurface1502:
+    - 100316
+    - 400316
+    t_t_melee06_hammer2_polySurface1495:
+    - 100318
+    - 400318
+    t_t_melee06_hammer2_polySurface1493 1:
+    - 100320
+    - 400320
+    - 3300168
+    - 2300168
+    - 13500168
+    t_t_melee06_hammer2_nurbsCircle1 1:
+    - 100322
+    - 400322
+    t_t_melee06_hammer2_nurbsCircle6:
+    - 100324
+    - 400324
+    t_t_melee06_hammer2_polySurface627 1:
+    - 100326
+    - 400326
+    - 3300170
+    - 2300170
+    - 13500170
+    t_t_melee06_hammer2_polySurface753 1:
+    - 100328
+    - 400328
+    - 3300172
+    - 2300172
+    - 13500172
+    t_t_melee06_hammer2_polySurface735:
+    - 100330
+    - 400330
+    - 3300174
+    - 2300174
+    - 13500174
+    t_t_melee06_hammer2_polySurface1496:
+    - 100332
+    - 400332
+    t_t_melee06_hammer2_polySurface767:
+    - 100334
+    - 400334
+    - 3300176
+    - 2300176
+    - 13500176
+    t_t_melee06_hammer2_polySurface1498:
+    - 100336
+    - 400336
+    - 3300178
+    - 2300178
+    - 13500178
+    t_t_melee06_hammer2_polySurface749 3:
+    - 100338
+    - 400338
+    - 3300180
+    - 2300180
+    - 13500180
+    t_t_melee06_hammer2_polySurface568:
+    - 100340
+    - 400340
+    - 3300182
+    - 2300182
+    - 13500182
+    t_t_melee06_hammer2_polySurface730:
+    - 100342
+    - 400342
+    t_t_melee06_hammer2_polySurface749 1:
+    - 100344
+    - 400344
+    - 3300184
+    - 2300184
+    - 13500184
+    t_t_melee06_hammer2_polySurface1499 1:
+    - 100346
+    - 400346
+    - 3300186
+    - 2300186
+    - 13500186
+    t_t_melee06_hammer2_polySurface628 1:
+    - 100348
+    - 400348
+    - 3300188
+    - 2300188
+    - 13500188
+    t_t_melee06_hammer2_nurbsCircle1:
+    - 100350
+    - 400350
+    t_polySurface1:
+    - 100352
+    - 400352
+    - 13700000
+    t_hammer_fx_g:
+    - 100354
+    - 400354
+    t_joint1:
+    - 100356
+    - 400356
+    t_transform2:
+    - 100358
+    - 400358
+    t_joint2:
+    - 100360
+    - 400360
+    t_transform1:
+    - 100362
+    - 400362
+    t_transform3:
+    - 100364
+    - 400364
+    t_polySurface2:
+    - 100366
+    - 400366
+    - 3300190
+    - 2300190
+    - 13500190
+    rotate_x:
+    - 100368
+    - 400368
+    - 11400000
+    rotate_y:
+    - 100370
+    - 400370
+    - 11400002
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: t_polySurface1506
+    4300002: t_polySurface1507
+    4300004: t_t_melee06_hammer2_pPlane6
+    4300006: t_t_melee06_hammer2_polySurface587
+    4300008: t_t_melee06_hammer2_polySurface588
+    4300010: t_t_melee06_hammer2_polySurface576
+    4300012: t_t_melee06_hammer2_polySurface624
+    4300014: t_t_melee06_hammer2_polySurface623
+    4300016: t_t_melee06_hammer2_polySurface765
+    4300018: t_t_melee06_hammer2_polySurface622
+    4300020: t_t_melee06_hammer2_polySurface766
+    4300022: t_t_melee06_hammer2_polySurface1500
+    4300024: t_t_melee06_hammer2_polySurface630
+    4300026: t_t_melee06_hammer2_polySurface764
+    4300028: t_t_melee06_hammer2_polySurface632
+    4300030: t_t_melee06_hammer2_polySurface755
+    4300032: t_t_melee06_hammer2_polySurface763
+    4300034: t_t_melee06_hammer2_polySurface570
+    4300036: t_t_melee06_hammer2_polySurface573
+    4300038: t_t_melee06_hammer2_pCube75
+    4300040: t_t_melee06_hammer2_pCube74
+    4300042: t_t_melee06_hammer2_pCube75
+    4300044: t_t_melee06_hammer2_pCube74
+    4300046: t_t_melee06_hammer2_polySurface751
+    4300048: t_t_melee06_hammer2_polySurface752
+    4300050: t_t_melee06_hammer2_polySurface1503
+    4300052: t_t_melee06_hammer2_polySurface1504
+    4300054: t_t_melee06_hammer2_polySurface1493
+    4300056: t_t_melee06_hammer2_polySurface627
+    4300058: t_t_melee06_hammer2_pSphere1
+    4300060: t_t_melee06_hammer2_polySurface753
+    4300062: t_t_melee06_hammer2_pCylinder1
+    4300064: t_t_melee06_hammer2_polySurface736
+    4300066: t_t_melee06_hammer2_polySurface735
+    4300068: t_t_melee06_hammer2_polySurface734
+    4300070: t_t_melee06_hammer2_pSphere2
+    4300072: t_t_melee06_hammer2_polySurface746
+    4300074: t_t_melee06_hammer2_polySurface745
+    4300076: t_t_melee06_hammer2_pCylinder39
+    4300078: t_t_melee06_hammer2_pCylinder41
+    4300080: t_t_melee06_hammer2_pSphere4
+    4300082: t_t_melee06_hammer2_pCylinder40
+    4300084: t_t_melee06_hammer2_pCylinder36
+    4300086: t_t_melee06_hammer2_pSphere5
+    4300088: t_t_melee06_hammer2_pCylinder35
+    4300090: t_t_melee06_hammer2_pSphere6
+    4300092: t_t_melee06_hammer2_pCylinder38
+    4300094: t_t_melee06_hammer2_pCube66
+    4300096: t_t_melee06_hammer2_pCube68
+    4300098: t_t_melee06_hammer2_pCube70
+    4300100: t_t_melee06_hammer2_pCube73
+    4300102: t_t_melee06_hammer2_pCube67
+    4300104: t_t_melee06_hammer2_pCube72
+    4300106: t_t_melee06_hammer2_pCube71
+    4300108: t_t_melee06_hammer2_pCube69
+    4300110: t_polySurface2
+    4300112: t_t_melee06_hammer2_polySurface739
+    4300114: t_t_melee06_hammer2_polySurface742
+    4300116: t_t_melee06_hammer2_polySurface749
+    4300118: t_t_melee06_hammer2_polySurface749
+    4300120: t_t_melee06_hammer2_polySurface1498
+    4300122: t_t_melee06_hammer2_pCylinder2
+    4300124: t_t_melee06_hammer2_polySurface628
+    4300126: t_t_melee06_hammer2_polySurface1499
+    4300128: t_t_melee06_hammer2_polySurface1497
+    4300130: t_t_melee06_hammer2_polySurface580
+    4300132: t_t_melee06_hammer2_polySurface1493
+    4300134: t_t_melee06_hammer2_polySurface627
+    4300136: t_t_melee06_hammer2_pSphere1
+    4300138: t_t_melee06_hammer2_polySurface753
+    4300140: t_t_melee06_hammer2_pCylinder1
+    4300142: t_t_melee06_hammer2_polySurface736
+    4300144: t_t_melee06_hammer2_polySurface735
+    4300146: t_t_melee06_hammer2_polySurface734
+    4300148: t_t_melee06_hammer2_pSphere2
+    4300150: t_t_melee06_hammer2_polySurface746
+    4300152: t_t_melee06_hammer2_polySurface739
+    4300154: t_t_melee06_hammer2_polySurface742
+    4300156: t_t_melee06_hammer2_polySurface745
+    4300158: t_t_melee06_hammer2_polySurface749
+    4300160: t_t_melee06_hammer2_polySurface749
+    4300162: t_t_melee06_hammer2_pPipe2
+    4300164: t_t_melee06_hammer2_pPipe1
+    4300166: t_t_melee06_hammer2_pPipe2
+    4300168: t_t_melee06_hammer2_pPipe1
+    4300170: t_t_melee06_hammer2_polySurface1498
+    4300172: t_t_melee06_hammer2_pCylinder2
+    4300174: t_t_melee06_hammer2_polySurface628
+    4300176: t_t_melee06_hammer2_polySurface1499
+    4300178: t_t_melee06_hammer2_polySurface1497
+    4300180: t_t_melee06_hammer2_polySurface580
+    4300182: t_t_melee06_hammer2_polySurface1505
+    4300184: t_t_melee06_hammer2_polySurface568
+    4300186: t_t_melee06_hammer2_polySurface767
+    4300188: t_t_melee06_hammer2_polySurface1501
+    4300190: t_t_melee06_hammer2_polySurface589
+    4300192: t_polySurface1
+    7400000: Take 001 //// t_melee06_hammer2_n
+    7400002: Take 001 //// t_melee06_hammer2
+    7400004: Build //// t_melee06_hammer2
+    7400006: Idle0 //// t_melee06_hammer2
+    7400008: Idle1 //// t_melee06_hammer2
+    7400010: Attack0 //// t_melee06_hammer2
+    7400012: Attack1 //// t_melee06_hammer2
+    7400014: Attack2 //// t_melee06_hammer2
+    7400016: Destroy //// t_melee06_hammer2
+    7400018: NormalPose //// t_melee06_hammer2
+    7400020: NormalBody //// t_melee06_hammer2

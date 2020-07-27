@@ -1,0 +1,6 @@
+fileFormatVersion: 1
+guid: 3d1e7d368540c2d4d95c8649067b8d2b
+MonoImporter:
+  importerVersion: 1
+  defaultReferences:
+    shader: {fileID: 4800000, guid: 8cb5331d00d4e024fb1ee8a5ba9e7cfe, type: 1}

@@ -1,0 +1,38 @@
+fileFormatVersion: 1
+guid: 78fd6eb2b81874e43ab75e1e7f5ae10e
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 1
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    b_stage11_b:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 6400000
+    //RootNode:
+    - 100002
+    - 400002
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: b_stage11_b

@@ -1,0 +1,184 @@
+fileFormatVersion: 1
+guid: 8a22e7aac728180478750d8904d3095c
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      open:
+        firstFrame: 1
+        lastFrame: 56
+        loop: 0
+        wrapMode: 0
+      close:
+        firstFrame: 81
+        lastFrame: 136
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    act01_pr01_turret_gate_v2:t:pCube5:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    act01_pr01_turret_gate_v2:Guard_Rail:
+    - 100002
+    - 400002
+    act01_pr01_turret_gate_v2:pCube5 1:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+    - 13500002
+    act01_pr01_turret_gate_v2:pCube5 7:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    - 13500004
+    act01_pr01_turret_gate_v2:pCube3:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    - 13500006
+    act01_pr01_turret_gate_v2:pCube5 2:
+    - 100010
+    - 400010
+    - 3300008
+    - 2300008
+    - 13500008
+    act01_pr01_turret_gate_v2:r_cube9:
+    - 100012
+    - 400012
+    act01_pr01_turret_gate_v2:pCube7:
+    - 100014
+    - 400014
+    - 3300010
+    - 2300010
+    - 13500010
+    act01_pr01_turret_gate_v2:group3:
+    - 100016
+    - 400016
+    act01_pr01_turret_gate_v2:group1:
+    - 100018
+    - 400018
+    act01_pr01_turret_gate_v2:pCube5 6:
+    - 100020
+    - 400020
+    - 3300012
+    - 2300012
+    - 13500012
+    act01_pr01_turret_gate_v2:r_cube2:
+    - 100022
+    - 400022
+    act01_pr01_turret_gate_v2:l_cube6:
+    - 100024
+    - 400024
+    act01_pr01_turret_gate_v2:pCube5 4:
+    - 100026
+    - 400026
+    - 3300014
+    - 2300014
+    - 13500014
+    act01_pr01_turret_gate_v2:pCube5 3:
+    - 100028
+    - 400028
+    - 3300016
+    - 2300016
+    - 13500016
+    act01_pr01_turret_gate_v2:group2:
+    - 100030
+    - 400030
+    act01_pr01_turret_gate_v2:group5:
+    - 100032
+    - 400032
+    act01_pr01_turret_gate_v2:pCube5:
+    - 100034
+    - 400034
+    - 3300018
+    - 2300018
+    - 13500018
+    act01_pr01_turret_gate_v2:l_cube3:
+    - 100036
+    - 400036
+    act01_pr01_turret_gate_v2:r_cube4:
+    - 100038
+    - 400038
+    act01_pr01_turret_gate_v2:group4:
+    - 100040
+    - 400040
+    act01_pr01_turret_gate_v2:l_cube2:
+    - 100042
+    - 400042
+    act01_pr01_turret_gate_v2:pCube5 8:
+    - 100044
+    - 400044
+    - 3300020
+    - 2300020
+    - 13500020
+    act01_pr01_turret_gate_v2:pCube5 5:
+    - 100046
+    - 400046
+    - 3300022
+    - 2300022
+    - 13500022
+    act01_pr01_turret_gate_v2:turret_light:gate_light:
+    - 100048
+    - 400048
+    act01_pr01_turret_gate_v2:cube8:
+    - 100050
+    - 400050
+    act01_pr01_turret_gate_v2:gm:
+    - 100052
+    - 400052
+    //RootNode:
+    - 100054
+    - 400054
+    - 11100000
+    act01_pr01_turret_gate_v2:cube3:
+    - 100056
+    - 400056
+    act01_pr01_turret_gate_v2:cube7:
+    - 100058
+    - 400058
+    act01_pr01_turret_gate_v2:cube5:
+    - 100060
+    - 400060
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: act01_pr01_turret_gate_v2:pCube3
+    4300002: act01_pr01_turret_gate_v2:pCube7
+    4300004: act01_pr01_turret_gate_v2:pCube5
+    4300006: act01_pr01_turret_gate_v2:pCube5
+    4300008: act01_pr01_turret_gate_v2:pCube5
+    4300010: act01_pr01_turret_gate_v2:pCube5
+    4300012: act01_pr01_turret_gate_v2:pCube5
+    4300014: act01_pr01_turret_gate_v2:pCube5
+    4300016: act01_pr01_turret_gate_v2:t:pCube5
+    4300018: act01_pr01_turret_gate_v2:pCube5
+    4300020: act01_pr01_turret_gate_v2:pCube5
+    4300022: act01_pr01_turret_gate_v2:pCube5
+    7400000: Take 001 //// act01_pr01_turret_gate_v4
+    7400002: idle //// act01_pr01_turret_gate_v4
+    7400004: open //// act01_pr01_turret_gate_v4
+    7400006: close //// act01_pr01_turret_gate_v4

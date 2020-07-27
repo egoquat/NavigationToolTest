@@ -1,0 +1,173 @@
+fileFormatVersion: 1
+guid: b4f0c8c1ea81c564fbc1468177f4278b
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      spawn:
+        firstFrame: 1
+        lastFrame: 30
+        loop: 0
+        wrapMode: 0
+      move:
+        firstFrame: 31
+        lastFrame: 90
+        loop: 0
+        wrapMode: 0
+      attack:
+        firstFrame: 221
+        lastFrame: 330
+        loop: 0
+        wrapMode: 0
+      die:
+        firstFrame: 391
+        lastFrame: 428
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    e_sky_bio01:joint26:
+    - 100000
+    - 400000
+    e_sky_bio01:joint30:
+    - 100002
+    - 400002
+    e_sky_bio01:joint29:
+    - 100004
+    - 400004
+    e_sky_bio01:joint27:
+    - 100006
+    - 400006
+    e_sky_bio01:joint28:
+    - 100008
+    - 400008
+    e_sky_bio01:joint3:
+    - 100010
+    - 400010
+    e_sky_bio01:joint31:
+    - 100012
+    - 400012
+    e_sky_bio01:joint5:
+    - 100014
+    - 400014
+    e_sky_bio01:joint33:
+    - 100016
+    - 400016
+    e_sky_bio01:workbio02:Object002:
+    - 100018
+    - 400018
+    e_sky_bio01:joint4:
+    - 100020
+    - 400020
+    e_sky_bio01:joint32:
+    - 100022
+    - 400022
+    e_sky_bio01:joint6:
+    - 100024
+    - 400024
+    e_sky_bio01:joint1:
+    - 100026
+    - 400026
+    e_sky_bio01:joint2:
+    - 100028
+    - 400028
+    e_sky_bio01:joint25:
+    - 100030
+    - 400030
+    e_sky_bio01:joint24:
+    - 100032
+    - 400032
+    e_sky_bio01:joint23:
+    - 100034
+    - 400034
+    e_sky_bio01:joint22:
+    - 100036
+    - 400036
+    e_sky_bio01:joint21:
+    - 100038
+    - 400038
+    e_sky_bio01:joint18:
+    - 100040
+    - 400040
+    e_sky_bio01:joint17:
+    - 100042
+    - 400042
+    e_sky_bio01:joint20:
+    - 100044
+    - 400044
+    e_sky_bio01:joint19:
+    - 100046
+    - 400046
+    e_sky_bio01:joint16:
+    - 100048
+    - 400048
+    e_sky_bio01:joint15:
+    - 100050
+    - 400050
+    e_sky_bio01:joint14:
+    - 100052
+    - 400052
+    e_sky_bio01:joint13:
+    - 100054
+    - 400054
+    e_sky_bio01:joint12:
+    - 100056
+    - 400056
+    e_sky_bio01:joint11:
+    - 100058
+    - 400058
+    e_sky_bio01:joint10:
+    - 100060
+    - 400060
+    e_sky_bio01:joint9:
+    - 100062
+    - 400062
+    e_sky_bio01:joint8:
+    - 100064
+    - 400064
+    e_sky_bio01:joint7:
+    - 100066
+    - 400066
+    - 13700000
+    e_sky_bio01:e_sky_bio01_s:
+    - 100068
+    - 400068
+    e_sky_bio01:e_sky_bio01_m:
+    - 100070
+    - 400070
+    //RootNode:
+    - 100072
+    - 400072
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: e_sky_bio01:workbio02:Object002
+    7400000: Take 001 //// e_sky_bio01
+    7400002: fly //// e_sky_bio01
+    7400004: attack //// e_sky_bio01
+    7400006: die //// e_sky_bio01
+    7400008: spawn //// e_sky_bio01
+    7400010: attackin //// e_sky_bio01
+    7400012: idle01 //// e_sky_bio01
+    7400014: idle012 //// e_sky_bio01
+    7400016: walking //// e_sky_bio01
+    7400018: attacking //// e_sky_bio01
+    7400020: move //// e_sky_bio01

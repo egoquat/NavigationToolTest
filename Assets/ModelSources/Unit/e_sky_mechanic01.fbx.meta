@@ -1,0 +1,331 @@
+fileFormatVersion: 1
+guid: fa6f0bb01c0c70b409fca3f2c0941ded
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      move:
+        firstFrame: 1
+        lastFrame: 120
+        loop: 0
+        wrapMode: 0
+      attack:
+        firstFrame: 291
+        lastFrame: 296
+        loop: 0
+        wrapMode: 2
+      die:
+        firstFrame: 331
+        lastFrame: 390
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    t_polySurface94:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    t_polySurface93:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 13500002
+    t_polySurface88:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    - 13500004
+    t_polySurface75:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    - 13500006
+    t_polySurface81:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    - 13500008
+    t_polySurface84:
+    - 100010
+    - 400010
+    - 3300010
+    - 2300010
+    - 13500010
+    t_polySurface86:
+    - 100012
+    - 400012
+    - 3300012
+    - 2300012
+    - 13500012
+    t_polySurface87:
+    - 100014
+    - 400014
+    - 3300014
+    - 2300014
+    - 13500014
+    t_polySurface82:
+    - 100016
+    - 400016
+    - 3300016
+    - 2300016
+    - 13500016
+    t_polySurface91:
+    - 100018
+    - 400018
+    - 3300018
+    - 2300018
+    - 13500018
+    t_cube4 1:
+    - 100020
+    - 400020
+    t_polySurface85:
+    - 100022
+    - 400022
+    - 3300020
+    - 2300020
+    - 13500020
+    t_polySurface92:
+    - 100024
+    - 400024
+    - 3300022
+    - 2300022
+    - 13500022
+    t_transform2:
+    - 100026
+    - 400026
+    - 3300024
+    - 2300024
+    - 13500024
+    t_polySurface76:
+    - 100028
+    - 400028
+    - 3300026
+    - 2300026
+    - 13500026
+    t_polySurface77:
+    - 100030
+    - 400030
+    - 3300028
+    - 2300028
+    - 13500028
+    t_polySurface78:
+    - 100032
+    - 400032
+    - 3300030
+    - 2300030
+    - 13500030
+    t_polySurface79:
+    - 100034
+    - 400034
+    - 3300032
+    - 2300032
+    - 13500032
+    t_cube1 1:
+    - 100036
+    - 400036
+    t_cube3 1:
+    - 100038
+    - 400038
+    t_cube2 1:
+    - 100040
+    - 400040
+    t_group3:
+    - 100042
+    - 400042
+    t_polySurface89:
+    - 100044
+    - 400044
+    - 3300034
+    - 2300034
+    - 13500034
+    t_cube4:
+    - 100046
+    - 400046
+    t_polySurface83:
+    - 100048
+    - 400048
+    - 3300036
+    - 2300036
+    - 13500036
+    t_polySurface90:
+    - 100050
+    - 400050
+    - 3300038
+    - 2300038
+    - 13500038
+    t_polySurface54:
+    - 100052
+    - 400052
+    t_nurbsCircle7:
+    - 100054
+    - 400054
+    t_polySurface66:
+    - 100056
+    - 400056
+    - 3300040
+    - 2300040
+    - 13500040
+    t_polySurface67:
+    - 100058
+    - 400058
+    - 3300042
+    - 2300042
+    - 13500042
+    t_polySurface68:
+    - 100060
+    - 400060
+    - 3300044
+    - 2300044
+    - 13500044
+    t_polySurface69:
+    - 100062
+    - 400062
+    - 3300046
+    - 2300046
+    - 13500046
+    t_cube1:
+    - 100064
+    - 400064
+    t_cube3:
+    - 100066
+    - 400066
+    t_cube2:
+    - 100068
+    - 400068
+    t_nurbsCircle1:
+    - 100070
+    - 400070
+    t_group2:
+    - 100072
+    - 400072
+    t_polySurface70:
+    - 100074
+    - 400074
+    - 3300048
+    - 2300048
+    - 13500048
+    t_polySurface71:
+    - 100076
+    - 400076
+    - 3300050
+    - 2300050
+    - 13500050
+    t_polySurface72:
+    - 100078
+    - 400078
+    - 3300052
+    - 2300052
+    - 13500052
+    t_polySurface74:
+    - 100080
+    - 400080
+    - 3300054
+    - 2300054
+    - 13500054
+    t_polySurface73:
+    - 100082
+    - 400082
+    - 3300056
+    - 2300056
+    - 13500056
+    t_polySurface80:
+    - 100084
+    - 400084
+    - 3300058
+    - 2300058
+    - 13500058
+    t_nurbsCircle6:
+    - 100086
+    - 400086
+    t_nurbsCircle5:
+    - 100088
+    - 400088
+    t_nurbsCircle10:
+    - 100090
+    - 400090
+    t_e_sky_mechanic_01_polySurfaceShape94:
+    - 100092
+    - 400092
+    t_sky_mechanic01_s:
+    - 100094
+    - 400094
+    t_nurbsCircle1 1:
+    - 100096
+    - 400096
+    t_nurbsCircle7 1:
+    - 100098
+    - 400098
+    //RootNode:
+    - 100100
+    - 400100
+    - 11100000
+    t_polySurface54 1:
+    - 100102
+    - 400102
+    t_nurbsCircle3:
+    - 100104
+    - 400104
+    t_nurbsCircle2:
+    - 100106
+    - 400106
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: t_polySurface80
+    4300002: t_polySurface73
+    4300004: t_polySurface74
+    4300006: t_polySurface72
+    4300008: t_polySurface71
+    4300010: t_polySurface70
+    4300012: t_polySurface69
+    4300014: t_polySurface68
+    4300016: t_polySurface67
+    4300018: t_polySurface66
+    4300020: t_polySurface90
+    4300022: t_polySurface83
+    4300024: t_polySurface89
+    4300026: t_polySurface79
+    4300028: t_polySurface78
+    4300030: t_polySurface77
+    4300032: t_polySurface76
+    4300034: t_transform2
+    4300036: t_polySurface92
+    4300038: t_polySurface85
+    4300040: t_polySurface91
+    4300042: t_polySurface82
+    4300044: t_polySurface87
+    4300046: t_polySurface86
+    4300048: t_polySurface84
+    4300050: t_polySurface81
+    4300052: t_polySurface75
+    4300054: t_polySurface88
+    4300056: t_polySurface93
+    4300058: t_polySurface94
+    7400000: Take 001 //// e_sky_mechanic01
+    7400002: fly //// e_sky_mechanic01
+    7400004: attack //// e_sky_mechanic01
+    7400006: die //// e_sky_mechanic01
+    7400008: move //// e_sky_mechanic01

@@ -1,0 +1,633 @@
+fileFormatVersion: 1
+guid: 81ca81c162354234a922b77255905cfd
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      Idle0:
+        firstFrame: 541
+        lastFrame: 600
+        loop: 0
+        wrapMode: 0
+      Attack0:
+        firstFrame: 301
+        lastFrame: 316
+        loop: 0
+        wrapMode: 0
+      Destroy:
+        firstFrame: 921
+        lastFrame: 938
+        loop: 0
+        wrapMode: 0
+      NormalPose:
+        firstFrame: 171
+        lastFrame: 217
+        loop: 0
+        wrapMode: 0
+      NormalBody:
+        firstFrame: 851
+        lastFrame: 897
+        loop: 0
+        wrapMode: 0
+      Idle1:
+        firstFrame: 601
+        lastFrame: 680
+        loop: 0
+        wrapMode: 0
+      Idle2:
+        firstFrame: 701
+        lastFrame: 790
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    t:t_machine02_gun:cube29:
+    - 100000
+    - 400000
+    t:t_machine02_gun:pCylinder1:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    - 13500000
+    t:t_machine02_gun:group42:
+    - 100004
+    - 400004
+    t:t_machine02_gun:nurbsCircle19:
+    - 100006
+    - 400006
+    t:t_machine02_gun:cube24:
+    - 100008
+    - 400008
+    t:t_machine02_gun:cube24 1:
+    - 100010
+    - 400010
+    t:t_machine02_gun:group80:
+    - 100012
+    - 400012
+    t:t_machine02_gun:group78:
+    - 100014
+    - 400014
+    t:t_machine02_gun:cube36:
+    - 100016
+    - 400016
+    t:t_machine02_gun:cube34:
+    - 100018
+    - 400018
+    t:t_machine02_gun:pCube39:
+    - 100020
+    - 400020
+    - 3300002
+    - 2300002
+    - 13500002
+    t:t_machine02_gun:group46:
+    - 100022
+    - 400022
+    t:t_machine02_gun:group23:
+    - 100024
+    - 400024
+    t:t_machine02_gun:group85 1:
+    - 100026
+    - 400026
+    t:t_machine02_gun:cube42:
+    - 100028
+    - 400028
+    t:t_machine02_gun:cube21:
+    - 100030
+    - 400030
+    t:t_machine02_gun:cube41:
+    - 100032
+    - 400032
+    t:t_machine02_gun:cube30:
+    - 100034
+    - 400034
+    t:t_machine02_gun:group24 2:
+    - 100036
+    - 400036
+    t:t_machine02_gun:group81:
+    - 100038
+    - 400038
+    t:t_machine02_gun:cube37:
+    - 100040
+    - 400040
+    t:t_machine02_gun:cube35:
+    - 100042
+    - 400042
+    t:t_machine02_gun:cube25:
+    - 100044
+    - 400044
+    t:t_machine02_gun:pCube39 1:
+    - 100046
+    - 400046
+    - 3300004
+    - 2300004
+    - 13500004
+    t:t_machine02_gun:pCylinder15:
+    - 100048
+    - 400048
+    - 3300006
+    - 2300006
+    - 13500006
+    //RootNode:
+    - 100050
+    - 400050
+    - 11100000
+    t:t_machine02_gun:cube28:
+    - 100052
+    - 400052
+    t:t_machine02_gun:group73:
+    - 100054
+    - 400054
+    t:t_machine02_gun:group78 1:
+    - 100056
+    - 400056
+    t:t_machine02_gun:nurbsCircle18:
+    - 100058
+    - 400058
+    t:t_machine02_gun:pPlane6:
+    - 100060
+    - 400060
+    - 3300008
+    - 2300008
+    - 13500008
+    t:t_machine02_gun:group23 1:
+    - 100062
+    - 400062
+    t:t_machine02_gun:group23 2:
+    - 100064
+    - 400064
+    t:t_machine02_gun:cube37 1:
+    - 100066
+    - 400066
+    t:t_machine02_gun:group26:
+    - 100068
+    - 400068
+    t:t_machine02_gun:pCylinder10:
+    - 100070
+    - 400070
+    - 3300010
+    - 2300010
+    - 13500010
+    t:t_machine02_gun:cube41 1:
+    - 100072
+    - 400072
+    t:t_machine02_gun:group45:
+    - 100074
+    - 400074
+    t:t_machine02_gun:nurbsCircle21:
+    - 100076
+    - 400076
+    t:t_machine02_gun:cube42 1:
+    - 100078
+    - 400078
+    t:t_machine02_gun:ki_pan:
+    - 100080
+    - 400080
+    t:t_machine02_gun:cube22:
+    - 100082
+    - 400082
+    t:t_machine02_gun:group84:
+    - 100084
+    - 400084
+    t:t_machine02_gun:pCube40:
+    - 100086
+    - 400086
+    - 3300012
+    - 2300012
+    - 13500012
+    t:t_machine02_gun:group93:
+    - 100088
+    - 400088
+    t:t_machine02_gun:group24:
+    - 100090
+    - 400090
+    t:t_machine02_gun:pCylinder12 1:
+    - 100092
+    - 400092
+    - 3300014
+    - 2300014
+    - 13500014
+    t:t_machine02_gun:group34:
+    - 100094
+    - 400094
+    t:t_machine02_gun:rotate_y:
+    - 100096
+    - 400096
+    t:t_machine02_gun:group24 1:
+    - 100098
+    - 400098
+    t:t_machine02_gun:pCylinder11:
+    - 100100
+    - 400100
+    - 3300016
+    - 2300016
+    - 13500016
+    t:t_machine02_gun:group38:
+    - 100102
+    - 400102
+    t:t_machine02_gun:pCylinder9:
+    - 100104
+    - 400104
+    - 3300018
+    - 2300018
+    - 13500018
+    t:t_machine02_gun:group29:
+    - 100106
+    - 400106
+    t:t_machine02_gun:pCylinder12:
+    - 100108
+    - 400108
+    - 3300020
+    - 2300020
+    - 13500020
+    t:t_machine02_gun:cube25 1:
+    - 100110
+    - 400110
+    t:t_machine02_gun:cube31:
+    - 100112
+    - 400112
+    t:t_machine02_gun:nurbsCircle30:
+    - 100114
+    - 400114
+    t:t_machine02_gun:rotate_x:
+    - 100116
+    - 400116
+    t:t_machine02_gun:nurbsCircle15:
+    - 100118
+    - 400118
+    t:t_machine02_gun:group79:
+    - 100120
+    - 400120
+    t:t_machine02_gun:group87:
+    - 100122
+    - 400122
+    t:t_machine02_gun:pCylinder8:
+    - 100124
+    - 400124
+    - 3300022
+    - 2300022
+    - 13500022
+    t:t_machine02_gun:group32:
+    - 100126
+    - 400126
+    t:t_machine02_gun:pCube1:
+    - 100128
+    - 400128
+    - 3300024
+    - 2300024
+    - 13500024
+    t:t_machine02_gun:pCylinder13:
+    - 100130
+    - 400130
+    - 3300026
+    - 2300026
+    - 13500026
+    t:t_machine02_gun:nurbsCircle17:
+    - 100132
+    - 400132
+    t:t_machine02_gun:group92:
+    - 100134
+    - 400134
+    t:t_machine02_gun:group85:
+    - 100136
+    - 400136
+    t:t_machine02_gun:cube23:
+    - 100138
+    - 400138
+    t:t_machine02_gun:cube26:
+    - 100140
+    - 400140
+    t:t_machine02_gun:cube20:
+    - 100142
+    - 400142
+    t:t_machine02_gun:cube32:
+    - 100144
+    - 400144
+    t:t_machine02_gun:group91:
+    - 100146
+    - 400146
+    t:t_machine02_gun:group33:
+    - 100148
+    - 400148
+    t:t_machine02_gun:group41:
+    - 100150
+    - 400150
+    t:t_machine02_gun:nurbsCircle16:
+    - 100152
+    - 400152
+    t:t_machine02_gun:machine_gun_level3_geo56:
+    - 100154
+    - 400154
+    - 3300028
+    - 2300028
+    - 13500028
+    t:t_machine02_gun:polySurface1510:
+    - 100156
+    - 400156
+    - 3300030
+    - 2300030
+    - 13500030
+    t:t_machine02_gun:machine_gun_level3_geo11:
+    - 100158
+    - 400158
+    - 3300032
+    - 2300032
+    - 13500032
+    t:t_machine02_gun:polySurface1354 1:
+    - 100160
+    - 400160
+    - 3300034
+    - 2300034
+    - 13500034
+    t:t_machine02_gun:machine_gun_level5_geo92:
+    - 100162
+    - 400162
+    - 3300036
+    - 2300036
+    - 13500036
+    t:t_machine02_gun:nurbsCircle21 1:
+    - 100164
+    - 400164
+    t:t_machine02_gun:machine_gun_level3_geo53:
+    - 100166
+    - 400166
+    - 3300038
+    - 2300038
+    - 13500038
+    t:t_machine02_gun:machine_gun_level2_geo74:
+    - 100168
+    - 400168
+    - 3300040
+    - 2300040
+    - 13500040
+    t:t_machine02_gun:polySurface1349:
+    - 100170
+    - 400170
+    - 3300042
+    - 2300042
+    - 13500042
+    t:t_machine02_gun:machine_gun_level3_geo11 1:
+    - 100172
+    - 400172
+    - 3300044
+    - 2300044
+    - 13500044
+    t:t_machine02_gun:polySurface1347:
+    - 100174
+    - 400174
+    t:t_machine02_gun:nurbsCircle15 1:
+    - 100176
+    - 400176
+    t:t_machine02_gun:polySurface1355 1:
+    - 100178
+    - 400178
+    - 3300046
+    - 2300046
+    - 13500046
+    t:t_machine02_gun:nurbsCircle19 1:
+    - 100180
+    - 400180
+    t:t_machine02_gun:polySurface1349 1:
+    - 100182
+    - 400182
+    - 3300048
+    - 2300048
+    - 13500048
+    t:t_machine02_gun:machine_gun_level3_geo12:
+    - 100184
+    - 400184
+    - 3300050
+    - 2300050
+    - 13500050
+    t:t_machine02_gun:machine_gun_level3_geo31:
+    - 100186
+    - 400186
+    t:t_machine02_gun:machine_gun_level3_geo64:
+    - 100188
+    - 400188
+    - 3300052
+    - 2300052
+    - 13500052
+    t:t_machine02_gun:machine_gun_level3_geo63:
+    - 100190
+    - 400190
+    - 3300054
+    - 2300054
+    - 13500054
+    t:t_machine02_gun:machine_gun_level3_geo70 1:
+    - 100192
+    - 400192
+    - 3300056
+    - 2300056
+    - 13500056
+    t:t_machine02_gun:machine_gun_level3_geo13:
+    - 100194
+    - 400194
+    - 3300058
+    - 2300058
+    - 13500058
+    t:t_machine02_gun:machine_gun_level2_geo69:
+    - 100196
+    - 400196
+    - 3300060
+    - 2300060
+    - 13500060
+    t:t_machine02_gun:machine_gun_level2_geo72 1:
+    - 100198
+    - 400198
+    - 3300062
+    - 2300062
+    - 13500062
+    t:t_machine02_gun:polySurface1354:
+    - 100200
+    - 400200
+    - 3300064
+    - 2300064
+    - 13500064
+    t:t_machine02_gun:machine_gun_level3_geo9:
+    - 100202
+    - 400202
+    - 3300066
+    - 2300066
+    - 13500066
+    t:t_machine02_gun:machine_gun_level3_geo73:
+    - 100204
+    - 400204
+    - 3300068
+    - 2300068
+    - 13500068
+    t:t_machine02_gun:machine_gun_level3_geo53 1:
+    - 100206
+    - 400206
+    - 3300070
+    - 2300070
+    - 13500070
+    t:t_machine02_gun:polySurface1511:
+    - 100210
+    - 400210
+    - 3300074
+    - 2300074
+    - 13500074
+    t:t_machine02_gun:machine_gun_level3_geo14:
+    - 100212
+    - 400212
+    - 3300076
+    - 2300076
+    - 13500076
+    t:t_machine02_gun:machine_gun_level2_geo72:
+    - 100214
+    - 400214
+    - 3300078
+    - 2300078
+    - 13500078
+    t:t_machine02_gun:polySurface1353 1:
+    - 100216
+    - 400216
+    - 3300080
+    - 2300080
+    - 13500080
+    t:t_machine02_gun:polySurface1355:
+    - 100218
+    - 400218
+    - 3300082
+    - 2300082
+    - 13500082
+    t:t_machine02_gun:machine_gun_level2_geo73:
+    - 100220
+    - 400220
+    - 3300084
+    - 2300084
+    - 13500084
+    t:t_machine02_gun:machine_gun_level3_geo67:
+    - 100222
+    - 400222
+    - 3300086
+    - 2300086
+    - 13500086
+    t:t_machine02_gun:t_machine02_gun2:
+    - 100224
+    - 400224
+    t:t_machine02_gun:machine_gun_level1_geo63 1:
+    - 100226
+    - 400226
+    - 3300088
+    - 2300088
+    - 13500088
+    t:t_machine02_gun:polySurface1353:
+    - 100228
+    - 400228
+    - 3300090
+    - 2300090
+    - 13500090
+    t:t_machine02_gun:machine_gun_level2_geo73 1:
+    - 100230
+    - 400230
+    - 3300092
+    - 2300092
+    - 13500092
+    t:t_machine02_gun:machine_gun_level3_geo46:
+    - 100232
+    - 400232
+    - 3300094
+    - 2300094
+    - 13500094
+    t:t_machine02_gun:nurbsCircle18 1:
+    - 100234
+    - 400234
+    t:t_machine02_gun:polySurface1347 1:
+    - 100236
+    - 400236
+    t:t_machine02_gun:nurbsCircle17 1:
+    - 100238
+    - 400238
+    t:t_machine02_gun:machine_gun_level1_geo63:
+    - 100240
+    - 400240
+    - 3300096
+    - 2300096
+    - 13500096
+    t:t_machine02_gun:machine_gun_level3_geo70:
+    - 100242
+    - 400242
+    - 3300098
+    - 2300098
+    - 13500098
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: t:t_machine02_gun:machine_gun_level3_geo13
+    4300002: t:t_machine02_gun:machine_gun_level3_geo12
+    4300004: t:t_machine02_gun:machine_gun_level3_geo14
+    4300006: t:t_machine02_gun:machine_gun_level3_geo11
+    4300008: t:t_machine02_gun:machine_gun_level3_geo11
+    4300010: t:t_machine02_gun:machine_gun_level3_geo72
+    4300012: t:t_machine02_gun:machine_gun_level3_geo9
+    4300014: t:t_machine02_gun:machine_gun_level3_geo56
+    4300016: t:t_machine02_gun:pCylinder13
+    4300018: t:t_machine02_gun:pCube40
+    4300020: t:t_machine02_gun:pCylinder11
+    4300022: t:t_machine02_gun:pCube1
+    4300024: t:t_machine02_gun:pCylinder8
+    4300026: t:t_machine02_gun:pCylinder9
+    4300028: t:t_machine02_gun:pCylinder10
+    4300030: t:t_machine02_gun:pCylinder15
+    4300032: t:t_machine02_gun:machine_gun_level2_geo69
+    4300034: t:t_machine02_gun:machine_gun_level3_geo67
+    4300036: t:t_machine02_gun:machine_gun_level3_geo73
+    4300038: t:t_machine02_gun:machine_gun_level3_geo64
+    4300040: t:t_machine02_gun:machine_gun_level2_geo74
+    4300042: t:t_machine02_gun:machine_gun_level3_geo46
+    4300044: t:t_machine02_gun:pCylinder1
+    4300046: t:t_machine02_gun:machine_gun_level2_geo72
+    4300048: t:t_machine02_gun:machine_gun_level3_geo53
+    4300050: t:t_machine02_gun:polySurface1349
+    4300052: t:t_machine02_gun:pCube39
+    4300054: t:t_machine02_gun:polySurface1355
+    4300056: t:t_machine02_gun:pCylinder12
+    4300058: t:t_machine02_gun:machine_gun_level3_geo70
+    4300060: t:t_machine02_gun:machine_gun_level2_geo73
+    4300062: t:t_machine02_gun:polySurface1354
+    4300064: t:t_machine02_gun:polySurface1353
+    4300066: t:t_machine02_gun:machine_gun_level2_geo72
+    4300068: t:t_machine02_gun:machine_gun_level3_geo53
+    4300070: t:t_machine02_gun:polySurface1349
+    4300072: t:t_machine02_gun:pCube39
+    4300074: t:t_machine02_gun:polySurface1355
+    4300076: t:t_machine02_gun:pCylinder12
+    4300078: t:t_machine02_gun:machine_gun_level3_geo70
+    4300080: t:t_machine02_gun:machine_gun_level2_geo73
+    4300082: t:t_machine02_gun:polySurface1354
+    4300084: t:t_machine02_gun:polySurface1353
+    4300086: t:t_machine02_gun:machine_gun_level5_geo92
+    4300088: t:t_machine02_gun:machine_gun_level1_geo63
+    4300090: t:t_machine02_gun:machine_gun_level1_geo63
+    4300092: t:t_machine02_gun:machine_gun_level3_geo63
+    4300094: t:t_machine02_gun:pPlane6
+    4300096: t:t_machine02_gun:polySurface1510
+    4300098: t:t_machine02_gun:polySurface1511
+    7400000: Take 001 //// t_machine02_gun2
+    7400002: Build //// t_machine02_gun2
+    7400004: Idle0 //// t_machine02_gun2
+    7400006: Idle1 //// t_machine02_gun2
+    7400008: Attack0 //// t_machine02_gun2
+    7400010: Destroy //// t_machine02_gun2
+    7400012: NormalPose //// t_machine02_gun2
+    7400014: NormalBody //// t_machine02_gun2
+    7400016: Idle2 //// t_machine02_gun2

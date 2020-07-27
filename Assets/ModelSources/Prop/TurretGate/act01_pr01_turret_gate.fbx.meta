@@ -1,0 +1,144 @@
+fileFormatVersion: 1
+guid: ba30d060fa0f91a499df5771fbc69b80
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      open:
+        firstFrame: 1
+        lastFrame: 45
+        loop: 0
+        wrapMode: 0
+      close:
+        firstFrame: 51
+        lastFrame: 86
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    act01_pr01_turret_gate:turret_light:pCube6:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    act01_pr01_turret_gate:turret_light:gate_light:
+    - 100002
+    - 400002
+    act01_pr01_turret_gate:turret_light:pCube8:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+    - 13500002
+    act01_pr01_turret_gate:Guard_Rail:
+    - 100006
+    - 400006
+    act01_pr01_turret_gate:turret_light:pCube7:
+    - 100008
+    - 400008
+    - 3300004
+    - 2300004
+    - 13500004
+    act01_pr01_turret_gate:turret_light:pCube5:
+    - 100010
+    - 400010
+    - 3300006
+    - 2300006
+    - 13500006
+    act01_pr01_turret_gate:pPlane5:
+    - 100012
+    - 400012
+    - 3300008
+    - 2300008
+    - 13500008
+    act01_pr01_turret_gate:cube2:
+    - 100014
+    - 400014
+    act01_pr01_turret_gate:pPlane2:
+    - 100016
+    - 400016
+    - 3300010
+    - 2300010
+    - 13500010
+    act01_pr01_turret_gate:pCube5:
+    - 100018
+    - 400018
+    - 3300012
+    - 2300012
+    - 13500012
+    act01_pr01_turret_gate:pPlane1:
+    - 100020
+    - 400020
+    - 3300014
+    - 2300014
+    - 13500014
+    //RootNode:
+    - 100022
+    - 400022
+    - 11100000
+    act01_pr01_turret_gate:group1:
+    - 100024
+    - 400024
+    act01_pr01_turret_gate:t:cube2:
+    - 100026
+    - 400026
+    act01_pr01_turret_gate:t:pCube5:
+    - 100028
+    - 400028
+    - 3300016
+    - 2300016
+    - 13500016
+    act01_pr01_turret_gate:pCube3:
+    - 100030
+    - 400030
+    - 3300018
+    - 2300018
+    - 13500018
+    act01_pr01_turret_gate:pPlane4:
+    - 100032
+    - 400032
+    - 3300020
+    - 2300020
+    - 13500020
+    act01_pr01_turret_gate:pPlane3:
+    - 100034
+    - 400034
+    - 3300022
+    - 2300022
+    - 13500022
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: act01_pr01_turret_gate:pCube3
+    4300002: act01_pr01_turret_gate:turret_light:pCube6
+    4300004: act01_pr01_turret_gate:turret_light:pCube7
+    4300006: act01_pr01_turret_gate:turret_light:pCube5
+    4300008: act01_pr01_turret_gate:turret_light:pCube8
+    4300010: act01_pr01_turret_gate:pPlane1
+    4300012: act01_pr01_turret_gate:pCube5
+    4300014: act01_pr01_turret_gate:t:pCube5
+    4300016: act01_pr01_turret_gate:pPlane3
+    4300018: act01_pr01_turret_gate:pPlane2
+    4300020: act01_pr01_turret_gate:pPlane5
+    4300022: act01_pr01_turret_gate:pPlane4
+    7400000: Take 001 //// act01_pr01_turret_gate
+    7400002: open //// act01_pr01_turret_gate
+    7400004: close //// act01_pr01_turret_gate

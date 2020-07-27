@@ -1,0 +1,270 @@
+fileFormatVersion: 1
+guid: a35834f63ae82bb46974bffc2ff15826
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    polySurface258:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    polySurface259:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 13500002
+    polySurface256:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    - 13500004
+    group1:
+    - 100006
+    - 400006
+    polySurface255:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    - 13500006
+    polySurface257:
+    - 100010
+    - 400010
+    - 3300008
+    - 2300008
+    - 13500008
+    polySurface254:
+    - 100012
+    - 400012
+    - 3300010
+    - 2300010
+    - 13500010
+    group2:
+    - 100014
+    - 400014
+    gate_top:
+    - 100016
+    - 400016
+    polySurface253:
+    - 100018
+    - 400018
+    - 3300012
+    - 2300012
+    - 13500012
+    polySurface252:
+    - 100020
+    - 400020
+    - 3300014
+    - 2300014
+    - 13500014
+    polySurface251:
+    - 100022
+    - 400022
+    - 3300016
+    - 2300016
+    - 13500016
+    polySurface250:
+    - 100024
+    - 400024
+    - 3300018
+    - 2300018
+    - 13500018
+    polySurface249:
+    - 100026
+    - 400026
+    - 3300020
+    - 2300020
+    - 13500020
+    polySurface248:
+    - 100028
+    - 400028
+    - 3300022
+    - 2300022
+    - 13500022
+    polySurface247:
+    - 100030
+    - 400030
+    - 3300024
+    - 2300024
+    - 13500024
+    polySurface246:
+    - 100032
+    - 400032
+    - 3300026
+    - 2300026
+    - 13500026
+    polySurface245:
+    - 100034
+    - 400034
+    - 3300028
+    - 2300028
+    - 13500028
+    polySurface244:
+    - 100036
+    - 400036
+    - 3300030
+    - 2300030
+    - 13500030
+    polySurface243:
+    - 100038
+    - 400038
+    - 3300032
+    - 2300032
+    - 13500032
+    polySurface242:
+    - 100040
+    - 400040
+    - 3300034
+    - 2300034
+    - 13500034
+    polySurface241:
+    - 100042
+    - 400042
+    - 3300036
+    - 2300036
+    - 13500036
+    polySurface240:
+    - 100044
+    - 400044
+    - 3300038
+    - 2300038
+    - 13500038
+    polySurface239:
+    - 100046
+    - 400046
+    - 3300040
+    - 2300040
+    - 13500040
+    polySurface238:
+    - 100048
+    - 400048
+    - 3300042
+    - 2300042
+    - 13500042
+    polySurface237:
+    - 100050
+    - 400050
+    - 3300044
+    - 2300044
+    - 13500044
+    polySurface236:
+    - 100052
+    - 400052
+    - 3300046
+    - 2300046
+    - 13500046
+    polySurface235:
+    - 100054
+    - 400054
+    - 3300048
+    - 2300048
+    - 13500048
+    polySurface234:
+    - 100056
+    - 400056
+    - 3300050
+    - 2300050
+    - 13500050
+    polySurface233:
+    - 100058
+    - 400058
+    - 3300052
+    - 2300052
+    - 13500052
+    polySurface232:
+    - 100060
+    - 400060
+    - 3300054
+    - 2300054
+    - 13500054
+    polySurface231:
+    - 100062
+    - 400062
+    - 3300056
+    - 2300056
+    - 13500056
+    polySurface230:
+    - 100064
+    - 400064
+    - 3300058
+    - 2300058
+    - 13500058
+    polySurface229:
+    - 100066
+    - 400066
+    - 3300060
+    - 2300060
+    - 13500060
+    polySurface228:
+    - 100068
+    - 400068
+    - 3300062
+    - 2300062
+    - 13500062
+    group3:
+    - 100070
+    - 400070
+    side_p:
+    - 100072
+    - 400072
+    //RootNode:
+    - 100074
+    - 400074
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface228
+    4300002: polySurface229
+    4300004: polySurface230
+    4300006: polySurface231
+    4300008: polySurface232
+    4300010: polySurface233
+    4300012: polySurface234
+    4300014: polySurface235
+    4300016: polySurface236
+    4300018: polySurface237
+    4300020: polySurface238
+    4300022: polySurface239
+    4300024: polySurface240
+    4300026: polySurface241
+    4300028: polySurface242
+    4300030: polySurface243
+    4300032: polySurface244
+    4300034: polySurface245
+    4300036: polySurface246
+    4300038: polySurface247
+    4300040: polySurface248
+    4300042: polySurface249
+    4300044: polySurface250
+    4300046: polySurface251
+    4300048: polySurface252
+    4300050: polySurface253
+    4300052: polySurface254
+    4300054: polySurface255
+    4300056: polySurface256
+    4300058: polySurface257
+    4300060: polySurface258
+    4300062: polySurface259

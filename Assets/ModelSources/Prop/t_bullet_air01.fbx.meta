@@ -1,0 +1,133 @@
+fileFormatVersion: 1
+guid: cdadc2484eeb1c14a8432c4794958194
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      ani0:
+        firstFrame: 1
+        lastFrame: 30
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    polySurface1389 1:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    polySurface1389 2:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 13500002
+    t_bullet_air01_s:
+    - 100004
+    - 400004
+    polySurface1386:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    - 13500004
+    cube53:
+    - 100008
+    - 400008
+    //RootNode:
+    - 100010
+    - 400010
+    - 11100000
+    cube52:
+    - 100012
+    - 400012
+    pCube59:
+    - 100014
+    - 400014
+    - 3300006
+    - 2300006
+    - 13500006
+    cube115:
+    - 100016
+    - 400016
+    cube54:
+    - 100018
+    - 400018
+    pCube58:
+    - 100020
+    - 400020
+    - 3300008
+    - 2300008
+    - 13500008
+    nurbsCircle31:
+    - 100022
+    - 400022
+    polySurface1389:
+    - 100024
+    - 400024
+    - 3300010
+    - 2300010
+    - 13500010
+    pCube60:
+    - 100026
+    - 400026
+    - 3300012
+    - 2300012
+    - 13500012
+    pCube61:
+    - 100028
+    - 400028
+    - 3300014
+    - 2300014
+    - 13500014
+    polySurface1388:
+    - 100030
+    - 400030
+    - 3300016
+    - 2300016
+    - 13500016
+    polySurface1387:
+    - 100032
+    - 400032
+    - 3300018
+    - 2300018
+    - 13500018
+    AI_m:
+    - 100034
+    - 400034
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface1389
+    4300002: polySurface1389
+    4300004: polySurface1389
+    4300006: polySurface1386
+    4300008: pCube58
+    4300010: pCube59
+    4300012: pCube60
+    4300014: pCube61
+    4300016: polySurface1387
+    4300018: polySurface1388
+    7400000: Take 001 //// t_bullet_air01
+    7400002: idle //// t_bullet_air01
+    7400004: idle0 //// t_bullet_air01
+    7400006: ani0 //// t_bullet_air01
+    7400008: ani1 //// t_bullet_air01

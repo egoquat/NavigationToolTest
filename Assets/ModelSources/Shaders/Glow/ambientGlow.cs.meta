@@ -1,0 +1,7 @@
+fileFormatVersion: 1
+guid: c64bbe4c06e428a4695dc773e4cc2ac7
+MonoImporter:
+  importerVersion: 1
+  defaultReferences:
+    swapToShader: {fileID: 4800000, guid: a77b940c1f5af9a478076a76da8fe7bf, type: 1}
+    rTexture: {fileID: 8400000, guid: 00000000000000000000000000000000, type: 0}

@@ -1,0 +1,720 @@
+fileFormatVersion: 1
+guid: ea8224351e0f60244807de2a1e92139d
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      Build:
+        firstFrame: 135
+        lastFrame: 167
+        loop: 0
+        wrapMode: 0
+      Destroy:
+        firstFrame: 391
+        lastFrame: 408
+        loop: 0
+        wrapMode: 0
+      NormalPose:
+        firstFrame: 181
+        lastFrame: 242
+        loop: 0
+        wrapMode: 0
+      NormalBody:
+        firstFrame: 281
+        lastFrame: 358
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    t_special01_emp:polySurface1441 3:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    t_special01_emp:mortar_rank_body_level_c_30_geo:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 13500002
+    t_special01_emp:polySurface1441 1:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    - 13500004
+    t_special01_emp:polySurface1442 2:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    - 13500006
+    t_special01_emp:polySurface1439 1:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    - 13500008
+    t_special01_emp:polySurface1442 3:
+    - 100010
+    - 400010
+    - 3300010
+    - 2300010
+    - 13500010
+    t_special01_emp:polySurface1441 2:
+    - 100012
+    - 400012
+    - 3300012
+    - 2300012
+    - 13500012
+    t_special01_emp:polySurface1425 1:
+    - 100014
+    - 400014
+    - 3300014
+    - 2300014
+    - 13500014
+    t_special01_emp:polySurface1442 1:
+    - 100016
+    - 400016
+    - 3300016
+    - 2300016
+    - 13500016
+    t_special01_emp:polySurface1440 1:
+    - 100018
+    - 400018
+    - 3300018
+    - 2300018
+    - 13500018
+    t_special01_emp:polySurface1427 1:
+    - 100020
+    - 400020
+    - 3300020
+    - 2300020
+    - 13500020
+    t_special01_emp:t_special01_emp_s:
+    - 100022
+    - 400022
+    t_special01_emp:polySurface1426 1:
+    - 100024
+    - 400024
+    - 3300022
+    - 2300022
+    - 13500022
+    t_special01_emp:cube110:
+    - 100026
+    - 400026
+    t_special01_emp:group5:
+    - 100028
+    - 400028
+    t_special01_emp:group157:
+    - 100030
+    - 400030
+    t_special01_emp:group146:
+    - 100032
+    - 400032
+    t_special01_emp:pCube8 1:
+    - 100034
+    - 400034
+    - 3300024
+    - 2300024
+    - 13500024
+    t_special01_emp:transform1 1:
+    - 100036
+    - 400036
+    t_special01_emp:group152:
+    - 100038
+    - 400038
+    t_special01_emp:cube99 1:
+    - 100040
+    - 400040
+    t_special01_emp:polySurface1450:
+    - 100042
+    - 400042
+    - 3300026
+    - 2300026
+    - 13500026
+    t_special01_emp:cube105 2:
+    - 100044
+    - 400044
+    t_special01_emp:group7:
+    - 100046
+    - 400046
+    t_special01_emp:cube107 1:
+    - 100048
+    - 400048
+    t_special01_emp:pCylinder3 1:
+    - 100050
+    - 400050
+    - 3300028
+    - 2300028
+    - 13500028
+    t_special01_emp:polySurface1424:
+    - 100052
+    - 400052
+    t_special01_emp:pCylinder17 1:
+    - 100054
+    - 400054
+    - 3300030
+    - 2300030
+    - 13500030
+    t_special01_emp:polySurface1438:
+    - 100056
+    - 400056
+    t_special01_emp:cube106 2:
+    - 100058
+    - 400058
+    t_special01_emp:group153:
+    - 100060
+    - 400060
+    t_special01_emp:pPipe1:
+    - 100062
+    - 400062
+    - 3300032
+    - 2300032
+    - 13500032
+    t_special01_emp:group149:
+    - 100064
+    - 400064
+    t_special01_emp:pCylinder1:
+    - 100066
+    - 400066
+    t_special01_emp:pCylinder18:
+    - 100068
+    - 400068
+    - 3300034
+    - 2300034
+    - 13500034
+    t_special01_emp:pCube4:
+    - 100070
+    - 400070
+    t_special01_emp:nurbsCircle60 2:
+    - 100072
+    - 400072
+    t_special01_emp:nurbsCircle61 1:
+    - 100074
+    - 400074
+    t_special01_emp:group9:
+    - 100076
+    - 400076
+    t_special01_emp:polySurface4:
+    - 100078
+    - 400078
+    - 3300036
+    - 2300036
+    - 13500036
+    t_special01_emp:polySurface1445:
+    - 100080
+    - 400080
+    - 3300038
+    - 2300038
+    - 13500038
+    t_special01_emp:pCylinder32:
+    - 100082
+    - 400082
+    - 3300040
+    - 2300040
+    - 13500040
+    t_special01_emp:polySurface1464:
+    - 100084
+    - 400084
+    - 3300042
+    - 2300042
+    - 13500042
+    t_special01_emp:pCube8:
+    - 100086
+    - 400086
+    - 3300044
+    - 2300044
+    - 13500044
+    t_special01_emp:group151:
+    - 100088
+    - 400088
+    t_special01_emp:polySurface1437:
+    - 100090
+    - 400090
+    t_special01_emp:polySurface1463:
+    - 100092
+    - 400092
+    - 3300046
+    - 2300046
+    - 13500046
+    t_special01_emp:group6:
+    - 100094
+    - 400094
+    t_special01_emp:pCylinder19:
+    - 100096
+    - 400096
+    t_special01_emp:nurbsCircle62 1:
+    - 100098
+    - 400098
+    t_special01_emp:group3:
+    - 100100
+    - 400100
+    t_special01_emp:pCylinder27:
+    - 100102
+    - 400102
+    - 3300048
+    - 2300048
+    - 13500048
+    t_special01_emp:polySurface1422:
+    - 100104
+    - 400104
+    t_special01_emp:pCube2 1:
+    - 100106
+    - 400106
+    - 3300050
+    - 2300050
+    - 13500050
+    t_special01_emp:nurbsCircle60 3:
+    - 100108
+    - 400108
+    t_special01_emp:cube98 1:
+    - 100110
+    - 400110
+    t_special01_emp:group8:
+    - 100112
+    - 400112
+    t_special01_emp:polySurface1433:
+    - 100114
+    - 400114
+    t_special01_emp:polySurface1447:
+    - 100116
+    - 400116
+    - 3300052
+    - 2300052
+    - 13500052
+    t_special01_emp:pCylinder17:
+    - 100118
+    - 400118
+    - 3300054
+    - 2300054
+    - 13500054
+    t_special01_emp:cube109:
+    - 100120
+    - 400120
+    t_special01_emp:cube97 1:
+    - 100122
+    - 400122
+    t_special01_emp:pCylinder4 1:
+    - 100124
+    - 400124
+    - 3300056
+    - 2300056
+    - 13500056
+    t_special01_emp:cube106 3:
+    - 100126
+    - 400126
+    t_special01_emp:polySurface1462:
+    - 100128
+    - 400128
+    - 3300058
+    - 2300058
+    - 13500058
+    t_special01_emp:nurbsCircle65:
+    - 100130
+    - 400130
+    t_special01_emp:pCylinder18 1:
+    - 100132
+    - 400132
+    - 3300060
+    - 2300060
+    - 13500060
+    t_special01_emp:pPipe2:
+    - 100134
+    - 400134
+    - 3300062
+    - 2300062
+    - 13500062
+    t_special01_emp:pPlane6:
+    - 100136
+    - 400136
+    - 3300064
+    - 2300064
+    - 13500064
+    t_special01_emp:cube105 3:
+    - 100138
+    - 400138
+    t_special01_emp:polySurface1451:
+    - 100140
+    - 400140
+    - 3300066
+    - 2300066
+    - 13500066
+    t_special01_emp:group148:
+    - 100142
+    - 400142
+    t_special01_emp:polySurface1446:
+    - 100144
+    - 400144
+    - 3300068
+    - 2300068
+    - 13500068
+    t_special01_emp:nurbsCircle52 1:
+    - 100146
+    - 400146
+    //RootNode:
+    - 100148
+    - 400148
+    - 11100000
+    auto_y:
+    - 100150
+    - 400150
+    - 11400000
+    t_special01_emp:nurbsCircle66:
+    - 100152
+    - 400152
+    t_special01_emp:pCylinder4:
+    - 100154
+    - 400154
+    - 3300070
+    - 2300070
+    - 13500070
+    t_special01_emp:pCube2:
+    - 100156
+    - 400156
+    - 3300072
+    - 2300072
+    - 13500072
+    t_special01_emp:pCube5:
+    - 100158
+    - 400158
+    - 3300074
+    - 2300074
+    - 13500074
+    t_special01_emp:pCube9:
+    - 100160
+    - 400160
+    - 3300076
+    - 2300076
+    - 13500076
+    t_special01_emp:polySurface1444:
+    - 100162
+    - 400162
+    t_special01_emp:cube104:
+    - 100164
+    - 400164
+    t_special01_emp:pCylinder26:
+    - 100166
+    - 400166
+    - 3300078
+    - 2300078
+    - 13500078
+    t_special01_emp:polySurface1439:
+    - 100168
+    - 400168
+    - 3300080
+    - 2300080
+    - 13500080
+    t_special01_emp:pCube11:
+    - 100170
+    - 400170
+    - 3300082
+    - 2300082
+    - 13500082
+    t_special01_emp:nurbsCircle64:
+    - 100172
+    - 400172
+    t_special01_emp:polySurface3:
+    - 100174
+    - 400174
+    t_special01_emp:polySurface1436:
+    - 100176
+    - 400176
+    - 3300084
+    - 2300084
+    - 13500084
+    t_special01_emp:pCylinder3:
+    - 100178
+    - 400178
+    - 3300086
+    - 2300086
+    - 13500086
+    t_special01_emp:polySurface1443:
+    - 100180
+    - 400180
+    - 3300088
+    - 2300088
+    - 13500088
+    t_special01_emp:cube105 1:
+    - 100182
+    - 400182
+    t_special01_emp:pCylinder33:
+    - 100184
+    - 400184
+    - 3300090
+    - 2300090
+    - 13500090
+    t_special01_emp:pCylinder20:
+    - 100186
+    - 400186
+    - 3300092
+    - 2300092
+    - 13500092
+    t_special01_emp:nurbsCircle60 1:
+    - 100188
+    - 400188
+    t_special01_emp:nurbsCircle60:
+    - 100190
+    - 400190
+    t_special01_emp:cube106 1:
+    - 100192
+    - 400192
+    t_special01_emp:group154:
+    - 100194
+    - 400194
+    t_special01_emp:polySurface1425:
+    - 100196
+    - 400196
+    - 3300094
+    - 2300094
+    - 13500094
+    t_special01_emp:cube105:
+    - 100198
+    - 400198
+    t_special01_emp:polySurface1434:
+    - 100200
+    - 400200
+    - 3300096
+    - 2300096
+    - 13500096
+    t_special01_emp:pCylinder14:
+    - 100202
+    - 400202
+    - 3300098
+    - 2300098
+    - 13500098
+    t_special01_emp:pCylinder9:
+    - 100204
+    - 400204
+    - 3300100
+    - 2300100
+    - 13500100
+    t_special01_emp:cube98:
+    - 100206
+    - 400206
+    t_special01_emp:pCube10:
+    - 100208
+    - 400208
+    t_special01_emp:polySurface1452:
+    - 100210
+    - 400210
+    - 3300102
+    - 2300102
+    - 13500102
+    t_special01_emp:nurbsCircle61:
+    - 100212
+    - 400212
+    t_special01_emp:nurbsCircle62:
+    - 100214
+    - 400214
+    t_special01_emp:polySurface1426:
+    - 100216
+    - 400216
+    - 3300104
+    - 2300104
+    - 13500104
+    t_special01_emp:polySurface1449:
+    - 100218
+    - 400218
+    - 3300106
+    - 2300106
+    - 13500106
+    t_special01_emp:cube101:
+    - 100220
+    - 400220
+    t_special01_emp:nurbsCircle53:
+    - 100222
+    - 400222
+    t_special01_emp:cube103:
+    - 100224
+    - 400224
+    t_special01_emp:pCylinder8:
+    - 100226
+    - 400226
+    - 3300108
+    - 2300108
+    - 13500108
+    t_special01_emp:cube106:
+    - 100228
+    - 400228
+    t_special01_emp:polySurface1440:
+    - 100230
+    - 400230
+    - 3300110
+    - 2300110
+    - 13500110
+    t_special01_emp:polySurface1461:
+    - 100232
+    - 400232
+    - 3300112
+    - 2300112
+    - 13500112
+    t_special01_emp:cube100:
+    - 100234
+    - 400234
+    t_special01_emp:pCylinder15:
+    - 100236
+    - 400236
+    - 3300114
+    - 2300114
+    - 13500114
+    t_special01_emp:polySurface1435:
+    - 100238
+    - 400238
+    - 3300116
+    - 2300116
+    - 13500116
+    t_special01_emp:cube107:
+    - 100240
+    - 400240
+    t_special01_emp:polySurface1427:
+    - 100242
+    - 400242
+    - 3300118
+    - 2300118
+    - 13500118
+    t_special01_emp:cube97:
+    - 100244
+    - 400244
+    t_special01_emp:group156:
+    - 100246
+    - 400246
+    t_special01_emp:cube102:
+    - 100248
+    - 400248
+    t_special01_emp:nurbsCircle52:
+    - 100250
+    - 400250
+    t_special01_emp:polySurface1448:
+    - 100252
+    - 400252
+    t_special01_emp:pCylinder5:
+    - 100254
+    - 400254
+    - 3300120
+    - 2300120
+    - 13500120
+    t_special01_emp:polySurface1441:
+    - 100256
+    - 400256
+    - 3300122
+    - 2300122
+    - 13500122
+    t_special01_emp:polySurface1442:
+    - 100258
+    - 400258
+    - 3300124
+    - 2300124
+    - 13500124
+    t_special01_emp:nurbsCircle63:
+    - 100260
+    - 400260
+    t_special01_emp:pCylinder16:
+    - 100262
+    - 400262
+    - 3300126
+    - 2300126
+    - 13500126
+    t_special01_emp:transform1:
+    - 100264
+    - 400264
+    t_special01_emp:cube99:
+    - 100266
+    - 400266
+    t_special01_emp:nurbsCircle57:
+    - 100268
+    - 400268
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: t_special01_emp:pCube9
+    4300002: t_special01_emp:pCube11
+    4300004: t_special01_emp:polySurface1449
+    4300006: t_special01_emp:pCylinder15
+    4300008: t_special01_emp:pCylinder14
+    4300010: t_special01_emp:pCylinder9
+    4300012: t_special01_emp:pCylinder20
+    4300014: t_special01_emp:pCylinder16
+    4300016: t_special01_emp:pCylinder26
+    4300018: t_special01_emp:polySurface1443
+    4300020: t_special01_emp:pCube5
+    4300022: t_special01_emp:pCylinder5
+    4300024: t_special01_emp:pCylinder4
+    4300026: t_special01_emp:polySurface1427
+    4300028: t_special01_emp:polySurface1426
+    4300030: t_special01_emp:polySurface1425
+    4300032: t_special01_emp:pCube2
+    4300034: t_special01_emp:polySurface1442
+    4300036: t_special01_emp:polySurface1439
+    4300038: t_special01_emp:polySurface1441
+    4300040: t_special01_emp:polySurface1461
+    4300042: t_special01_emp:pCylinder3
+    4300044: t_special01_emp:polySurface1442
+    4300046: t_special01_emp:polySurface1452
+    4300048: t_special01_emp:polySurface1441
+    4300050: t_special01_emp:polySurface1440
+    4300052: t_special01_emp:pCylinder33
+    4300054: t_special01_emp:pCylinder8
+    4300056: t_special01_emp:polySurface1434
+    4300058: t_special01_emp:polySurface1435
+    4300060: t_special01_emp:polySurface1436
+    4300062: t_special01_emp:polySurface1445
+    4300064: t_special01_emp:polySurface1446
+    4300066: t_special01_emp:pCylinder4
+    4300068: t_special01_emp:polySurface1427
+    4300070: t_special01_emp:polySurface1426
+    4300072: t_special01_emp:polySurface1425
+    4300074: t_special01_emp:pCube2
+    4300076: t_special01_emp:polySurface1442
+    4300078: t_special01_emp:polySurface1439
+    4300080: t_special01_emp:polySurface1441
+    4300082: t_special01_emp:polySurface1462
+    4300084: t_special01_emp:pCylinder3
+    4300086: t_special01_emp:polySurface1442
+    4300088: t_special01_emp:polySurface1451
+    4300090: t_special01_emp:polySurface1441
+    4300092: t_special01_emp:polySurface1440
+    4300094: t_special01_emp:pCylinder32
+    4300096: t_special01_emp:pPipe2
+    4300098: t_special01_emp:pPipe1
+    4300100: t_special01_emp:polySurface1450
+    4300102: t_special01_emp:pCylinder27
+    4300104: t_special01_emp:polySurface1447
+    4300106: t_special01_emp:polySurface4
+    4300108: t_special01_emp:pCylinder18
+    4300110: t_special01_emp:pCylinder18
+    4300112: t_special01_emp:pCube8
+    4300114: t_special01_emp:pCylinder17
+    4300116: t_special01_emp:pCube8
+    4300118: t_special01_emp:pCylinder17
+    4300120: t_special01_emp:polySurface1463
+    4300122: t_special01_emp:polySurface1464
+    4300124: t_special01_emp:pPlane6
+    4300126: t_special01_emp:mortar_rank_body_level_c_30_geo
+    7400000: Take 001 //// t_special01_emp
+    7400002: Build //// t_special01_emp
+    7400004: Attack //// t_special01_emp
+    7400006: idle01 //// t_special01_emp
+    7400008: Attack0 //// t_special01_emp
+    7400010: Destroy //// t_special01_emp
+    7400012: Idle0 //// t_special01_emp
+    7400014: NormalPose //// t_special01_emp
+    7400016: NormalBody //// t_special01_emp

@@ -1,0 +1,265 @@
+fileFormatVersion: 1
+guid: d8d83378dbb2e1b469205a35ba859c88
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    act01_prop03_antiaircraft4:pCube15:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    act01_prop03_antiaircraft4:pCube13:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 13500002
+    act01_prop03_antiaircraft4:pCube14:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    - 13500004
+    act01_prop03_antiaircraft4:pCube16:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    - 13500006
+    polySurface23:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    - 13500008
+    polySurface22:
+    - 100010
+    - 400010
+    - 3300010
+    - 2300010
+    - 13500010
+    polySurface11:
+    - 100012
+    - 400012
+    - 3300012
+    - 2300012
+    - 13500012
+    cube6:
+    - 100014
+    - 400014
+    cube3:
+    - 100016
+    - 400016
+    polySurface25:
+    - 100018
+    - 400018
+    - 3300014
+    - 2300014
+    - 13500014
+    polySurface16:
+    - 100020
+    - 400020
+    - 3300016
+    - 2300016
+    - 13500016
+    polySurface13:
+    - 100022
+    - 400022
+    - 3300018
+    - 2300018
+    - 13500018
+    polySurface24:
+    - 100024
+    - 400024
+    - 3300020
+    - 2300020
+    - 13500020
+    rotate_y:
+    - 100026
+    - 400026
+    polySurface26:
+    - 100028
+    - 400028
+    - 3300022
+    - 2300022
+    - 13500022
+    polySurface17:
+    - 100030
+    - 400030
+    - 3300024
+    - 2300024
+    - 13500024
+    cube4:
+    - 100032
+    - 400032
+    cube1:
+    - 100034
+    - 400034
+    polySurface18:
+    - 100036
+    - 400036
+    - 3300026
+    - 2300026
+    - 13500026
+    cube5:
+    - 100038
+    - 400038
+    cube2:
+    - 100040
+    - 400040
+    rotate_x:
+    - 100042
+    - 400042
+    polySurface19:
+    - 100044
+    - 400044
+    - 3300028
+    - 2300028
+    - 13500028
+    polySurface10:
+    - 100046
+    - 400046
+    - 3300030
+    - 2300030
+    - 13500030
+    polySurface21:
+    - 100048
+    - 400048
+    - 3300032
+    - 2300032
+    - 13500032
+    pCube1:
+    - 100050
+    - 400050
+    - 3300034
+    - 2300034
+    - 13500034
+    pCylinder2:
+    - 100052
+    - 400052
+    - 3300036
+    - 2300036
+    - 13500036
+    group1:
+    - 100054
+    - 400054
+    polySurface15:
+    - 100056
+    - 400056
+    - 3300038
+    - 2300038
+    - 13500038
+    polySurface12:
+    - 100058
+    - 400058
+    - 3300040
+    - 2300040
+    - 13500040
+    polySurface7:
+    - 100060
+    - 400060
+    - 3300042
+    - 2300042
+    - 13500042
+    polySurface8:
+    - 100062
+    - 400062
+    - 3300044
+    - 2300044
+    - 13500044
+    pCube4:
+    - 100064
+    - 400064
+    - 3300046
+    - 2300046
+    - 13500046
+    pCube8:
+    - 100066
+    - 400066
+    - 3300048
+    - 2300048
+    - 13500048
+    pCube6:
+    - 100068
+    - 400068
+    - 3300050
+    - 2300050
+    - 13500050
+    pCube11:
+    - 100070
+    - 400070
+    - 3300052
+    - 2300052
+    - 13500052
+    group2:
+    - 100072
+    - 400072
+    polySurface20:
+    - 100074
+    - 400074
+    - 3300054
+    - 2300054
+    - 13500054
+    polySurface14:
+    - 100076
+    - 400076
+    - 3300056
+    - 2300056
+    - 13500056
+    //RootNode:
+    - 100078
+    - 400078
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface18
+    4300002: act01_prop03_antiaircraft4:pCube13
+    4300004: polySurface19
+    4300006: act01_prop03_antiaircraft4:pCube14
+    4300008: polySurface17
+    4300010: polySurface24
+    4300012: act01_prop03_antiaircraft4:pCube15
+    4300014: polySurface23
+    4300016: act01_prop03_antiaircraft4:pCube16
+    4300018: polySurface22
+    4300020: polySurface16
+    4300022: polySurface15
+    4300024: pCylinder2
+    4300026: pCube1
+    4300028: polySurface7
+    4300030: polySurface8
+    4300032: pCube4
+    4300034: pCube8
+    4300036: pCube6
+    4300038: pCube11
+    4300040: polySurface10
+    4300042: polySurface11
+    4300044: polySurface12
+    4300046: polySurface13
+    4300048: polySurface14
+    4300050: polySurface20
+    4300052: polySurface21
+    4300054: polySurface25
+    4300056: polySurface26
+    7400000: Take 001 //// act01_prop03_antiaircraft4

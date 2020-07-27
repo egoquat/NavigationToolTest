@@ -1,0 +1,296 @@
+fileFormatVersion: 1
+guid: 0a459ba7df1573047abeb135294c765b
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      spawn:
+        firstFrame: 1
+        lastFrame: 120
+        loop: 0
+        wrapMode: 0
+      move:
+        firstFrame: 1
+        lastFrame: 120
+        loop: 0
+        wrapMode: 0
+      attack:
+        firstFrame: 271
+        lastFrame: 410
+        loop: 0
+        wrapMode: 0
+      die:
+        firstFrame: 411
+        lastFrame: 451
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    sky_mechanic_03:polySurface59:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    sky_mechanic_03:polySurface56:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 13500002
+    sky_mechanic_03:polySurface58:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    - 13500004
+    sky_mechanic_03:polySurface57:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    - 13500006
+    sky_mechanic_03:nurbsCircle1 1:
+    - 100008
+    - 400008
+    sky_mechanic_03:cube6 1:
+    - 100010
+    - 400010
+    sky_mechanic_03:group1 1:
+    - 100012
+    - 400012
+    sky_mechanic_03:cube2 1:
+    - 100014
+    - 400014
+    sky_mechanic_03:polySurface68:
+    - 100016
+    - 400016
+    - 3300008
+    - 2300008
+    - 13500008
+    sky_mechanic_03:polySurface67:
+    - 100018
+    - 400018
+    - 3300010
+    - 2300010
+    - 13500010
+    sky_mechanic_03:cube3 1:
+    - 100020
+    - 400020
+    sky_mechanic_03:polySurface69:
+    - 100022
+    - 400022
+    - 3300012
+    - 2300012
+    - 13500012
+    sky_mechanic_03:polySurface70:
+    - 100024
+    - 400024
+    - 3300014
+    - 2300014
+    - 13500014
+    sky_mechanic_03:polySurface72:
+    - 100026
+    - 400026
+    - 3300016
+    - 2300016
+    - 13500016
+    sky_mechanic_03:polySurface77:
+    - 100028
+    - 400028
+    - 3300018
+    - 2300018
+    - 13500018
+    sky_mechanic_03:polySurface73:
+    - 100030
+    - 400030
+    - 3300020
+    - 2300020
+    - 13500020
+    sky_mechanic_03:polySurface79:
+    - 100032
+    - 400032
+    - 3300022
+    - 2300022
+    - 13500022
+    sky_mechanic_03:group3:
+    - 100034
+    - 400034
+    sky_mechanic_03:polySurface66:
+    - 100036
+    - 400036
+    - 3300024
+    - 2300024
+    - 13500024
+    sky_mechanic_03:nurbsCircle4 1:
+    - 100038
+    - 400038
+    sky_mechanic_03:polySurface71:
+    - 100040
+    - 400040
+    - 3300026
+    - 2300026
+    - 13500026
+    sky_mechanic_03:polySurface55:
+    - 100042
+    - 400042
+    - 3300028
+    - 2300028
+    - 13500028
+    sky_mechanic_03:polySurface52:
+    - 100044
+    - 400044
+    - 3300030
+    - 2300030
+    - 13500030
+    sky_mechanic_03:nurbsCircle4:
+    - 100046
+    - 400046
+    sky_mechanic_03:polySurface53:
+    - 100048
+    - 400048
+    - 3300032
+    - 2300032
+    - 13500032
+    sky_mechanic_03:cube3:
+    - 100050
+    - 400050
+    sky_mechanic_03:polySurface54:
+    - 100052
+    - 400052
+    - 3300034
+    - 2300034
+    - 13500034
+    sky_mechanic_03:cube2:
+    - 100054
+    - 400054
+    sky_mechanic_03:nurbsCircle1:
+    - 100056
+    - 400056
+    sky_mechanic_03:cube6:
+    - 100058
+    - 400058
+    sky_mechanic_03:group1:
+    - 100060
+    - 400060
+    sky_mechanic_03:group2:
+    - 100062
+    - 400062
+    sky_mechanic_03:polySurface65:
+    - 100064
+    - 400064
+    - 3300036
+    - 2300036
+    - 13500036
+    sky_mechanic_03:polySurface75:
+    - 100066
+    - 400066
+    - 3300038
+    - 2300038
+    - 13500038
+    sky_mechanic_03:cube10:
+    - 100068
+    - 400068
+    sky_mechanic_03:polySurface74:
+    - 100070
+    - 400070
+    - 3300040
+    - 2300040
+    - 13500040
+    sky_mechanic_03:cube9:
+    - 100072
+    - 400072
+    sky_mechanic_03:polySurface60:
+    - 100074
+    - 400074
+    - 3300042
+    - 2300042
+    - 13500042
+    sky_mechanic_03:cube7:
+    - 100076
+    - 400076
+    sky_mechanic_03:polySurface61:
+    - 100078
+    - 400078
+    - 3300044
+    - 2300044
+    - 13500044
+    sky_mechanic_03:polySurface51:
+    - 100080
+    - 400080
+    - 3300046
+    - 2300046
+    - 13500046
+    sky_mechanic_03:cube8:
+    - 100082
+    - 400082
+    sky_mechanic_03:polySurface78:
+    - 100084
+    - 400084
+    - 3300048
+    - 2300048
+    - 13500048
+    sky_mechanic_03:nurbsCircle5:
+    - 100086
+    - 400086
+    sky_mechanic_03:sky_mechanic_s:
+    - 100088
+    - 400088
+    //RootNode:
+    - 100090
+    - 400090
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: sky_mechanic_03:polySurface78
+    4300002: sky_mechanic_03:polySurface51
+    4300004: sky_mechanic_03:polySurface61
+    4300006: sky_mechanic_03:polySurface60
+    4300008: sky_mechanic_03:polySurface74
+    4300010: sky_mechanic_03:polySurface75
+    4300012: sky_mechanic_03:polySurface65
+    4300014: sky_mechanic_03:polySurface54
+    4300016: sky_mechanic_03:polySurface53
+    4300018: sky_mechanic_03:polySurface52
+    4300020: sky_mechanic_03:polySurface55
+    4300022: sky_mechanic_03:polySurface56
+    4300024: sky_mechanic_03:polySurface59
+    4300026: sky_mechanic_03:polySurface58
+    4300028: sky_mechanic_03:polySurface57
+    4300030: sky_mechanic_03:polySurface68
+    4300032: sky_mechanic_03:polySurface67
+    4300034: sky_mechanic_03:polySurface66
+    4300036: sky_mechanic_03:polySurface69
+    4300038: sky_mechanic_03:polySurface70
+    4300040: sky_mechanic_03:polySurface73
+    4300042: sky_mechanic_03:polySurface72
+    4300044: sky_mechanic_03:polySurface71
+    4300046: sky_mechanic_03:polySurface77
+    4300048: sky_mechanic_03:polySurface79
+    7400000: Take 001 //// e_sky_mechanic02
+    7400002: fly //// e_sky_mechanic02
+    7400004: attack //// e_sky_mechanic02
+    7400006: die //// e_sky_mechanic02
+    7400008: ' //// e_sky_mechanic02'
+    7400010: spawn //// e_sky_mechanic02
+    7400012: walking //// e_sky_mechanic02
+    7400014: attacking //// e_sky_mechanic02
+    7400016: move //// e_sky_mechanic02

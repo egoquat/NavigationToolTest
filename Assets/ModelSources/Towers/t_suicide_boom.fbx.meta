@@ -1,0 +1,1249 @@
+fileFormatVersion: 1
+guid: a25b5c0cb914f234e8d93efe13da61d2
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      Build:
+        firstFrame: 21
+        lastFrame: 200
+        loop: 0
+        wrapMode: 0
+      NormalPose:
+        firstFrame: 221
+        lastFrame: 563
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    suicide_boom1:nurbsCircle6 3:
+    - 100000
+    - 400000
+    suicide_boom1:group66:
+    - 100002
+    - 400002
+    suicide_boom1:group67:
+    - 100004
+    - 400004
+    suicide_boom1:nurbsCircle5:
+    - 100006
+    - 400006
+    suicide_boom1:nurbsCircle4 2:
+    - 100008
+    - 400008
+    suicide_boom1:polySurface1151 5:
+    - 100010
+    - 400010
+    - 3300000
+    - 2300000
+    - 13500000
+    suicide_boom1:polySurface1125 3:
+    - 100012
+    - 400012
+    - 3300002
+    - 2300002
+    - 13500002
+    suicide_boom1:nurbsCircle1 1:
+    - 100014
+    - 400014
+    suicide_boom1:polySurface1189:
+    - 100016
+    - 400016
+    - 3300004
+    - 2300004
+    - 13500004
+    suicide_boom1:polySurface1147:
+    - 100018
+    - 400018
+    - 3300006
+    - 2300006
+    - 13500006
+    suicide_boom1:nurbsCircle4:
+    - 100020
+    - 400020
+    suicide_boom1:polySurface1147 1:
+    - 100022
+    - 400022
+    - 3300008
+    - 2300008
+    - 13500008
+    suicide_boom1:polySurface1173:
+    - 100024
+    - 400024
+    - 3300010
+    - 2300010
+    - 13500010
+    suicide_boom1:group48:
+    - 100026
+    - 400026
+    suicide_boom1:polySurface1151 2:
+    - 100028
+    - 400028
+    - 3300012
+    - 2300012
+    - 13500012
+    suicide_boom1:polySurface1122 1:
+    - 100030
+    - 400030
+    - 3300014
+    - 2300014
+    - 13500014
+    suicide_boom1:polySurface1192:
+    - 100032
+    - 400032
+    - 3300016
+    - 2300016
+    - 13500016
+    suicide_boom1:polySurface1175 4:
+    - 100034
+    - 400034
+    - 3300018
+    - 2300018
+    - 13500018
+    suicide_boom1:nurbsCircle7 5:
+    - 100036
+    - 400036
+    suicide_boom1:group74:
+    - 100038
+    - 400038
+    suicide_boom1:nurbsCircle3 4:
+    - 100040
+    - 400040
+    suicide_boom1:polySurface1124 3:
+    - 100042
+    - 400042
+    - 3300020
+    - 2300020
+    - 13500020
+    suicide_boom1:nurbsCircle2:
+    - 100044
+    - 400044
+    suicide_boom1:polySurface1171 2:
+    - 100046
+    - 400046
+    - 3300022
+    - 2300022
+    - 13500022
+    suicide_boom1:polySurface1151 4:
+    - 100048
+    - 400048
+    - 3300024
+    - 2300024
+    - 13500024
+    suicide_boom1:nurbsCircle1 5:
+    - 100050
+    - 400050
+    suicide_boom1:polySurface1171 1:
+    - 100052
+    - 400052
+    - 3300026
+    - 2300026
+    - 13500026
+    suicide_boom1:cube3 5:
+    - 100054
+    - 400054
+    suicide_boom1:nurbsCircle6 1:
+    - 100056
+    - 400056
+    suicide_boom1:group47 1:
+    - 100058
+    - 400058
+    suicide_boom1:polySurface1193:
+    - 100060
+    - 400060
+    - 3300028
+    - 2300028
+    - 13500028
+    suicide_boom1:nurbsCircle4 4:
+    - 100062
+    - 400062
+    suicide_boom1:group69:
+    - 100064
+    - 400064
+    suicide_boom1:group76:
+    - 100066
+    - 400066
+    suicide_boom1:nurbsCircle4 3:
+    - 100068
+    - 400068
+    suicide_boom1:polySurface1171 4:
+    - 100070
+    - 400070
+    - 3300030
+    - 2300030
+    - 13500030
+    suicide_boom1:nurbsCircle6 2:
+    - 100072
+    - 400072
+    suicide_boom1:nurbsCircle5 1:
+    - 100074
+    - 400074
+    suicide_boom1:polySurface1125 4:
+    - 100076
+    - 400076
+    - 3300032
+    - 2300032
+    - 13500032
+    suicide_boom1:polySurface1149 5:
+    - 100078
+    - 400078
+    - 3300034
+    - 2300034
+    - 13500034
+    suicide_boom1:polySurface1123 1:
+    - 100080
+    - 400080
+    - 3300036
+    - 2300036
+    - 13500036
+    suicide_boom1:group54:
+    - 100082
+    - 400082
+    suicide_boom1:polySurface1175 1:
+    - 100084
+    - 400084
+    - 3300038
+    - 2300038
+    - 13500038
+    suicide_boom1:nurbsCircle10:
+    - 100086
+    - 400086
+    suicide_boom1:polySurface1151 3:
+    - 100088
+    - 400088
+    - 3300040
+    - 2300040
+    - 13500040
+    suicide_boom1:polySurface1098:
+    - 100090
+    - 400090
+    - 3300042
+    - 2300042
+    - 13500042
+    suicide_boom1:nurbsCircle3 1:
+    - 100092
+    - 400092
+    suicide_boom1:polySurface1191:
+    - 100094
+    - 400094
+    suicide_boom1:nurbsCircle3 2:
+    - 100096
+    - 400096
+    suicide_boom1:polySurface1125:
+    - 100098
+    - 400098
+    - 3300044
+    - 2300044
+    - 13500044
+    suicide_boom1:polySurface1121:
+    - 100100
+    - 400100
+    - 3300046
+    - 2300046
+    - 13500046
+    suicide_boom1:polySurface1125 5:
+    - 100102
+    - 400102
+    - 3300048
+    - 2300048
+    - 13500048
+    suicide_boom1:group68:
+    - 100104
+    - 400104
+    suicide_boom1:group75:
+    - 100106
+    - 400106
+    suicide_boom1:polySurface1190:
+    - 100108
+    - 400108
+    - 3300050
+    - 2300050
+    - 13500050
+    suicide_boom1:group53:
+    - 100110
+    - 400110
+    suicide_boom1:polySurface1095:
+    - 100112
+    - 400112
+    - 3300052
+    - 2300052
+    - 13500052
+    suicide_boom1:polySurface1125 2:
+    - 100114
+    - 400114
+    - 3300054
+    - 2300054
+    - 13500054
+    suicide_boom1:group78:
+    - 100116
+    - 400116
+    suicide_boom1:nurbsCircle7 4:
+    - 100118
+    - 400118
+    suicide_boom1:nurbsCircle5 2:
+    - 100120
+    - 400120
+    suicide_boom1:nurbsCircle3 3:
+    - 100122
+    - 400122
+    suicide_boom1:polySurface1149:
+    - 100124
+    - 400124
+    - 3300056
+    - 2300056
+    - 13500056
+    suicide_boom1:group55:
+    - 100126
+    - 400126
+    suicide_boom1:polySurface1120 5:
+    - 100128
+    - 400128
+    - 3300058
+    - 2300058
+    - 13500058
+    suicide_boom1:group62:
+    - 100130
+    - 400130
+    suicide_boom1:cube1 5:
+    - 100132
+    - 400132
+    suicide_boom1:polySurface1149 2:
+    - 100134
+    - 400134
+    - 3300060
+    - 2300060
+    - 13500060
+    suicide_boom1:nurbsCircle6:
+    - 100136
+    - 400136
+    suicide_boom1:group47 4:
+    - 100138
+    - 400138
+    suicide_boom1:polySurface1173 4:
+    - 100140
+    - 400140
+    - 3300062
+    - 2300062
+    - 13500062
+    suicide_boom1:cube4:
+    - 100142
+    - 400142
+    suicide_boom1:polySurface1124:
+    - 100144
+    - 400144
+    - 3300064
+    - 2300064
+    - 13500064
+    suicide_boom1:cube2 2:
+    - 100146
+    - 400146
+    suicide_boom1:polySurface1175 5:
+    - 100148
+    - 400148
+    - 3300066
+    - 2300066
+    - 13500066
+    suicide_boom1:suicide_boom_s:
+    - 100150
+    - 400150
+    suicide_boom1:polySurface1149 1:
+    - 100152
+    - 400152
+    - 3300068
+    - 2300068
+    - 13500068
+    suicide_boom1:group41:
+    - 100154
+    - 400154
+    suicide_boom1:polySurface1125 1:
+    - 100156
+    - 400156
+    - 3300070
+    - 2300070
+    - 13500070
+    suicide_boom1:nurbsCircle1:
+    - 100158
+    - 400158
+    suicide_boom1:nurbsCircle6 5:
+    - 100160
+    - 400160
+    suicide_boom1:polySurface1123:
+    - 100162
+    - 400162
+    - 3300072
+    - 2300072
+    - 13500072
+    suicide_boom1:nurbsCircle8 4:
+    - 100164
+    - 400164
+    suicide_boom1:polySurface1121 1:
+    - 100166
+    - 400166
+    - 3300074
+    - 2300074
+    - 13500074
+    suicide_boom1:cube3 1:
+    - 100168
+    - 400168
+    suicide_boom1:nurbsCircle8 5:
+    - 100170
+    - 400170
+    suicide_boom1:polySurface1172:
+    - 100172
+    - 400172
+    - 3300076
+    - 2300076
+    - 13500076
+    suicide_boom1:polySurface1172 4:
+    - 100174
+    - 400174
+    - 3300078
+    - 2300078
+    - 13500078
+    suicide_boom1:nurbsCircle16:
+    - 100176
+    - 400176
+    suicide_boom1:group79:
+    - 100178
+    - 400178
+    suicide_boom1:ki_pan:
+    - 100180
+    - 400180
+    suicide_boom1:polySurface1192 3:
+    - 100182
+    - 400182
+    - 3300080
+    - 2300080
+    - 13500080
+    suicide_boom1:polySurface1173 5:
+    - 100184
+    - 400184
+    - 3300082
+    - 2300082
+    - 13500082
+    suicide_boom1:group59:
+    - 100186
+    - 400186
+    suicide_boom1:nurbsCircle13:
+    - 100188
+    - 400188
+    suicide_boom1:polySurface1100:
+    - 100190
+    - 400190
+    - 3300084
+    - 2300084
+    - 13500084
+    suicide_boom1:polySurface1188:
+    - 100192
+    - 400192
+    - 3300086
+    - 2300086
+    - 13500086
+    suicide_boom1:polySurface1175 3:
+    - 100194
+    - 400194
+    - 3300088
+    - 2300088
+    - 13500088
+    suicide_boom1:polySurface1097:
+    - 100196
+    - 400196
+    - 3300090
+    - 2300090
+    - 13500090
+    suicide_boom1:polySurface1151:
+    - 100198
+    - 400198
+    - 3300092
+    - 2300092
+    - 13500092
+    suicide_boom1:polySurface1096:
+    - 100200
+    - 400200
+    suicide_boom1:nurbsCircle7 3:
+    - 100202
+    - 400202
+    suicide_boom1:polySurface1147 2:
+    - 100204
+    - 400204
+    - 3300094
+    - 2300094
+    - 13500094
+    suicide_boom1:nurbsCircle17:
+    - 100206
+    - 400206
+    suicide_boom1:polySurface1124 2:
+    - 100208
+    - 400208
+    - 3300096
+    - 2300096
+    - 13500096
+    suicide_boom1:polySurface1174 5:
+    - 100210
+    - 400210
+    - 3300098
+    - 2300098
+    - 13500098
+    suicide_boom1:polySurface1123 5:
+    - 100212
+    - 400212
+    - 3300100
+    - 2300100
+    - 13500100
+    suicide_boom1:polySurface1194:
+    - 100214
+    - 400214
+    - 3300102
+    - 2300102
+    - 13500102
+    suicide_boom1:group56:
+    - 100216
+    - 400216
+    suicide_boom1:polySurface1099:
+    - 100218
+    - 400218
+    - 3300104
+    - 2300104
+    - 13500104
+    suicide_boom1:group64:
+    - 100220
+    - 400220
+    suicide_boom1:cube2 4:
+    - 100222
+    - 400222
+    suicide_boom1:group57:
+    - 100224
+    - 400224
+    suicide_boom1:polySurface1101:
+    - 100226
+    - 400226
+    - 3300106
+    - 2300106
+    - 13500106
+    suicide_boom1:polySurface1120 1:
+    - 100228
+    - 400228
+    - 3300108
+    - 2300108
+    - 13500108
+    suicide_boom1:nurbsCircle2 1:
+    - 100230
+    - 400230
+    suicide_boom1:nurbsCircle3:
+    - 100232
+    - 400232
+    suicide_boom1:polySurface1174 3:
+    - 100234
+    - 400234
+    - 3300110
+    - 2300110
+    - 13500110
+    suicide_boom1:cube1:
+    - 100236
+    - 400236
+    suicide_boom1:nurbsCircle3 5:
+    - 100238
+    - 400238
+    suicide_boom1:nurbsCircle8 1:
+    - 100240
+    - 400240
+    suicide_boom1:cube2 1:
+    - 100242
+    - 400242
+    suicide_boom1:polySurface1192 2:
+    - 100244
+    - 400244
+    - 3300112
+    - 2300112
+    - 13500112
+    suicide_boom1:cube1 1:
+    - 100246
+    - 400246
+    suicide_boom1:polySurface1171 5:
+    - 100248
+    - 400248
+    - 3300114
+    - 2300114
+    - 13500114
+    suicide_boom1:cube2:
+    - 100250
+    - 400250
+    suicide_boom1:polySurface1087:
+    - 100252
+    - 400252
+    suicide_boom1:group61:
+    - 100254
+    - 400254
+    suicide_boom1:polySurface1174 4:
+    - 100256
+    - 400256
+    - 3300116
+    - 2300116
+    - 13500116
+    suicide_boom1:nurbsCircle11:
+    - 100258
+    - 400258
+    suicide_boom1:polySurface1124 1:
+    - 100260
+    - 400260
+    - 3300118
+    - 2300118
+    - 13500118
+    suicide_boom1:polySurface1120:
+    - 100262
+    - 400262
+    - 3300120
+    - 2300120
+    - 13500120
+    suicide_boom1:nurbsCircle8 2:
+    - 100264
+    - 400264
+    suicide_boom1:nurbsCircle4 5:
+    - 100266
+    - 400266
+    suicide_boom1:polySurface1192 1:
+    - 100268
+    - 400268
+    - 3300122
+    - 2300122
+    - 13500122
+    suicide_boom1:group50:
+    - 100270
+    - 400270
+    suicide_boom1:polySurface1194 1:
+    - 100272
+    - 400272
+    - 3300124
+    - 2300124
+    - 13500124
+    suicide_boom1:group73:
+    - 100274
+    - 400274
+    suicide_boom1:polySurface1124 5:
+    - 100276
+    - 400276
+    - 3300126
+    - 2300126
+    - 13500126
+    suicide_boom1:cube3 4:
+    - 100278
+    - 400278
+    suicide_boom1:group65:
+    - 100280
+    - 400280
+    suicide_boom1:group77:
+    - 100282
+    - 400282
+    suicide_boom1:polySurface1192 4:
+    - 100284
+    - 400284
+    - 3300128
+    - 2300128
+    - 13500128
+    suicide_boom1:polySurface1187:
+    - 100286
+    - 400286
+    - 3300130
+    - 2300130
+    - 13500130
+    suicide_boom1:polySurface1172 3:
+    - 100288
+    - 400288
+    - 3300132
+    - 2300132
+    - 13500132
+    suicide_boom1:polySurface1192 5:
+    - 100290
+    - 400290
+    - 3300134
+    - 2300134
+    - 13500134
+    suicide_boom1:polySurface1151 1:
+    - 100292
+    - 400292
+    - 3300136
+    - 2300136
+    - 13500136
+    suicide_boom1:polySurface1124 4:
+    - 100294
+    - 400294
+    - 3300138
+    - 2300138
+    - 13500138
+    suicide_boom1:nurbsCircle9:
+    - 100296
+    - 400296
+    suicide_boom1:nurbsCircle5 5:
+    - 100298
+    - 400298
+    suicide_boom1:cube3 3:
+    - 100300
+    - 400300
+    suicide_boom1:group47 5:
+    - 100302
+    - 400302
+    suicide_boom1:group47 2:
+    - 100304
+    - 400304
+    suicide_boom1:nurbsCircle6 4:
+    - 100306
+    - 400306
+    suicide_boom1:nurbsCircle12:
+    - 100308
+    - 400308
+    suicide_boom1:polySurface1122:
+    - 100310
+    - 400310
+    - 3300140
+    - 2300140
+    - 13500140
+    suicide_boom1:polySurface1172 5:
+    - 100312
+    - 400312
+    - 3300142
+    - 2300142
+    - 13500142
+    suicide_boom1:polySurface1194 5:
+    - 100314
+    - 400314
+    - 3300144
+    - 2300144
+    - 13500144
+    suicide_boom1:group63:
+    - 100316
+    - 400316
+    suicide_boom1:nurbsCircle4 1:
+    - 100318
+    - 400318
+    suicide_boom1:polySurface1121 5:
+    - 100320
+    - 400320
+    - 3300146
+    - 2300146
+    - 13500146
+    suicide_boom1:polySurface1173 2:
+    - 100322
+    - 400322
+    - 3300148
+    - 2300148
+    - 13500148
+    suicide_boom1:polySurface1122 5:
+    - 100324
+    - 400324
+    - 3300150
+    - 2300150
+    - 13500150
+    suicide_boom1:nurbsCircle1 4:
+    - 100326
+    - 400326
+    suicide_boom1:nurbsCircle1 3:
+    - 100328
+    - 400328
+    suicide_boom1:nurbsCircle1 2:
+    - 100330
+    - 400330
+    suicide_boom1:group58:
+    - 100332
+    - 400332
+    suicide_boom1:group52:
+    - 100334
+    - 400334
+    suicide_boom1:polySurface191:
+    - 100336
+    - 400336
+    - 3300152
+    - 2300152
+    - 13500152
+    suicide_boom1:polySurface1147 5:
+    - 100338
+    - 400338
+    - 3300154
+    - 2300154
+    - 13500154
+    suicide_boom1:polySurface190:
+    - 100340
+    - 400340
+    - 3300156
+    - 2300156
+    - 13500156
+    suicide_boom1:polySurface1172 2:
+    - 100342
+    - 400342
+    - 3300158
+    - 2300158
+    - 13500158
+    suicide_boom1:cube2 5:
+    - 100344
+    - 400344
+    suicide_boom1:nurbsCircle7 2:
+    - 100346
+    - 400346
+    suicide_boom1:pPlane6:
+    - 100348
+    - 400348
+    - 3300160
+    - 2300160
+    - 13500160
+    suicide_boom1:group60:
+    - 100350
+    - 400350
+    suicide_boom1:polySurface1174 2:
+    - 100352
+    - 400352
+    - 3300162
+    - 2300162
+    - 13500162
+    suicide_boom1:polySurface1149 4:
+    - 100354
+    - 400354
+    - 3300164
+    - 2300164
+    - 13500164
+    suicide_boom1:group46:
+    - 100356
+    - 400356
+    suicide_boom1:cube3 2:
+    - 100358
+    - 400358
+    suicide_boom1:group45:
+    - 100360
+    - 400360
+    suicide_boom1:nurbsCircle5 4:
+    - 100362
+    - 400362
+    suicide_boom1:polySurface1175 2:
+    - 100364
+    - 400364
+    - 3300166
+    - 2300166
+    - 13500166
+    suicide_boom1:group42:
+    - 100366
+    - 400366
+    suicide_boom1:polySurface1173 1:
+    - 100368
+    - 400368
+    - 3300168
+    - 2300168
+    - 13500168
+    suicide_boom1:polySurface1147 4:
+    - 100370
+    - 400370
+    - 3300170
+    - 2300170
+    - 13500170
+    suicide_boom1:nurbsCircle2 5:
+    - 100372
+    - 400372
+    suicide_boom1:polySurface1171:
+    - 100374
+    - 400374
+    - 3300172
+    - 2300172
+    - 13500172
+    suicide_boom1:polySurface1121 2:
+    - 100376
+    - 400376
+    - 3300174
+    - 2300174
+    - 13500174
+    suicide_boom1:polySurface1121 4:
+    - 100378
+    - 400378
+    - 3300176
+    - 2300176
+    - 13500176
+    suicide_boom1:polySurface1121 3:
+    - 100380
+    - 400380
+    - 3300178
+    - 2300178
+    - 13500178
+    suicide_boom1:polySurface1149 3:
+    - 100382
+    - 400382
+    - 3300180
+    - 2300180
+    - 13500180
+    suicide_boom1:group47:
+    - 100384
+    - 400384
+    suicide_boom1:polySurface1171 3:
+    - 100386
+    - 400386
+    - 3300182
+    - 2300182
+    - 13500182
+    suicide_boom1:group51:
+    - 100388
+    - 400388
+    suicide_boom1:group70:
+    - 100390
+    - 400390
+    suicide_boom1:group72:
+    - 100392
+    - 400392
+    suicide_boom1:nurbsCircle7:
+    - 100394
+    - 400394
+    suicide_boom1:group71:
+    - 100396
+    - 400396
+    suicide_boom1:polySurface1122 4:
+    - 100398
+    - 400398
+    - 3300184
+    - 2300184
+    - 13500184
+    suicide_boom1:polySurface1122 2:
+    - 100400
+    - 400400
+    - 3300186
+    - 2300186
+    - 13500186
+    suicide_boom1:polySurface1122 3:
+    - 100402
+    - 400402
+    - 3300188
+    - 2300188
+    - 13500188
+    suicide_boom1:nurbsCircle5 3:
+    - 100404
+    - 400404
+    suicide_boom1:polySurface1173 3:
+    - 100406
+    - 400406
+    - 3300190
+    - 2300190
+    - 13500190
+    suicide_boom1:nurbsCircle8:
+    - 100408
+    - 400408
+    suicide_boom1:polySurface1194 2:
+    - 100410
+    - 400410
+    - 3300192
+    - 2300192
+    - 13500192
+    suicide_boom1:polySurface1172 1:
+    - 100412
+    - 400412
+    - 3300194
+    - 2300194
+    - 13500194
+    suicide_boom1:polySurface1174:
+    - 100414
+    - 400414
+    - 3300196
+    - 2300196
+    - 13500196
+    suicide_boom1:polySurface1194 4:
+    - 100416
+    - 400416
+    - 3300198
+    - 2300198
+    - 13500198
+    suicide_boom1:polySurface1194 3:
+    - 100418
+    - 400418
+    - 3300200
+    - 2300200
+    - 13500200
+    suicide_boom1:nurbsCircle2 4:
+    - 100420
+    - 400420
+    suicide_boom1:nurbsCircle2 2:
+    - 100422
+    - 400422
+    suicide_boom1:nurbsCircle2 3:
+    - 100424
+    - 400424
+    suicide_boom1:group47 3:
+    - 100426
+    - 400426
+    suicide_boom1:polySurface1147 3:
+    - 100428
+    - 400428
+    - 3300202
+    - 2300202
+    - 13500202
+    suicide_boom1:group49:
+    - 100430
+    - 400430
+    suicide_boom1:cube1 2:
+    - 100432
+    - 400432
+    suicide_boom1:nurbsCircle7 1:
+    - 100434
+    - 400434
+    suicide_boom1:cube1 4:
+    - 100436
+    - 400436
+    suicide_boom1:cube3:
+    - 100438
+    - 400438
+    suicide_boom1:polySurface1120 4:
+    - 100440
+    - 400440
+    - 3300204
+    - 2300204
+    - 13500204
+    suicide_boom1:cube1 3:
+    - 100442
+    - 400442
+    suicide_boom1:polySurface1175:
+    - 100444
+    - 400444
+    - 3300206
+    - 2300206
+    - 13500206
+    suicide_boom1:polySurface1123 4:
+    - 100446
+    - 400446
+    - 3300208
+    - 2300208
+    - 13500208
+    suicide_boom1:polySurface1174 1:
+    - 100448
+    - 400448
+    - 3300210
+    - 2300210
+    - 13500210
+    suicide_boom1:polySurface1123 2:
+    - 100450
+    - 400450
+    - 3300212
+    - 2300212
+    - 13500212
+    suicide_boom1:cube5:
+    - 100452
+    - 400452
+    suicide_boom1:nurbsCircle8 3:
+    - 100454
+    - 400454
+    suicide_boom1:cube2 3:
+    - 100456
+    - 400456
+    suicide_boom1:polySurface1123 3:
+    - 100458
+    - 400458
+    - 3300214
+    - 2300214
+    - 13500214
+    suicide_boom1:polySurface1120 3:
+    - 100460
+    - 400460
+    - 3300216
+    - 2300216
+    - 13500216
+    suicide_boom1:polySurface1120 2:
+    - 100462
+    - 400462
+    - 3300218
+    - 2300218
+    - 13500218
+    auto_y1:
+    - 100464
+    - 400464
+    - 11400002
+    auto_y2:
+    - 100466
+    - 400466
+    - 11400000
+    //RootNode:
+    - 100468
+    - 400468
+    - 11100468
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: suicide_boom1:polySurface1095
+    4300002: suicide_boom1:polySurface1187
+    4300004: suicide_boom1:polySurface1190
+    4300006: suicide_boom1:polySurface1189
+    4300008: suicide_boom1:polySurface1188
+    4300010: suicide_boom1:polySurface1100
+    4300012: suicide_boom1:polySurface1101
+    4300014: suicide_boom1:polySurface1147
+    4300016: suicide_boom1:polySurface1149
+    4300018: suicide_boom1:polySurface1147
+    4300020: suicide_boom1:polySurface1149
+    4300022: suicide_boom1:polySurface1147
+    4300024: suicide_boom1:polySurface1149
+    4300026: suicide_boom1:polySurface1147
+    4300028: suicide_boom1:polySurface1149
+    4300030: suicide_boom1:polySurface1147
+    4300032: suicide_boom1:polySurface1149
+    4300034: suicide_boom1:polySurface1147
+    4300036: suicide_boom1:polySurface1149
+    4300038: suicide_boom1:polySurface1151
+    4300040: suicide_boom1:polySurface1151
+    4300042: suicide_boom1:polySurface1151
+    4300044: suicide_boom1:polySurface1151
+    4300046: suicide_boom1:polySurface1151
+    4300048: suicide_boom1:polySurface1151
+    4300050: suicide_boom1:polySurface1193
+    4300052: suicide_boom1:polySurface1124
+    4300054: suicide_boom1:polySurface1120
+    4300056: suicide_boom1:polySurface1122
+    4300058: suicide_boom1:polySurface1121
+    4300060: suicide_boom1:polySurface1125
+    4300062: suicide_boom1:polySurface1123
+    4300064: suicide_boom1:polySurface1194
+    4300066: suicide_boom1:polySurface1124
+    4300068: suicide_boom1:polySurface1120
+    4300070: suicide_boom1:polySurface1122
+    4300072: suicide_boom1:polySurface1121
+    4300074: suicide_boom1:polySurface1125
+    4300076: suicide_boom1:polySurface1123
+    4300078: suicide_boom1:polySurface1194
+    4300080: suicide_boom1:polySurface1124
+    4300082: suicide_boom1:polySurface1120
+    4300084: suicide_boom1:polySurface1122
+    4300086: suicide_boom1:polySurface1121
+    4300088: suicide_boom1:polySurface1125
+    4300090: suicide_boom1:polySurface1123
+    4300092: suicide_boom1:polySurface1194
+    4300094: suicide_boom1:polySurface1124
+    4300096: suicide_boom1:polySurface1120
+    4300098: suicide_boom1:polySurface1122
+    4300100: suicide_boom1:polySurface1121
+    4300102: suicide_boom1:polySurface1125
+    4300104: suicide_boom1:polySurface1123
+    4300106: suicide_boom1:polySurface1194
+    4300108: suicide_boom1:polySurface1124
+    4300110: suicide_boom1:polySurface1120
+    4300112: suicide_boom1:polySurface1122
+    4300114: suicide_boom1:polySurface1121
+    4300116: suicide_boom1:polySurface1125
+    4300118: suicide_boom1:polySurface1123
+    4300120: suicide_boom1:polySurface1194
+    4300122: suicide_boom1:polySurface1124
+    4300124: suicide_boom1:polySurface1120
+    4300126: suicide_boom1:polySurface1122
+    4300128: suicide_boom1:polySurface1121
+    4300130: suicide_boom1:polySurface1125
+    4300132: suicide_boom1:polySurface1123
+    4300134: suicide_boom1:polySurface1194
+    4300136: suicide_boom1:polySurface1192
+    4300138: suicide_boom1:polySurface1192
+    4300140: suicide_boom1:polySurface1192
+    4300142: suicide_boom1:polySurface1192
+    4300144: suicide_boom1:polySurface1192
+    4300146: suicide_boom1:polySurface1192
+    4300148: suicide_boom1:polySurface1099
+    4300150: suicide_boom1:polySurface1098
+    4300152: suicide_boom1:polySurface1097
+    4300154: suicide_boom1:pPlane6
+    4300156: suicide_boom1:polySurface190
+    4300158: suicide_boom1:polySurface191
+    4300160: suicide_boom1:polySurface1173
+    4300162: suicide_boom1:polySurface1171
+    4300164: suicide_boom1:polySurface1175
+    4300166: suicide_boom1:polySurface1174
+    4300168: suicide_boom1:polySurface1172
+    4300170: suicide_boom1:polySurface1173
+    4300172: suicide_boom1:polySurface1171
+    4300174: suicide_boom1:polySurface1175
+    4300176: suicide_boom1:polySurface1174
+    4300178: suicide_boom1:polySurface1172
+    4300180: suicide_boom1:polySurface1173
+    4300182: suicide_boom1:polySurface1171
+    4300184: suicide_boom1:polySurface1175
+    4300186: suicide_boom1:polySurface1174
+    4300188: suicide_boom1:polySurface1172
+    4300190: suicide_boom1:polySurface1173
+    4300192: suicide_boom1:polySurface1171
+    4300194: suicide_boom1:polySurface1175
+    4300196: suicide_boom1:polySurface1174
+    4300198: suicide_boom1:polySurface1172
+    4300200: suicide_boom1:polySurface1173
+    4300202: suicide_boom1:polySurface1171
+    4300204: suicide_boom1:polySurface1175
+    4300206: suicide_boom1:polySurface1174
+    4300208: suicide_boom1:polySurface1172
+    4300210: suicide_boom1:polySurface1173
+    4300212: suicide_boom1:polySurface1171
+    4300214: suicide_boom1:polySurface1175
+    4300216: suicide_boom1:polySurface1174
+    4300218: suicide_boom1:polySurface1172
+    7400000: Take 001 //// t_suicide_boom
+    7400002: Build //// t_suicide_boom
+    7400004: Idle0 //// t_suicide_boom
+    7400006: Take 001 //// suicide_boom1:suicide_boom
+    7400008: Take 001 //// suicide_boom1:nurbsCircle17
+    7400010: Take 001 //// suicide_boom1:nurbsCircle10
+    7400012: Take 001 //// suicide_boom1:cube2
+    7400014: Take 001 //// suicide_boom1:nurbsCircle5
+    7400016: Take 001 //// suicide_boom1:cube2 1
+    7400018: Take 001 //// suicide_boom1:nurbsCircle5 1
+    7400020: Take 001 //// suicide_boom1:cube2 2
+    7400022: Take 001 //// suicide_boom1:nurbsCircle5 2
+    7400024: Take 001 //// suicide_boom1:cube2 3
+    7400026: Take 001 //// suicide_boom1:nurbsCircle5 3
+    7400028: Take 001 //// suicide_boom1:cube2 4
+    7400030: Take 001 //// suicide_boom1:nurbsCircle5 4
+    7400032: Take 001 //// suicide_boom1:cube2 5
+    7400034: Take 001 //// suicide_boom1:nurbsCircle5 5
+    7400036: Take 001 //// suicide_boom1:nurbsCircle6
+    7400038: Take 001 //// suicide_boom1:nurbsCircle6 1
+    7400040: Take 001 //// suicide_boom1:nurbsCircle6 2
+    7400042: Take 001 //// suicide_boom1:nurbsCircle6 3
+    7400044: Take 001 //// suicide_boom1:nurbsCircle6 4
+    7400046: Take 001 //// suicide_boom1:nurbsCircle6 5
+    7400048: Take 001 //// suicide_boom1:nurbsCircle12
+    7400050: Take 001 //// suicide_boom1:nurbsCircle1
+    7400052: Take 001 //// suicide_boom1:nurbsCircle2
+    7400054: Take 001 //// suicide_boom1:cube1
+    7400056: Take 001 //// suicide_boom1:nurbsCircle1 1
+    7400058: Take 001 //// suicide_boom1:nurbsCircle2 1
+    7400060: Take 001 //// suicide_boom1:cube1 1
+    7400062: Take 001 //// suicide_boom1:nurbsCircle1 2
+    7400064: Take 001 //// suicide_boom1:nurbsCircle2 2
+    7400066: Take 001 //// suicide_boom1:cube1 2
+    7400068: Take 001 //// suicide_boom1:nurbsCircle1 3
+    7400070: Take 001 //// suicide_boom1:nurbsCircle2 3
+    7400072: Take 001 //// suicide_boom1:cube1 3
+    7400074: Take 001 //// suicide_boom1:nurbsCircle1 4
+    7400076: Take 001 //// suicide_boom1:nurbsCircle2 4
+    7400078: Take 001 //// suicide_boom1:cube1 4
+    7400080: Take 001 //// suicide_boom1:nurbsCircle1 5
+    7400082: Take 001 //// suicide_boom1:nurbsCircle2 5
+    7400084: Take 001 //// suicide_boom1:cube1 5
+    7400086: Take 001 //// suicide_boom1:nurbsCircle4
+    7400088: Take 001 //// suicide_boom1:nurbsCircle4 1
+    7400090: Take 001 //// suicide_boom1:nurbsCircle4 2
+    7400092: Take 001 //// suicide_boom1:nurbsCircle4 3
+    7400094: Take 001 //// suicide_boom1:nurbsCircle4 4
+    7400096: Take 001 //// suicide_boom1:nurbsCircle4 5
+    7400098: Take 001 //// suicide_boom1:cube4
+    7400100: Take 001 //// suicide_boom1:cube3
+    7400102: Take 001 //// suicide_boom1:nurbsCircle7
+    7400104: Take 001 //// suicide_boom1:cube3 1
+    7400106: Take 001 //// suicide_boom1:nurbsCircle7 1
+    7400108: Take 001 //// suicide_boom1:cube3 2
+    7400110: Take 001 //// suicide_boom1:nurbsCircle7 2
+    7400112: Take 001 //// suicide_boom1:cube3 3
+    7400114: Take 001 //// suicide_boom1:nurbsCircle7 3
+    7400116: Take 001 //// suicide_boom1:cube3 4
+    7400118: Take 001 //// suicide_boom1:nurbsCircle7 4
+    7400120: Take 001 //// suicide_boom1:cube3 5
+    7400122: Take 001 //// suicide_boom1:nurbsCircle7 5
+    7400124: NormalPose //// t_suicide_boom

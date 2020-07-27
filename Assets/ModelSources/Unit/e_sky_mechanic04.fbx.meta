@@ -1,0 +1,202 @@
+fileFormatVersion: 1
+guid: aabde7c063cf1bb4a967d0d0738eae66
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      move:
+        firstFrame: 1
+        lastFrame: 240
+        loop: 0
+        wrapMode: 0
+      attack:
+        firstFrame: 521
+        lastFrame: 584
+        loop: 0
+        wrapMode: 0
+      die:
+        firstFrame: 591
+        lastFrame: 830
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    e_sky_mechanic04:e_sky_mechanic04_m1:
+    - 100000
+    - 400000
+    e_sky_mechanic04:e_sky_mechanic04_s:
+    - 100002
+    - 400002
+    e_sky_mechanic04:group1:
+    - 100004
+    - 400004
+    e_sky_mechanic04:polySurface18:
+    - 100006
+    - 400006
+    - 3300000
+    - 2300000
+    - 13500000
+    e_sky_mechanic04:polySurface27:
+    - 100008
+    - 400008
+    - 3300002
+    - 2300002
+    - 13500002
+    e_sky_mechanic04:cube5:
+    - 100010
+    - 400010
+    e_sky_mechanic04:group2:
+    - 100012
+    - 400012
+    e_sky_mechanic04:polySurface15:
+    - 100014
+    - 400014
+    - 3300004
+    - 2300004
+    - 13500004
+    e_sky_mechanic04:polySurface26:
+    - 100016
+    - 400016
+    - 3300006
+    - 2300006
+    - 13500006
+    e_sky_mechanic04:polySurface21:
+    - 100018
+    - 400018
+    - 3300008
+    - 2300008
+    - 13500008
+    e_sky_mechanic04:polySurface17:
+    - 100020
+    - 400020
+    - 3300010
+    - 2300010
+    - 13500010
+    e_sky_mechanic04:cube4 1:
+    - 100022
+    - 400022
+    e_sky_mechanic04:nurbsCircle2:
+    - 100024
+    - 400024
+    e_sky_mechanic04:polySurface14:
+    - 100026
+    - 400026
+    - 3300012
+    - 2300012
+    - 13500012
+    e_sky_mechanic04:polySurface19:
+    - 100028
+    - 400028
+    - 3300014
+    - 2300014
+    - 13500014
+    e_sky_mechanic04:cube4:
+    - 100030
+    - 400030
+    e_sky_mechanic04:polySurface13:
+    - 100032
+    - 400032
+    - 3300016
+    - 2300016
+    - 13500016
+    e_sky_mechanic04:nurbsCircle3:
+    - 100034
+    - 400034
+    //RootNode:
+    - 100036
+    - 400036
+    - 11100000
+    e_sky_mechanic04:Object006:
+    - 100038
+    - 400038
+    e_sky_mechanic04:nurbsCircle1:
+    - 100040
+    - 400040
+    e_sky_mechanic04:cube3:
+    - 100042
+    - 400042
+    e_sky_mechanic04:polySurface24:
+    - 100044
+    - 400044
+    - 3300018
+    - 2300018
+    - 13500018
+    e_sky_mechanic04:cube6:
+    - 100046
+    - 400046
+    e_sky_mechanic04:polySurface20:
+    - 100048
+    - 400048
+    - 3300020
+    - 2300020
+    - 13500020
+    e_sky_mechanic04:polySurface22:
+    - 100050
+    - 400050
+    - 3300022
+    - 2300022
+    - 13500022
+    e_sky_mechanic04:polySurface23:
+    - 100052
+    - 400052
+    - 3300024
+    - 2300024
+    - 13500024
+    e_sky_mechanic04:polySurface16:
+    - 100054
+    - 400054
+    - 3300026
+    - 2300026
+    - 13500026
+    e_sky_mechanic04:cube5 1:
+    - 100056
+    - 400056
+    e_sky_mechanic04:polySurface25:
+    - 100058
+    - 400058
+    - 3300028
+    - 2300028
+    - 13500028
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: e_sky_mechanic04:polySurface24
+    4300002: e_sky_mechanic04:polySurface20
+    4300004: e_sky_mechanic04:polySurface14
+    4300006: e_sky_mechanic04:polySurface22
+    4300008: e_sky_mechanic04:polySurface19
+    4300010: e_sky_mechanic04:polySurface23
+    4300012: e_sky_mechanic04:polySurface16
+    4300014: e_sky_mechanic04:polySurface17
+    4300016: e_sky_mechanic04:polySurface18
+    4300018: e_sky_mechanic04:polySurface27
+    4300020: e_sky_mechanic04:polySurface15
+    4300022: e_sky_mechanic04:polySurface21
+    4300024: e_sky_mechanic04:polySurface26
+    4300026: e_sky_mechanic04:polySurface25
+    4300028: e_sky_mechanic04:polySurface13
+    7400000: Take 001 //// e_sky_mechanic04
+    7400002: idle //// e_sky_mechanic04
+    7400004: idle0 //// e_sky_mechanic04
+    7400006: idle01 //// e_sky_mechanic04
+    7400008: fly //// e_sky_mechanic04
+    7400010: attack //// e_sky_mechanic04
+    7400012: die //// e_sky_mechanic04
+    7400014: move //// e_sky_mechanic04

@@ -1,0 +1,125 @@
+fileFormatVersion: 1
+guid: a251922da05d8884eb03965f66292032
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      move:
+        firstFrame: 1
+        lastFrame: 180
+        loop: 0
+        wrapMode: 0
+      attack:
+        firstFrame: 221
+        lastFrame: 380
+        loop: 0
+        wrapMode: 0
+      die:
+        firstFrame: 651
+        lastFrame: 842
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    ACT_boss_02:nurbsCircle7:
+    - 100000
+    - 400000
+    ACT_boss_02:nurbsCircle5:
+    - 100002
+    - 400002
+    ACT_boss_02:nurbsCircle5 1:
+    - 100004
+    - 400004
+    ACT_boss_02:group4:
+    - 100006
+    - 400006
+    ACT_boss_02:nurbsCircle6:
+    - 100008
+    - 400008
+    ACT_boss_02:act_boss_02_s:
+    - 100010
+    - 400010
+    ACT_boss_02:group6:
+    - 100012
+    - 400012
+    ACT_boss_02:nurbsCircle4 1:
+    - 100014
+    - 400014
+    ACT_boss_02:nurbsCircle4:
+    - 100016
+    - 400016
+    ACT_boss_02:nurbsCircle3:
+    - 100018
+    - 400018
+    ACT_boss_02:Act_boss_02_polySurface73:
+    - 100020
+    - 400020
+    - 3300000
+    - 2300000
+    - 13500000
+    ACT_boss_02:Act_boss_02_polySurface71:
+    - 100022
+    - 400022
+    - 3300002
+    - 2300002
+    - 13500002
+    ACT_boss_02:Act_boss_02_polySurface94:
+    - 100024
+    - 400024
+    - 3300004
+    - 2300004
+    - 13500004
+    ACT_boss_02:Act_boss_02_polySurface95:
+    - 100026
+    - 400026
+    - 3300006
+    - 2300006
+    - 13500006
+    ACT_boss_02:Act_boss_02_polySurface72:
+    - 100028
+    - 400028
+    - 3300008
+    - 2300008
+    - 13500008
+    ACT_boss_02:Act_boss_02_polySurface96:
+    - 100030
+    - 400030
+    - 3300010
+    - 2300010
+    - 13500010
+    //RootNode:
+    - 100032
+    - 400032
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: ACT_boss_02:Act_boss_02_polySurface72
+    4300002: ACT_boss_02:Act_boss_02_polySurface71
+    4300004: ACT_boss_02:Act_boss_02_polySurface73
+    4300006: ACT_boss_02:Act_boss_02_polySurface95
+    4300008: ACT_boss_02:Act_boss_02_polySurface96
+    4300010: ACT_boss_02:Act_boss_02_polySurface94
+    7400000: Take 001 //// act_boss_02
+    7400002: fly //// act_boss_02
+    7400004: attak //// act_boss_02
+    7400006: die //// act_boss_02
+    7400008: attack //// act_boss_02
+    7400010: move //// act_boss_02

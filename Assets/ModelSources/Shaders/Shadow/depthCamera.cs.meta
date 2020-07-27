@@ -1,0 +1,6 @@
+fileFormatVersion: 1
+guid: 80a22ae71aeb6f84d92e1903495c4ba2
+MonoImporter:
+  importerVersion: 1
+  defaultReferences:
+    depthShader: {fileID: 4800000, guid: 13c74eee79f7b8f46b10adc85cc648be, type: 1}

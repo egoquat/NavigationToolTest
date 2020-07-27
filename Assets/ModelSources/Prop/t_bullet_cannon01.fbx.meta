@@ -1,0 +1,67 @@
+fileFormatVersion: 1
+guid: 570be8234bb2f284ea91a71e46165829
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    pCube59:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    - 13500000
+    polySurface1386:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+    - 13500002
+    pCube60:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    - 13500004
+    pCube61:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    - 13500006
+    pCube58:
+    - 100010
+    - 400010
+    - 3300008
+    - 2300008
+    - 13500008
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface1386
+    4300002: pCube58
+    4300004: pCube59
+    4300006: pCube60
+    4300008: pCube61
+    7400000: Take 001 //// t_bullet_cannon01

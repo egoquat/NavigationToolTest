@@ -1,0 +1,230 @@
+fileFormatVersion: 1
+guid: 277f8c7db9ccafe4e90e15a9d0c11588
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      ani0:
+        firstFrame: 1
+        lastFrame: 10
+        loop: 0
+        wrapMode: 0
+      ani1:
+        firstFrame: 31
+        lastFrame: 45
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    nurbsCircle64:
+    - 100000
+    - 400000
+    polySurface1436:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    - 13500000
+    nurbsCircle68:
+    - 100004
+    - 400004
+    nurbsCircle67:
+    - 100006
+    - 400006
+    polySurface1435:
+    - 100008
+    - 400008
+    - 3300002
+    - 2300002
+    - 13500002
+    nurbsCircle66:
+    - 100010
+    - 400010
+    nurbsCircle65:
+    - 100012
+    - 400012
+    nurbsCircle61:
+    - 100014
+    - 400014
+    polySurface1438:
+    - 100016
+    - 400016
+    - 3300004
+    - 2300004
+    - 13500004
+    polySurface1429:
+    - 100018
+    - 400018
+    - 3300006
+    - 2300006
+    - 13500006
+    pCube54:
+    - 100020
+    - 400020
+    - 3300008
+    - 2300008
+    - 13500008
+    polySurface1428:
+    - 100022
+    - 400022
+    - 3300010
+    - 2300010
+    - 13500010
+    nurbsCircle62:
+    - 100024
+    - 400024
+    polySurface1434:
+    - 100026
+    - 400026
+    - 3300012
+    - 2300012
+    - 13500012
+    polySurface1433:
+    - 100028
+    - 400028
+    - 3300014
+    - 2300014
+    - 13500014
+    polySurface1437:
+    - 100030
+    - 400030
+    - 3300016
+    - 2300016
+    - 13500016
+    nurbsCircle63:
+    - 100032
+    - 400032
+    cube122:
+    - 100034
+    - 400034
+    cube113:
+    - 100036
+    - 400036
+    pCube55:
+    - 100038
+    - 400038
+    - 3300018
+    - 2300018
+    - 13500018
+    polySurface1432:
+    - 100040
+    - 400040
+    - 3300020
+    - 2300020
+    - 13500020
+    pCube61:
+    - 100042
+    - 400042
+    - 3300022
+    - 2300022
+    - 13500022
+    cube112:
+    - 100044
+    - 400044
+    nurbsCircle70:
+    - 100046
+    - 400046
+    cube111:
+    - 100048
+    - 400048
+    pCube56:
+    - 100050
+    - 400050
+    - 3300024
+    - 2300024
+    - 13500024
+    pCube57:
+    - 100052
+    - 400052
+    - 3300026
+    - 2300026
+    - 13500026
+    cube114:
+    - 100054
+    - 400054
+    cube108:
+    - 100056
+    - 400056
+    pCube60:
+    - 100058
+    - 400058
+    - 3300028
+    - 2300028
+    - 13500028
+    cube107:
+    - 100060
+    - 400060
+    pCube59:
+    - 100062
+    - 400062
+    - 3300030
+    - 2300030
+    - 13500030
+    cube110:
+    - 100064
+    - 400064
+    pCube58:
+    - 100066
+    - 400066
+    - 3300032
+    - 2300032
+    - 13500032
+    cube109:
+    - 100068
+    - 400068
+    polySurface1431:
+    - 100070
+    - 400070
+    - 3300034
+    - 2300034
+    - 13500034
+    nurbsCircle69:
+    - 100072
+    - 400072
+    //RootNode:
+    - 100074
+    - 400074
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface1431
+    4300002: pCube58
+    4300004: pCube59
+    4300006: pCube60
+    4300008: pCube61
+    4300010: polySurface1432
+    4300012: pCube56
+    4300014: pCube57
+    4300016: pCube54
+    4300018: pCube55
+    4300020: polySurface1437
+    4300022: polySurface1435
+    4300024: polySurface1436
+    4300026: polySurface1438
+    4300028: polySurface1434
+    4300030: polySurface1433
+    4300032: polySurface1429
+    4300034: polySurface1428
+    7400000: Take 001 //// t_bullet_child2
+    7400002: idle //// t_bullet_child2
+    7400004: idle0 //// t_bullet_child2
+    7400006: ani0 //// t_bullet_child2
+    7400008: ani1 //// t_bullet_child2

@@ -1,0 +1,159 @@
+fileFormatVersion: 1
+guid: 7390b823ca58c9c4db5c31ded539ddec
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      spawn:
+        firstFrame: 1
+        lastFrame: 20
+        loop: 0
+        wrapMode: 0
+      move:
+        firstFrame: 21
+        lastFrame: 80
+        loop: 0
+        wrapMode: 0
+      attack:
+        firstFrame: 101
+        lastFrame: 160
+        loop: 0
+        wrapMode: 0
+      die:
+        firstFrame: 281
+        lastFrame: 359
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    e_walk_bio04:joint11:
+    - 100000
+    - 400000
+    e_walk_bio04:joint9:
+    - 100002
+    - 400002
+    e_walk_bio04:joint1:
+    - 100004
+    - 400004
+    e_walk_bio04:joint2:
+    - 100006
+    - 400006
+    e_walk_bio04:joint13:
+    - 100008
+    - 400008
+    e_walk_bio04:joint24:
+    - 100010
+    - 400010
+    e_walk_bio04:joint26:
+    - 100012
+    - 400012
+    e_walk_bio04:joint12:
+    - 100014
+    - 400014
+    e_walk_bio04:joint18:
+    - 100016
+    - 400016
+    e_walk_bio04:joint23:
+    - 100018
+    - 400018
+    e_walk_bio04:joint14:
+    - 100020
+    - 400020
+    e_walk_bio04:joint19:
+    - 100022
+    - 400022
+    e_walk_bio04:joint27:
+    - 100024
+    - 400024
+    e_walk_bio04:joint10:
+    - 100026
+    - 400026
+    e_walk_bio04:joint5:
+    - 100028
+    - 400028
+    e_walk_bio04:joint17:
+    - 100030
+    - 400030
+    e_walk_bio04:joint4:
+    - 100032
+    - 400032
+    e_walk_bio04:joint15:
+    - 100034
+    - 400034
+    e_walk_bio04:joint8:
+    - 100036
+    - 400036
+    e_walk_bio04:joint7:
+    - 100038
+    - 400038
+    e_walk_bio04:joint3:
+    - 100040
+    - 400040
+    e_walk_bio04:polySurface21:
+    - 100042
+    - 400042
+    e_walk_bio04:e_walk_bio04_m:
+    - 100044
+    - 400044
+    e_walk_bio04:joint22:
+    - 100046
+    - 400046
+    e_walk_bio04:joint21:
+    - 100048
+    - 400048
+    e_walk_bio04:joint20:
+    - 100050
+    - 400050
+    e_walk_bio04:joint25:
+    - 100052
+    - 400052
+    e_walk_bio04:joint6:
+    - 100054
+    - 400054
+    - 13700000
+    e_walk_bio04:e_walk_bio04_g:
+    - 100056
+    - 400056
+    e_walk_bio04:e_walk_bio04_s:
+    - 100058
+    - 400058
+    //RootNode:
+    - 100060
+    - 400060
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: e_walk_bio04:polySurface21
+    4300002: e_walk_bio04:polySurface2
+    4300004: e_walk_bio04:polySurface12
+    4300006: e_walk_bio04:polySurface17
+    4300008: e_walk_bio04:polySurface14
+    7400000: Take 001 //// E_walk_bio_04
+    7400002: idle //// E_walk_bio_04
+    7400004: idle0 //// E_walk_bio_04
+    7400006: idle01 //// E_walk_bio_04
+    7400008: idle012 //// E_walk_bio_04
+    7400010: spawn //// E_walk_bio_04
+    7400012: walking //// E_walk_bio_04
+    7400014: attacking //// E_walk_bio_04
+    7400016: die //// E_walk_bio_04
+    7400018: move //// E_walk_bio_04
+    7400020: attack //// E_walk_bio_04

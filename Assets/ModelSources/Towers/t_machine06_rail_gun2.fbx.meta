@@ -1,0 +1,664 @@
+fileFormatVersion: 1
+guid: f13a762272dd3f845a51161012dee0a9
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      Idle0:
+        firstFrame: 471
+        lastFrame: 560
+        loop: 0
+        wrapMode: 0
+      Idle1:
+        firstFrame: 561
+        lastFrame: 600
+        loop: 0
+        wrapMode: 0
+      Attack0:
+        firstFrame: 281
+        lastFrame: 350
+        loop: 0
+        wrapMode: 0
+      Destroy:
+        firstFrame: 681
+        lastFrame: 698
+        loop: 0
+        wrapMode: 0
+      NormalPose:
+        firstFrame: 171
+        lastFrame: 220
+        loop: 0
+        wrapMode: 0
+      NormalBody:
+        firstFrame: 611
+        lastFrame: 660
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    t_pPlane6:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    t_group46:
+    - 100002
+    - 400002
+    t_group45:
+    - 100004
+    - 400004
+    t_group42:
+    - 100006
+    - 400006
+    t_group41:
+    - 100008
+    - 400008
+    t_ki_pan:
+    - 100010
+    - 400010
+    t_group81:
+    - 100012
+    - 400012
+    t_group80:
+    - 100014
+    - 400014
+    t_nurbsCircle23:
+    - 100016
+    - 400016
+    t_nurbsCircle22:
+    - 100018
+    - 400018
+    t_cube41 1:
+    - 100020
+    - 400020
+    t_group85 1:
+    - 100022
+    - 400022
+    t_cube37 1:
+    - 100024
+    - 400024
+    t_group24 2:
+    - 100026
+    - 400026
+    t_group23 2:
+    - 100028
+    - 400028
+    t_pCylinder12 1:
+    - 100030
+    - 400030
+    - 3300002
+    - 2300002
+    - 13500014
+    t_cube42 1:
+    - 100032
+    - 400032
+    t_pCube39 1:
+    - 100034
+    - 400034
+    - 3300004
+    - 2300004
+    - 13500016
+    t_group78 1:
+    - 100036
+    - 400036
+    t_cube25 1:
+    - 100038
+    - 400038
+    t_cube24 1:
+    - 100040
+    - 400040
+    t_group96:
+    - 100042
+    - 400042
+    t_cube41:
+    - 100044
+    - 400044
+    t_nurbsCircle18:
+    - 100046
+    - 400046
+    t_group85:
+    - 100048
+    - 400048
+    t_nurbsCircle19:
+    - 100050
+    - 400050
+    t_cube37:
+    - 100052
+    - 400052
+    t_group24 1:
+    - 100054
+    - 400054
+    t_group23 1:
+    - 100056
+    - 400056
+    t_pCylinder12:
+    - 100058
+    - 400058
+    - 3300006
+    - 2300006
+    - 13500010
+    t_cube42:
+    - 100060
+    - 400060
+    t_pCube39:
+    - 100062
+    - 400062
+    - 3300008
+    - 2300008
+    - 13500012
+    t_group78:
+    - 100064
+    - 400064
+    t_nurbsCircle15:
+    - 100066
+    - 400066
+    t_nurbsCircle17:
+    - 100068
+    - 400068
+    t_cube25:
+    - 100070
+    - 400070
+    t_cube24:
+    - 100072
+    - 400072
+    t_group84:
+    - 100074
+    - 400074
+    t_group24:
+    - 100076
+    - 400076
+    t_group23:
+    - 100078
+    - 400078
+    t_pCylinder1:
+    - 100080
+    - 400080
+    - 3300010
+    - 2300010
+    - 13500002
+    t_cube30:
+    - 100082
+    - 400082
+    t_cube45:
+    - 100084
+    - 400084
+    t_cube28:
+    - 100086
+    - 400086
+    t_cube31:
+    - 100088
+    - 400088
+    t_cube29:
+    - 100090
+    - 400090
+    t_pCube41:
+    - 100092
+    - 400092
+    - 3300012
+    - 2300012
+    - 13500004
+    t_cube48:
+    - 100094
+    - 400094
+    t_pCube42:
+    - 100096
+    - 400096
+    - 3300014
+    - 2300014
+    - 13500006
+    t_pPipe1:
+    - 100098
+    - 400098
+    - 3300016
+    - 2300016
+    - 13500008
+    t_cube43:
+    - 100100
+    - 400100
+    t_cube44:
+    - 100102
+    - 400102
+    t_yghdf:
+    - 100104
+    - 400104
+    t_pCylinder13:
+    - 100106
+    - 400106
+    - 3300018
+    - 2300018
+    - 13500018
+    t_rotate_x:
+    - 100108
+    - 400108
+    t_rotate_x6:
+    - 100110
+    - 400110
+    t_group73:
+    - 100112
+    - 400112
+    t_group34:
+    - 100114
+    - 400114
+    t_group38:
+    - 100116
+    - 400116
+    t_group33:
+    - 100118
+    - 400118
+    t_group32:
+    - 100120
+    - 400120
+    t_group29:
+    - 100122
+    - 400122
+    t_group26:
+    - 100124
+    - 400124
+    t_rotate_y:
+    - 100126
+    - 400126
+    t_nurbsCircle28:
+    - 100128
+    - 400128
+    t_group92:
+    - 100130
+    - 400130
+    t_nurbsCircle21:
+    - 100132
+    - 400132
+    t_group91:
+    - 100134
+    - 400134
+    t_group87:
+    - 100136
+    - 400136
+    t_cube32:
+    - 100138
+    - 400138
+    t_cube34:
+    - 100140
+    - 400140
+    t_cube36:
+    - 100142
+    - 400142
+    t_cube35:
+    - 100144
+    - 400144
+    t_polySurface1510:
+    - 100146
+    - 400146
+    - 3300020
+    - 2300020
+    - 13500064
+    t_machine_gun_level2_geo73 1:
+    - 100148
+    - 400148
+    - 3300022
+    - 2300022
+    - 13500054
+    t_polySurface1356:
+    - 100152
+    - 400152
+    - 3300026
+    - 2300026
+    - 13500100
+    t_machine_gun_level3_geo56:
+    - 100154
+    - 400154
+    //RootNode:
+    - 100156
+    - 400156
+    - 11100000
+    t_machine_gun_level3_geo53 1:
+    - 100158
+    - 400158
+    - 3300028
+    - 2300028
+    - 13500086
+    t_t_machine06_railgun2:
+    - 100160
+    - 400160
+    t_machine_gun_level5_geo14:
+    - 100162
+    - 400162
+    - 3300030
+    - 2300030
+    - 13500048
+    t_machine_gun_level3_geo46:
+    - 100164
+    - 400164
+    - 3300032
+    - 2300032
+    - 13500092
+    t_nurbsCircle17 1:
+    - 100166
+    - 400166
+    t_machine_gun_level3_geo67:
+    - 100168
+    - 400168
+    - 3300034
+    - 2300034
+    - 13500098
+    t_polySurface1347 1:
+    - 100170
+    - 400170
+    t_machine_gun_level5_geo4:
+    - 100172
+    - 400172
+    - 3300036
+    - 2300036
+    - 13500020
+    t_polySurface1353:
+    - 100174
+    - 400174
+    - 3300038
+    - 2300038
+    - 13500090
+    t_polySurface1511:
+    - 100176
+    - 400176
+    - 3300040
+    - 2300040
+    - 13500056
+    t_machine_gun_level2_geo72:
+    - 100178
+    - 400178
+    - 3300042
+    - 2300042
+    - 13500030
+    t_polySurface1353 1:
+    - 100180
+    - 400180
+    - 3300044
+    - 2300044
+    - 13500026
+    t_machine_gun_level3_geo9:
+    - 100182
+    - 400182
+    - 3300046
+    - 2300046
+    - 13500078
+    t_polySurface1355 1:
+    - 100184
+    - 400184
+    - 3300048
+    - 2300048
+    - 13500062
+    t_polySurface1354:
+    - 100186
+    - 400186
+    - 3300050
+    - 2300050
+    - 13500070
+    t_machine_gun_level3_geo75:
+    - 100188
+    - 400188
+    - 3300052
+    - 2300052
+    - 13500044
+    t_polySurface1357:
+    - 100190
+    - 400190
+    - 3300054
+    - 2300054
+    - 13500096
+    t_machine_gun_level5_geo92:
+    - 100192
+    - 400192
+    - 3300056
+    - 2300056
+    - 13500040
+    t_nurbsCircle19 1:
+    - 100194
+    - 400194
+    t_nurbsCircle18 1:
+    - 100196
+    - 400196
+    t_polySurface1358:
+    - 100198
+    - 400198
+    - 3300058
+    - 2300058
+    - 13500068
+    t_machine_gun_level3_geo73:
+    - 100200
+    - 400200
+    - 3300060
+    - 2300060
+    - 13500060
+    t_machine_gun_level3_geo11:
+    - 100202
+    - 400202
+    - 3300062
+    - 2300062
+    - 13500058
+    t_polySurface1349 1:
+    - 100204
+    - 400204
+    - 3300064
+    - 2300064
+    - 13500106
+    t_machine_gun_level3_geo11 1:
+    - 100206
+    - 400206
+    - 3300066
+    - 2300066
+    - 13500074
+    t_nurbsCircle21 1:
+    - 100208
+    - 400208
+    t_polySurface1347:
+    - 100210
+    - 400210
+    t_machine_gun_level2_geo73:
+    - 100212
+    - 400212
+    - 3300068
+    - 2300068
+    - 13500028
+    t_machine_gun_level3_geo13:
+    - 100214
+    - 400214
+    - 3300070
+    - 2300070
+    - 13500104
+    t_machine_gun_level1_geo63:
+    - 100216
+    - 400216
+    - 3300072
+    - 2300072
+    - 13500042
+    t_machine_gun_level3_geo64:
+    - 100218
+    - 400218
+    t_machine_gun_level3_geo53:
+    - 100220
+    - 400220
+    - 3300074
+    - 2300074
+    - 13500080
+    t_polySurface1354 1:
+    - 100222
+    - 400222
+    - 3300076
+    - 2300076
+    - 13500094
+    t_polySurface1355:
+    - 100224
+    - 400224
+    - 3300078
+    - 2300078
+    - 13500022
+    t_machine_gun_level6_geo23:
+    - 100226
+    - 400226
+    - 3300080
+    - 2300080
+    - 13500066
+    t_nurbsCircle15 1:
+    - 100228
+    - 400228
+    t_machine_gun_level2_geo74:
+    - 100230
+    - 400230
+    - 3300082
+    - 2300082
+    - 13500050
+    t_machine_gun_level3_geo31:
+    - 100232
+    - 400232
+    t_machine_gun_level5_geo22:
+    - 100234
+    - 400234
+    - 3300084
+    - 2300084
+    - 13500102
+    t_machine_gun_level2_geo72 1:
+    - 100236
+    - 400236
+    - 3300086
+    - 2300086
+    - 13500084
+    t_machine_gun_level5_geo20:
+    - 100238
+    - 400238
+    - 3300088
+    - 2300088
+    - 13500036
+    t_machine_gun_level3_geo12:
+    - 100240
+    - 400240
+    - 3300090
+    - 2300090
+    - 13500088
+    t_machine_gun_level1_geo63 1:
+    - 100242
+    - 400242
+    - 3300092
+    - 2300092
+    - 13500076
+    t_machine_gun_level3_geo63:
+    - 100244
+    - 400244
+    - 3300094
+    - 2300094
+    - 13500046
+    t_machine_gun_level3_geo70:
+    - 100246
+    - 400246
+    - 3300096
+    - 2300096
+    - 13500024
+    t_polySurface1349:
+    - 100248
+    - 400248
+    - 3300098
+    - 2300098
+    - 13500032
+    t_machine_gun_level6_geo20:
+    - 100250
+    - 400250
+    - 3300100
+    - 2300100
+    - 13500034
+    t_machine_gun_level3_geo70 1:
+    - 100252
+    - 400252
+    - 3300102
+    - 2300102
+    - 13500072
+    t_machine_gun_level3_geo14:
+    - 100254
+    - 400254
+    - 3300104
+    - 2300104
+    - 13500082
+    t_machine_gun_level6_geo18:
+    - 100256
+    - 400256
+    - 3300106
+    - 2300106
+    - 13500038
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: t_machine_gun_level3_geo13
+    4300002: t_machine_gun_level3_geo12
+    4300004: t_machine_gun_level3_geo14
+    4300006: t_machine_gun_level3_geo11
+    4300008: t_machine_gun_level3_geo11
+    4300010: t_machine_gun_level3_geo72
+    4300012: t_machine_gun_level3_geo9
+    4300014: t_polySurface1358
+    4300016: t_pCylinder13
+    4300018: t_machine_gun_level6_geo20
+    4300020: t_machine_gun_level6_geo18
+    4300022: t_pPipe1
+    4300024: t_pCube42
+    4300026: t_pCube41
+    4300028: t_machine_gun_level6_geo23
+    4300030: t_machine_gun_level3_geo75
+    4300032: t_machine_gun_level3_geo67
+    4300034: t_machine_gun_level3_geo73
+    4300036: t_polySurface1356
+    4300038: t_polySurface1357
+    4300040: t_machine_gun_level2_geo74
+    4300042: t_machine_gun_level3_geo46
+    4300044: t_pCylinder1
+    4300046: t_machine_gun_level2_geo72
+    4300048: t_machine_gun_level3_geo53
+    4300050: t_polySurface1349
+    4300052: t_pCube39
+    4300054: t_polySurface1355
+    4300056: t_pCylinder12
+    4300058: t_machine_gun_level3_geo70
+    4300060: t_machine_gun_level2_geo73
+    4300062: t_polySurface1354
+    4300064: t_polySurface1353
+    4300066: t_machine_gun_level2_geo72
+    4300068: t_machine_gun_level3_geo53
+    4300070: t_polySurface1349
+    4300072: t_pCube39
+    4300074: t_polySurface1355
+    4300076: t_pCylinder12
+    4300078: t_machine_gun_level3_geo70
+    4300080: t_machine_gun_level2_geo73
+    4300082: t_polySurface1354
+    4300084: t_polySurface1353
+    4300086: t_machine_gun_level5_geo14
+    4300088: t_machine_gun_level5_geo22
+    4300090: t_machine_gun_level5_geo4
+    4300092: t_machine_gun_level5_geo20
+    4300094: t_machine_gun_level5_geo92
+    4300096: t_machine_gun_level1_geo63
+    4300098: t_machine_gun_level1_geo63
+    4300100: t_machine_gun_level3_geo63
+    4300102: t_pPlane6
+    4300104: t_polySurface1510
+    4300106: t_polySurface1511
+    7400000: Take 001 //// t_machine06_rail_gun2
+    7400002: Build //// t_machine06_rail_gun2
+    7400004: Idle0 //// t_machine06_rail_gun2
+    7400006: Idle1 //// t_machine06_rail_gun2
+    7400008: Attack0 //// t_machine06_rail_gun2
+    7400010: Destroy //// t_machine06_rail_gun2
+    7400012: NormalPose //// t_machine06_rail_gun2
+    7400014: NormalBody //// t_machine06_rail_gun2

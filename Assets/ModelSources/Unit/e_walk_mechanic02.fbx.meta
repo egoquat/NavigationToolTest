@@ -1,0 +1,195 @@
+fileFormatVersion: 1
+guid: b979408651e3ee249a92891bf10fc046
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      spawn:
+        firstFrame: 11
+        lastFrame: 22
+        loop: 0
+        wrapMode: 0
+      move:
+        firstFrame: 31
+        lastFrame: 51
+        loop: 0
+        wrapMode: 0
+      attack:
+        firstFrame: 121
+        lastFrame: 174
+        loop: 0
+        wrapMode: 0
+      die:
+        firstFrame: 201
+        lastFrame: 257
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    e_walk_mechanic02:group2:
+    - 100000
+    - 400000
+    //RootNode:
+    - 100002
+    - 400002
+    - 11100000
+    e_walk_mechanic02:e_walk_mechanic02_nurbsCircle2:
+    - 100004
+    - 400004
+    e_walk_mechanic02:e_walk_mechanic02_nurbsCircle1:
+    - 100006
+    - 400006
+    e_walk_mechanic02:e_walk_mechanic02_nurbsCircle3:
+    - 100008
+    - 400008
+    e_walk_mechanic02:e_walk_mechanic02_nurbsCircle2 1:
+    - 100010
+    - 400010
+    e_walk_mechanic02:e_walk_mechanic02_joint18:
+    - 100012
+    - 400012
+    e_walk_mechanic02:e_walk_mechanic02_cube1:
+    - 100014
+    - 400014
+    e_walk_mechanic02:e_walk_mechanic02_cube3:
+    - 100016
+    - 400016
+    e_walk_mechanic02:e_walk_mechanic02_joint23:
+    - 100018
+    - 400018
+    e_walk_mechanic02:polySurface113:
+    - 100020
+    - 400020
+    - 3300000
+    - 2300000
+    - 13500000
+    e_walk_mechanic02:polySurface128:
+    - 100022
+    - 400022
+    - 3300002
+    - 2300002
+    - 13500002
+    e_walk_mechanic02:e_walk_mechanic02_group11:
+    - 100024
+    - 400024
+    e_walk_mechanic02:e_walk_mechanic02_cube5:
+    - 100026
+    - 400026
+    e_walk_mechanic02:e_walk_mechanic02_cube2:
+    - 100028
+    - 400028
+    e_walk_mechanic02:e_walk_mechanic02_joint13:
+    - 100030
+    - 400030
+    e_walk_mechanic02:polySurface143:
+    - 100032
+    - 400032
+    e_walk_mechanic02:e_walk_mechanic02_joint17:
+    - 100034
+    - 400034
+    e_walk_mechanic02:polySurface114:
+    - 100036
+    - 400036
+    - 3300004
+    - 2300004
+    - 13500004
+    e_walk_mechanic02:e_walk_mechanic02_joint5:
+    - 100038
+    - 400038
+    e_walk_mechanic02:e_walk_mechanic02_joint2:
+    - 100040
+    - 400040
+    e_walk_mechanic02:e_walk_mechanic02_joint16:
+    - 100042
+    - 400042
+    e_walk_mechanic02:e_walk_mechanic02_joint11:
+    - 100044
+    - 400044
+    e_walk_mechanic02:e_walk_mechanic02_joint3:
+    - 100046
+    - 400046
+    e_walk_mechanic02:e_walk_mechanic02_joint4:
+    - 100048
+    - 400048
+    e_walk_mechanic02:e_walk_mechanic02_joint21:
+    - 100050
+    - 400050
+    e_walk_mechanic02:e_walk_mechanic02_joint12:
+    - 100052
+    - 400052
+    e_walk_mechanic02:e_walk_mechanic02_s:
+    - 100054
+    - 400054
+    e_walk_mechanic02:e_walk_mechanic02_m:
+    - 100056
+    - 400056
+    e_walk_mechanic02:e_walk_mechanic02_joint15:
+    - 100058
+    - 400058
+    e_walk_mechanic02:e_walk_mechanic02_joint1:
+    - 100060
+    - 400060
+    - 13700000
+    e_walk_mechanic02:e_walk_mechanic02_joint10:
+    - 100062
+    - 400062
+    e_walk_mechanic02:e_walk_mechanic02_cube4:
+    - 100064
+    - 400064
+    e_walk_mechanic02:e_walk_mechanic02_cube3 1:
+    - 100066
+    - 400066
+    e_walk_mechanic02:polySurface135:
+    - 100068
+    - 400068
+    - 3300006
+    - 2300006
+    - 13500006
+    e_walk_mechanic02:e_walk_mechanic02_joint22:
+    - 100070
+    - 400070
+    e_walk_mechanic02:e_walk_mechanic02_joint19:
+    - 100072
+    - 400072
+    e_walk_mechanic02:e_walk_mechanic02_joint20:
+    - 100074
+    - 400074
+    e_walk_mechanic02:e_walk_mechanic02_joint14:
+    - 100076
+    - 400076
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: e_walk_mechanic02:polySurface113
+    4300002: e_walk_mechanic02:polySurface128
+    4300004: e_walk_mechanic02:polySurface114
+    4300006: e_walk_mechanic02:polySurface135
+    4300008: e_walk_mechanic02:polySurface143
+    7400000: Take 001 //// e_walk_mechanic02
+    7400002: idle //// e_walk_mechanic02
+    7400004: idle0 //// e_walk_mechanic02
+    7400006: idle01 //// e_walk_mechanic02
+    7400008: idle012 //// e_walk_mechanic02
+    7400010: spawn //// e_walk_mechanic02
+    7400012: walking //// e_walk_mechanic02
+    7400014: attacking //// e_walk_mechanic02
+    7400016: die //// e_walk_mechanic02
+    7400018: move //// e_walk_mechanic02
+    7400020: attack //// e_walk_mechanic02

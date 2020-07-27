@@ -1,0 +1,795 @@
+fileFormatVersion: 1
+guid: 03e2d79e0b0cf864f941a82953baea1d
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      Destroy:
+        firstFrame: 401
+        lastFrame: 418
+        loop: 0
+        wrapMode: 0
+      NormalPose:
+        firstFrame: 191
+        lastFrame: 271
+        loop: 0
+        wrapMode: 0
+      NormalBody:
+        firstFrame: 291
+        lastFrame: 387
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    t_special03_electric:pCylinder20:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    t_special03_electric:polySurface1436:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 13500002
+    t_special03_electric:polySurface1442 1:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    - 13500004
+    t_special03_electric:polySurface1427:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    - 13500006
+    t_special03_electric:polySurface1423:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    - 13500008
+    t_special03_electric:polySurface1458:
+    - 100010
+    - 400010
+    - 3300010
+    - 2300010
+    - 13500010
+    t_special03_electric:pCylinder14:
+    - 100012
+    - 400012
+    - 3300012
+    - 2300012
+    - 13500012
+    t_special03_electric:polySurface1444:
+    - 100014
+    - 400014
+    t_special03_electric:polySurface1441 3:
+    - 100016
+    - 400016
+    - 3300014
+    - 2300014
+    - 13500014
+    t_special03_electric:polySurface1425:
+    - 100018
+    - 400018
+    - 3300016
+    - 2300016
+    - 13500016
+    t_special03_electric:polySurface1455:
+    - 100020
+    - 400020
+    - 3300018
+    - 2300018
+    - 13500018
+    t_special03_electric:polySurface4:
+    - 100022
+    - 400022
+    - 3300020
+    - 2300020
+    - 13500020
+    t_special03_electric:nurbsCircle57:
+    - 100024
+    - 400024
+    t_special03_electric:nurbsCircle65:
+    - 100026
+    - 400026
+    t_special03_electric:polySurface1435 2:
+    - 100028
+    - 400028
+    - 3300022
+    - 2300022
+    - 13500022
+    t_special03_electric:polySurface1439 1:
+    - 100030
+    - 400030
+    - 3300024
+    - 2300024
+    - 13500024
+    t_special03_electric:polySurface1440:
+    - 100032
+    - 400032
+    - 3300026
+    - 2300026
+    - 13500026
+    t_special03_electric:polySurface1436 2:
+    - 100034
+    - 400034
+    - 3300028
+    - 2300028
+    - 13500028
+    t_special03_electric:polySurface1422:
+    - 100036
+    - 400036
+    t_special03_electric:polySurface1446:
+    - 100038
+    - 400038
+    - 3300030
+    - 2300030
+    - 13500030
+    t_special03_electric:pCylinder17:
+    - 100040
+    - 400040
+    - 3300032
+    - 2300032
+    - 13500032
+    t_special03_electric:polySurface1423 1:
+    - 100042
+    - 400042
+    - 3300034
+    - 2300034
+    - 13500034
+    t_special03_electric:pCylinder15:
+    - 100044
+    - 400044
+    - 3300036
+    - 2300036
+    - 13500036
+    t_special03_electric:nurbsCircle61 1:
+    - 100046
+    - 400046
+    t_special03_electric:pCylinder27:
+    - 100048
+    - 400048
+    - 3300038
+    - 2300038
+    - 13500038
+    t_special03_electric:polySurface1434:
+    - 100050
+    - 400050
+    - 3300040
+    - 2300040
+    - 13500040
+    t_special03_electric:polySurface1433:
+    - 100052
+    - 400052
+    t_special03_electric:polySurface1436 1:
+    - 100054
+    - 400054
+    - 3300042
+    - 2300042
+    - 13500042
+    t_special03_electric:pCylinder4 1:
+    - 100056
+    - 400056
+    - 3300044
+    - 2300044
+    - 13500044
+    t_special03_electric:polySurface1440 1:
+    - 100058
+    - 400058
+    - 3300046
+    - 2300046
+    - 13500046
+    t_special03_electric:nurbsCircle62:
+    - 100060
+    - 400060
+    t_special03_electric:polySurface1434 1:
+    - 100062
+    - 400062
+    - 3300048
+    - 2300048
+    - 13500048
+    t_special03_electric:pCylinder19:
+    - 100064
+    - 400064
+    t_special03_electric:pCylinder17 1:
+    - 100066
+    - 400066
+    - 3300050
+    - 2300050
+    - 13500050
+    t_special03_electric:nurbsCircle52:
+    - 100068
+    - 400068
+    t_special03_electric:polySurface1435 1:
+    - 100070
+    - 400070
+    - 3300052
+    - 2300052
+    - 13500052
+    t_special03_electric:pCylinder26:
+    - 100072
+    - 400072
+    - 3300054
+    - 2300054
+    - 13500054
+    t_special03_electric:nurbsCircle64:
+    - 100074
+    - 400074
+    t_special03_electric:nurbsCircle61:
+    - 100076
+    - 400076
+    t_special03_electric:t_special03_electric_s:
+    - 100078
+    - 400078
+    t_special03_electric:polySurface1467:
+    - 100080
+    - 400080
+    - 3300056
+    - 2300056
+    - 13500056
+    t_special03_electric:polySurface1456:
+    - 100082
+    - 400082
+    - 3300058
+    - 2300058
+    - 13500058
+    t_special03_electric:polySurface1425 1:
+    - 100084
+    - 400084
+    - 3300060
+    - 2300060
+    - 13500060
+    t_special03_electric:nurbsCircle53:
+    - 100086
+    - 400086
+    t_special03_electric:pCylinder18:
+    - 100088
+    - 400088
+    - 3300062
+    - 2300062
+    - 13500062
+    t_special03_electric:polySurface1439:
+    - 100090
+    - 400090
+    - 3300064
+    - 2300064
+    - 13500064
+    t_special03_electric:nurbsCircle60:
+    - 100092
+    - 400092
+    t_special03_electric:polySurface1441:
+    - 100094
+    - 400094
+    - 3300066
+    - 2300066
+    - 13500066
+    t_special03_electric:pCylinder29:
+    - 100096
+    - 400096
+    - 3300068
+    - 2300068
+    - 13500068
+    t_special03_electric:pCylinder28:
+    - 100098
+    - 400098
+    - 3300070
+    - 2300070
+    - 13500070
+    t_special03_electric:nurbsCircle60 3:
+    - 100100
+    - 400100
+    t_special03_electric:polySurface1424:
+    - 100102
+    - 400102
+    t_special03_electric:polySurface1445:
+    - 100104
+    - 400104
+    - 3300072
+    - 2300072
+    - 13500072
+    t_special03_electric:polySurface1450:
+    - 100106
+    - 400106
+    - 3300074
+    - 2300074
+    - 13500074
+    t_special03_electric:nurbsCircle62 1:
+    - 100108
+    - 400108
+    t_special03_electric:polySurface1457:
+    - 100110
+    - 400110
+    - 3300076
+    - 2300076
+    - 13500076
+    t_special03_electric:polySurface1442 2:
+    - 100112
+    - 400112
+    - 3300078
+    - 2300078
+    - 13500078
+    t_special03_electric:polySurface1426 1:
+    - 100114
+    - 400114
+    - 3300080
+    - 2300080
+    - 13500080
+    t_special03_electric:polySurface1441 2:
+    - 100116
+    - 400116
+    - 3300082
+    - 2300082
+    - 13500082
+    t_special03_electric:polySurface1448:
+    - 100118
+    - 400118
+    t_special03_electric:nurbsCircle60 1:
+    - 100120
+    - 400120
+    t_special03_electric:polySurface1443:
+    - 100122
+    - 400122
+    - 3300084
+    - 2300084
+    - 13500084
+    t_special03_electric:polySurface1426:
+    - 100124
+    - 400124
+    - 3300086
+    - 2300086
+    - 13500086
+    t_special03_electric:pCylinder3 1:
+    - 100126
+    - 400126
+    - 3300088
+    - 2300088
+    - 13500088
+    t_special03_electric:nurbsCircle66:
+    - 100128
+    - 400128
+    t_special03_electric:polySurface1435:
+    - 100130
+    - 400130
+    - 3300090
+    - 2300090
+    - 13500090
+    t_special03_electric:transform1 1:
+    - 100132
+    - 400132
+    t_special03_electric:polySurface3:
+    - 100134
+    - 400134
+    t_special03_electric:nurbsCircle63:
+    - 100136
+    - 400136
+    t_special03_electric:polySurface1437:
+    - 100138
+    - 400138
+    t_special03_electric:polySurface1447:
+    - 100140
+    - 400140
+    - 3300092
+    - 2300092
+    - 13500092
+    t_special03_electric:polySurface1468:
+    - 100142
+    - 400142
+    - 3300094
+    - 2300094
+    - 13500094
+    t_special03_electric:polySurface1427 1:
+    - 100144
+    - 400144
+    - 3300096
+    - 2300096
+    - 13500096
+    t_special03_electric:pCylinder16:
+    - 100146
+    - 400146
+    - 3300098
+    - 2300098
+    - 13500098
+    t_special03_electric:polySurface1434 2:
+    - 100148
+    - 400148
+    - 3300100
+    - 2300100
+    - 13500100
+    t_special03_electric:polySurface1442:
+    - 100150
+    - 400150
+    - 3300102
+    - 2300102
+    - 13500102
+    t_special03_electric:polySurface1442 3:
+    - 100152
+    - 400152
+    - 3300104
+    - 2300104
+    - 13500104
+    t_special03_electric:nurbsCircle52 1:
+    - 100154
+    - 400154
+    t_special03_electric:nurbsCircle60 2:
+    - 100156
+    - 400156
+    t_special03_electric:polySurface1441 1:
+    - 100158
+    - 400158
+    - 3300106
+    - 2300106
+    - 13500106
+    t_special03_electric:polySurface1449:
+    - 100160
+    - 400160
+    - 3300108
+    - 2300108
+    - 13500108
+    t_special03_electric:pCylinder18 1:
+    - 100162
+    - 400162
+    - 3300110
+    - 2300110
+    - 13500110
+    t_special03_electric:polySurface1438:
+    - 100164
+    - 400164
+    t_special03_electric:mortar_rank_body_level_c_30_geo:
+    - 100166
+    - 400166
+    - 3300112
+    - 2300112
+    - 13500112
+    auto_y1:
+    - 100168
+    - 400168
+    - 11400002
+    auto_y2:
+    - 100170
+    - 400170
+    - 11400000
+    auto_y3:
+    - 100172
+    - 400172
+    - 11400004
+    t_special03_electric:cube110:
+    - 100174
+    - 400174
+    t_special03_electric:cube105 3:
+    - 100176
+    - 400176
+    t_special03_electric:pCube4:
+    - 100178
+    - 400178
+    t_special03_electric:cube106 3:
+    - 100180
+    - 400180
+    t_special03_electric:cube96 1:
+    - 100182
+    - 400182
+    t_special03_electric:pCube11:
+    - 100184
+    - 400184
+    - 3300114
+    - 2300114
+    - 13500114
+    t_special03_electric:cube104 2:
+    - 100186
+    - 400186
+    t_special03_electric:cube98:
+    - 100188
+    - 400188
+    t_special03_electric:cube98 1:
+    - 100190
+    - 400190
+    t_special03_electric:pPlane6:
+    - 100192
+    - 400192
+    - 3300116
+    - 2300116
+    - 13500116
+    t_special03_electric:group157:
+    - 100194
+    - 400194
+    t_special03_electric:pCylinder1:
+    - 100196
+    - 400196
+    t_special03_electric:group151:
+    - 100198
+    - 400198
+    t_special03_electric:group9:
+    - 100200
+    - 400200
+    t_special03_electric:pCube9:
+    - 100202
+    - 400202
+    - 3300118
+    - 2300118
+    - 13500118
+    t_special03_electric:cube107 1:
+    - 100204
+    - 400204
+    t_special03_electric:cube97 1:
+    - 100206
+    - 400206
+    t_special03_electric:cube99 1:
+    - 100208
+    - 400208
+    t_special03_electric:group3:
+    - 100210
+    - 400210
+    t_special03_electric:pCube8:
+    - 100212
+    - 400212
+    - 3300120
+    - 2300120
+    - 13500120
+    t_special03_electric:group154:
+    - 100214
+    - 400214
+    t_special03_electric:cube105 1:
+    - 100216
+    - 400216
+    t_special03_electric:pCylinder5:
+    - 100218
+    - 400218
+    - 3300122
+    - 2300122
+    - 13500122
+    t_special03_electric:pPipe2:
+    - 100220
+    - 400220
+    - 3300124
+    - 2300124
+    - 13500124
+    t_special03_electric:cube106 1:
+    - 100222
+    - 400222
+    t_special03_electric:cube105:
+    - 100224
+    - 400224
+    t_special03_electric:cube97:
+    - 100226
+    - 400226
+    t_special03_electric:pCube5:
+    - 100228
+    - 400228
+    - 3300126
+    - 2300126
+    - 13500126
+    t_special03_electric:cube105 2:
+    - 100230
+    - 400230
+    t_special03_electric:group148:
+    - 100232
+    - 400232
+    t_special03_electric:pCube10:
+    - 100234
+    - 400234
+    t_special03_electric:group156:
+    - 100236
+    - 400236
+    t_special03_electric:group6:
+    - 100238
+    - 400238
+    t_special03_electric:pCylinder3:
+    - 100240
+    - 400240
+    - 3300128
+    - 2300128
+    - 13500128
+    t_special03_electric:group146:
+    - 100242
+    - 400242
+    t_special03_electric:cube109:
+    - 100244
+    - 400244
+    t_special03_electric:cube106:
+    - 100246
+    - 400246
+    t_special03_electric:cube103 1:
+    - 100248
+    - 400248
+    t_special03_electric:pCylinder4:
+    - 100250
+    - 400250
+    - 3300130
+    - 2300130
+    - 13500130
+    t_special03_electric:transform1:
+    - 100252
+    - 400252
+    t_special03_electric:cube96:
+    - 100254
+    - 400254
+    t_special03_electric:pCube8 1:
+    - 100256
+    - 400256
+    - 3300132
+    - 2300132
+    - 13500132
+    t_special03_electric:cube101:
+    - 100258
+    - 400258
+    t_special03_electric:pCube2 1:
+    - 100260
+    - 400260
+    - 3300134
+    - 2300134
+    - 13500134
+    t_special03_electric:pCylinder8:
+    - 100262
+    - 400262
+    - 3300136
+    - 2300136
+    - 13500136
+    t_special03_electric:cube102:
+    - 100264
+    - 400264
+    t_special03_electric:group149:
+    - 100266
+    - 400266
+    t_special03_electric:cube104 1:
+    - 100268
+    - 400268
+    t_special03_electric:cube107:
+    - 100270
+    - 400270
+    t_special03_electric:cube100:
+    - 100272
+    - 400272
+    t_special03_electric:group8:
+    - 100274
+    - 400274
+    t_special03_electric:cube106 2:
+    - 100276
+    - 400276
+    //RootNode:
+    - 100278
+    - 400278
+    - 11100000
+    t_special03_electric:cube103 2:
+    - 100280
+    - 400280
+    t_special03_electric:group5:
+    - 100282
+    - 400282
+    t_special03_electric:pCylinder9:
+    - 100284
+    - 400284
+    - 3300138
+    - 2300138
+    - 13500138
+    t_special03_electric:group153:
+    - 100286
+    - 400286
+    t_special03_electric:cube99:
+    - 100288
+    - 400288
+    t_special03_electric:pCube2:
+    - 100290
+    - 400290
+    - 3300140
+    - 2300140
+    - 13500140
+    t_special03_electric:cube104:
+    - 100292
+    - 400292
+    t_special03_electric:cube103:
+    - 100294
+    - 400294
+    t_special03_electric:pPipe1:
+    - 100296
+    - 400296
+    - 3300142
+    - 2300142
+    - 13500142
+    t_special03_electric:group7:
+    - 100298
+    - 400298
+    t_special03_electric:group152:
+    - 100300
+    - 400300
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: t_special03_electric:pCube9
+    4300002: t_special03_electric:pCube11
+    4300004: t_special03_electric:polySurface1449
+    4300006: t_special03_electric:pCylinder15
+    4300008: t_special03_electric:pCylinder14
+    4300010: t_special03_electric:pCylinder9
+    4300012: t_special03_electric:pCylinder20
+    4300014: t_special03_electric:pCylinder16
+    4300016: t_special03_electric:pCylinder26
+    4300018: t_special03_electric:polySurface1443
+    4300020: t_special03_electric:pCube5
+    4300022: t_special03_electric:pCylinder5
+    4300024: t_special03_electric:pCylinder4
+    4300026: t_special03_electric:polySurface1427
+    4300028: t_special03_electric:polySurface1426
+    4300030: t_special03_electric:polySurface1425
+    4300032: t_special03_electric:polySurface1423
+    4300034: t_special03_electric:pCube2
+    4300036: t_special03_electric:polySurface1442
+    4300038: t_special03_electric:polySurface1439
+    4300040: t_special03_electric:polySurface1441
+    4300042: t_special03_electric:polySurface1458
+    4300044: t_special03_electric:pCylinder3
+    4300046: t_special03_electric:polySurface1442
+    4300048: t_special03_electric:polySurface1456
+    4300050: t_special03_electric:polySurface1441
+    4300052: t_special03_electric:polySurface1440
+    4300054: t_special03_electric:pCylinder29
+    4300056: t_special03_electric:pCylinder8
+    4300058: t_special03_electric:polySurface1434
+    4300060: t_special03_electric:polySurface1435
+    4300062: t_special03_electric:polySurface1436
+    4300064: t_special03_electric:polySurface1434
+    4300066: t_special03_electric:polySurface1435
+    4300068: t_special03_electric:polySurface1436
+    4300070: t_special03_electric:polySurface1434
+    4300072: t_special03_electric:polySurface1435
+    4300074: t_special03_electric:polySurface1436
+    4300076: t_special03_electric:polySurface1445
+    4300078: t_special03_electric:polySurface1446
+    4300080: t_special03_electric:pCylinder4
+    4300082: t_special03_electric:polySurface1427
+    4300084: t_special03_electric:polySurface1426
+    4300086: t_special03_electric:polySurface1425
+    4300088: t_special03_electric:polySurface1423
+    4300090: t_special03_electric:pCube2
+    4300092: t_special03_electric:polySurface1442
+    4300094: t_special03_electric:polySurface1439
+    4300096: t_special03_electric:polySurface1441
+    4300098: t_special03_electric:polySurface1457
+    4300100: t_special03_electric:pCylinder3
+    4300102: t_special03_electric:polySurface1442
+    4300104: t_special03_electric:polySurface1455
+    4300106: t_special03_electric:polySurface1441
+    4300108: t_special03_electric:polySurface1440
+    4300110: t_special03_electric:pCylinder28
+    4300112: t_special03_electric:pPipe2
+    4300114: t_special03_electric:pPipe1
+    4300116: t_special03_electric:polySurface1450
+    4300118: t_special03_electric:pCylinder27
+    4300120: t_special03_electric:polySurface1447
+    4300122: t_special03_electric:polySurface4
+    4300124: t_special03_electric:pCylinder18
+    4300126: t_special03_electric:pCylinder18
+    4300128: t_special03_electric:pCube8
+    4300130: t_special03_electric:pCylinder17
+    4300132: t_special03_electric:pCube8
+    4300134: t_special03_electric:pCylinder17
+    4300136: t_special03_electric:polySurface1467
+    4300138: t_special03_electric:polySurface1468
+    4300140: t_special03_electric:pPlane6
+    4300142: t_special03_electric:mortar_rank_body_level_c_30_geo
+    7400000: Take 001 //// t_special03_electric
+    7400002: Build //// t_special03_electric
+    7400004: Attack0 //// t_special03_electric
+    7400006: Destroy //// t_special03_electric
+    7400008: Idle0 //// t_special03_electric
+    7400010: NormalPose //// t_special03_electric
+    7400012: NormalBody //// t_special03_electric

@@ -1,0 +1,1079 @@
+fileFormatVersion: 1
+guid: 3d47a9efb21535c448b8a20d7c85f7c3
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      Idle0:
+        firstFrame: 341
+        lastFrame: 480
+        loop: 0
+        wrapMode: 0
+      Idle1:
+        firstFrame: 481
+        lastFrame: 580
+        loop: 0
+        wrapMode: 0
+      Attack0:
+        firstFrame: 221
+        lastFrame: 255
+        loop: 0
+        wrapMode: 0
+      Destroy:
+        firstFrame: 741
+        lastFrame: 758
+        loop: 0
+        wrapMode: 0
+      NormalPose:
+        firstFrame: 141
+        lastFrame: 220
+        loop: 0
+        wrapMode: 0
+      NormalBody:
+        firstFrame: 741
+        lastFrame: 758
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    rotate_x:
+    - 100000
+    - 400000
+    - 11400006
+    rotate_y:
+    - 100002
+    - 400002
+    - 11400000
+    t_mortar06_lead_child:mortar_rank_body_level_c_1_geo:
+    - 100004
+    - 400004
+    - 3300000
+    - 2300000
+    - 13500200
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_9_geo 3:
+    - 100006
+    - 400006
+    - 3300002
+    - 2300002
+    - 13500206
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_7_geo 2:
+    - 100008
+    - 400008
+    - 3300004
+    - 2300004
+    - 13500142
+    t_mortar06_lead_child:mortar_rank_weapon_level_e_19_geo:
+    - 100010
+    - 400010
+    - 3300006
+    - 2300006
+    - 13500094
+    t_mortar06_lead_child:mortar_rank_level_a_19_geo2 1:
+    - 100012
+    - 400012
+    - 3300008
+    - 2300008
+    - 13500146
+    t_mortar06_lead_child:mortar_rank_body_level_c_5_geo:
+    - 100014
+    - 400014
+    - 3300010
+    - 2300010
+    - 13500162
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_7_geo 1:
+    - 100016
+    - 400016
+    - 3300012
+    - 2300012
+    - 13500208
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_11_geo 1:
+    - 100018
+    - 400018
+    - 3300014
+    - 2300014
+    - 13500112
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_2_geo:
+    - 100020
+    - 400020
+    - 3300016
+    - 2300016
+    - 13500186
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo 3:
+    - 100022
+    - 400022
+    - 3300018
+    - 2300018
+    - 13500126
+    t_mortar06_lead_child:mortar_rank_body_level_c_21_geo:
+    - 100024
+    - 400024
+    - 3300020
+    - 2300020
+    - 13500102
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo4 1:
+    - 100026
+    - 400026
+    - 3300022
+    - 2300022
+    - 13500084
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_1_geo 3:
+    - 100028
+    - 400028
+    - 3300024
+    - 2300024
+    - 13500104
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_9_geo:
+    - 100030
+    - 400030
+    - 3300026
+    - 2300026
+    - 13500188
+    t_mortar06_lead_child:mortar_rank_weapon_level_e_18_geo:
+    - 100032
+    - 400032
+    - 3300028
+    - 2300028
+    - 13500100
+    t_mortar06_lead_child:mortar_rank_level_a_25_geo2:
+    - 100034
+    - 400034
+    - 3300030
+    - 2300030
+    - 13500080
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_10_geo 1:
+    - 100036
+    - 400036
+    - 3300032
+    - 2300032
+    - 13500090
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_11_geo:
+    - 100038
+    - 400038
+    - 3300034
+    - 2300034
+    - 13500122
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_9_geo 1:
+    - 100040
+    - 400040
+    - 3300036
+    - 2300036
+    - 13500210
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_2_geo 1:
+    - 100042
+    - 400042
+    - 3300038
+    - 2300038
+    - 13500114
+    t_mortar06_lead_child:mortar_rank_body_level_c_11_geo:
+    - 100044
+    - 400044
+    - 3300040
+    - 2300040
+    - 13500172
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_1_geo:
+    - 100046
+    - 400046
+    - 3300042
+    - 2300042
+    - 13500160
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_4_geo 1:
+    - 100048
+    - 400048
+    - 3300044
+    - 2300044
+    - 13500182
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_6_geo 2:
+    - 100050
+    - 400050
+    - 3300046
+    - 2300046
+    - 13500170
+    t_mortar06_lead_child:mortar_rank_body_level_c_2_geo:
+    - 100052
+    - 400052
+    - 3300048
+    - 2300048
+    - 13500096
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo:
+    - 100054
+    - 400054
+    - 3300050
+    - 2300050
+    - 13500192
+    t_mortar06_lead_child:mortar_rank_body_level_c_20_geo:
+    - 100056
+    - 400056
+    - 3300052
+    - 2300052
+    - 13500190
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo1:
+    - 100058
+    - 400058
+    - 3300054
+    - 2300054
+    - 13500178
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_8_geo:
+    - 100060
+    - 400060
+    - 3300056
+    - 2300056
+    - 13500176
+    t_mortar06_lead_child:mortar_rank_body_level_c_34_geo:
+    - 100062
+    - 400062
+    - 3300058
+    - 2300058
+    - 13500180
+    t_mortar06_lead_child:mortar_rank_level_a_19_geo1:
+    - 100064
+    - 400064
+    - 3300060
+    - 2300060
+    - 13500184
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_7_geo:
+    - 100066
+    - 400066
+    - 3300062
+    - 2300062
+    - 13500152
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_4_geo:
+    - 100068
+    - 400068
+    - 3300064
+    - 2300064
+    - 13500158
+    t_mortar06_lead_child:mortar_rank_body_level_c_20_geo1:
+    - 100070
+    - 400070
+    - 3300066
+    - 2300066
+    - 13500156
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_8_geo 1:
+    - 100072
+    - 400072
+    - 3300068
+    - 2300068
+    - 13500168
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_9_geo 2:
+    - 100074
+    - 400074
+    - 3300070
+    - 2300070
+    - 13500174
+    t_mortar06_lead_child:mortar_rank_body_level_c_14_geo:
+    - 100076
+    - 400076
+    - 3300072
+    - 2300072
+    - 13500166
+    t_mortar06_lead_child:mortar_rank_level_a_19_geo1 1:
+    - 100078
+    - 400078
+    - 3300074
+    - 2300074
+    - 13500164
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_6_geo 3:
+    - 100080
+    - 400080
+    - 3300076
+    - 2300076
+    - 13500110
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo 2:
+    - 100082
+    - 400082
+    - 3300078
+    - 2300078
+    - 13500136
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo 1:
+    - 100084
+    - 400084
+    - 3300080
+    - 2300080
+    - 13500088
+    t_mortar06_lead_child:mortar_rank_body_level_c_40_geo:
+    - 100086
+    - 400086
+    - 3300082
+    - 2300082
+    - 13500106
+    t_mortar06_lead_child:mortar_rank_body_level_c_35_geo:
+    - 100088
+    - 400088
+    - 3300084
+    - 2300084
+    - 13500140
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_5_geo 2:
+    - 100090
+    - 400090
+    - 3300086
+    - 2300086
+    - 13500118
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_6_geo 1:
+    - 100092
+    - 400092
+    - 3300088
+    - 2300088
+    - 13500086
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo1 1:
+    - 100094
+    - 400094
+    - 3300090
+    - 2300090
+    - 13500082
+    t_mortar06_lead_child:mortar_rank_body_level_c_18_geo:
+    - 100096
+    - 400096
+    - 3300092
+    - 2300092
+    - 13500154
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_1_geo 1:
+    - 100098
+    - 400098
+    - 3300094
+    - 2300094
+    - 13500092
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_7_geo 3:
+    - 100100
+    - 400100
+    - 3300096
+    - 2300096
+    - 13500108
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_6_geo:
+    - 100102
+    - 400102
+    - 3300098
+    - 2300098
+    - 13500120
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_1_geo 2:
+    - 100104
+    - 400104
+    - 3300100
+    - 2300100
+    - 13500128
+    t_mortar06_lead_child:mortar_rank_body_level_c_29_geo:
+    - 100106
+    - 400106
+    - 3300102
+    - 2300102
+    - 13500116
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_10_geo:
+    - 100108
+    - 400108
+    - 3300104
+    - 2300104
+    - 13500148
+    t_mortar06_lead_child:mortar_rank_body_level_c_33_geo:
+    - 100110
+    - 400110
+    - 3300106
+    - 2300106
+    - 13500124
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_5_geo 3:
+    - 100112
+    - 400112
+    - 3300108
+    - 2300108
+    - 13500144
+    t_mortar06_lead_child:mortar_rank_body_level_c_22_geo:
+    - 100114
+    - 400114
+    - 3300110
+    - 2300110
+    - 13500098
+    t_mortar06_lead_child:mortar_rank_body_level_c_10_geo:
+    - 100116
+    - 400116
+    - 3300112
+    - 2300112
+    - 13500134
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo4:
+    - 100118
+    - 400118
+    - 3300114
+    - 2300114
+    - 13500138
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_5_geo:
+    - 100120
+    - 400120
+    - 3300116
+    - 2300116
+    - 13500150
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_5_geo 1:
+    - 100122
+    - 400122
+    - 3300118
+    - 2300118
+    - 13500078
+    t_mortar06_lead_child:mortar_rank_level_a_19_geo2:
+    - 100124
+    - 400124
+    - 3300120
+    - 2300120
+    - 13500130
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_10_geo 2:
+    - 100126
+    - 400126
+    - 3300122
+    - 2300122
+    - 13500132
+    t_mortar06_lead_child:mortar_rank_level_a_25_geo1:
+    - 100128
+    - 400128
+    t_mortar06_lead_child:mortar_rank_weapon_level_e_1_geo1:
+    - 100130
+    - 400130
+    - 3300124
+    - 2300124
+    - 13500204
+    t_mortar06_lead_child:mortar_rank_body_level_c_4_geo:
+    - 100132
+    - 400132
+    - 3300126
+    - 2300126
+    - 13500196
+    t_mortar06_lead_child:mortar_rank_body_level_c_30_geo:
+    - 100134
+    - 400134
+    - 3300128
+    - 2300128
+    - 13500198
+    t_mortar06_lead_child:mortar_rank_weapon_level_c_10_geo 3:
+    - 100136
+    - 400136
+    - 3300130
+    - 2300130
+    - 13500194
+    t_mortar06_lead_child:mortar_rank_weapon_level_e_1_geo:
+    - 100138
+    - 400138
+    - 3300132
+    - 2300132
+    - 13500212
+    t_mortar06_lead_child:mortar_rank_body_level_c_31_geo:
+    - 100140
+    - 400140
+    - 3300134
+    - 2300134
+    - 13500202
+    t_mortar06_lead_child:polySurface1418:
+    - 100142
+    - 400142
+    - 3300136
+    - 2300136
+    - 13500022
+    t_mortar06_lead_child:polySurface219 1:
+    - 100144
+    - 400144
+    t_mortar06_lead_child:nurbsCircle46 1:
+    - 100146
+    - 400146
+    t_mortar06_lead_child:polySurface1415 2:
+    - 100148
+    - 400148
+    - 3300138
+    - 2300138
+    - 13500034
+    t_mortar06_lead_child:nurbsCircle57 1:
+    - 100150
+    - 400150
+    t_mortar06_lead_child:nurbsCircle47 1:
+    - 100152
+    - 400152
+    t_mortar06_lead_child:polySurface219:
+    - 100154
+    - 400154
+    t_mortar06_lead_child:polySurface191:
+    - 100156
+    - 400156
+    - 3300140
+    - 2300140
+    - 13500036
+    t_mortar06_lead_child:nurbsCircle54:
+    - 100158
+    - 400158
+    t_mortar06_lead_child:polySurface1441:
+    - 100160
+    - 400160
+    - 3300142
+    - 2300142
+    - 13500002
+    t_mortar06_lead_child:polySurface1414 2:
+    - 100162
+    - 400162
+    t_mortar06_lead_child:polySurface1414 1:
+    - 100164
+    - 400164
+    - 3300144
+    - 2300144
+    - 13500070
+    t_mortar06_lead_child:nurbsCircle59:
+    - 100166
+    - 400166
+    t_mortar06_lead_child:nurbsCircle60:
+    - 100168
+    - 400168
+    t_mortar06_lead_child:polySurface1410 2:
+    - 100170
+    - 400170
+    - 3300146
+    - 2300146
+    - 13500060
+    t_mortar06_lead_child:polySurface190:
+    - 100172
+    - 400172
+    - 3300148
+    - 2300148
+    - 13500032
+    t_mortar06_lead_child:polySurface1412:
+    - 100174
+    - 400174
+    - 3300150
+    - 2300150
+    - 13500058
+    t_mortar06_lead_child:polySurface1426 1:
+    - 100176
+    - 400176
+    - 3300152
+    - 2300152
+    - 13500012
+    t_mortar06_lead_child:nurbsCircle3:
+    - 100178
+    - 400178
+    t_mortar06_lead_child:polySurface1421:
+    - 100180
+    - 400180
+    - 3300154
+    - 2300154
+    - 13500018
+    t_mortar06_lead_child:polySurface1423:
+    - 100182
+    - 400182
+    t_mortar06_lead_child:nurbsCircle46:
+    - 100184
+    - 400184
+    t_mortar06_lead_child:polySurface1409 1:
+    - 100186
+    - 400186
+    - 3300156
+    - 2300156
+    - 13500016
+    t_mortar06_lead_child:polySurface1411 2:
+    - 100188
+    - 400188
+    - 3300158
+    - 2300158
+    - 13500040
+    t_mortar06_lead_child:t_mortar06_child2_s:
+    - 100190
+    - 400190
+    t_mortar06_lead_child:polySurface1418 1:
+    - 100192
+    - 400192
+    - 3300160
+    - 2300160
+    - 13500054
+    t_mortar06_lead_child:polySurface1411:
+    - 100194
+    - 400194
+    - 3300162
+    - 2300162
+    - 13500068
+    t_mortar06_lead_child:rotate_xuuu:
+    - 100196
+    - 400196
+    t_mortar06_lead_child:polySurface1426:
+    - 100198
+    - 400198
+    - 3300164
+    - 2300164
+    - 13500020
+    t_mortar06_lead_child:polySurface1409:
+    - 100200
+    - 400200
+    - 3300166
+    - 2300166
+    - 13500064
+    t_mortar06_lead_child:polySurface1410 3:
+    - 100202
+    - 400202
+    - 3300168
+    - 2300168
+    - 13500050
+    t_mortar06_lead_child:polySurface1415 3:
+    - 100204
+    - 400204
+    - 3300170
+    - 2300170
+    - 13500000
+    t_mortar06_lead_child:polySurface1414 3:
+    - 100206
+    - 400206
+    t_mortar06_lead_child:polySurface1424:
+    - 100208
+    - 400208
+    - 3300172
+    - 2300172
+    - 13500042
+    t_mortar06_lead_child:polySurface1409 3:
+    - 100210
+    - 400210
+    - 3300174
+    - 2300174
+    - 13500030
+    t_mortar06_lead_child:polySurface1412 3:
+    - 100212
+    - 400212
+    - 3300176
+    - 2300176
+    - 13500008
+    t_mortar06_lead_child:nurbsCircle56:
+    - 100214
+    - 400214
+    t_mortar06_lead_child:polySurface1419:
+    - 100216
+    - 400216
+    - 3300178
+    - 2300178
+    - 13500006
+    t_mortar06_lead_child:nurbsCircle57:
+    - 100218
+    - 400218
+    t_mortar06_lead_child:nurbsCircle51:
+    - 100220
+    - 400220
+    t_mortar06_lead_child:polySurface1440:
+    - 100222
+    - 400222
+    - 3300180
+    - 2300180
+    - 13500026
+    t_mortar06_lead_child:nurbsCircle50:
+    - 100224
+    - 400224
+    t_mortar06_lead_child:nurbsCircle52:
+    - 100226
+    - 400226
+    t_mortar06_lead_child:polySurface1417:
+    - 100228
+    - 400228
+    - 3300182
+    - 2300182
+    - 13500010
+    t_mortar06_lead_child:nurbsCircle58:
+    - 100230
+    - 400230
+    t_mortar06_lead_child:nurbsCircle56 1:
+    - 100232
+    - 400232
+    t_mortar06_lead_child:nurbsCircle52 1:
+    - 100234
+    - 400234
+    t_mortar06_lead_child:polySurface1412 1:
+    - 100236
+    - 400236
+    - 3300184
+    - 2300184
+    - 13500052
+    t_mortar06_lead_child:polySurface1421 1:
+    - 100238
+    - 400238
+    - 3300186
+    - 2300186
+    - 13500062
+    t_mortar06_lead_child:polySurface1419 1:
+    - 100240
+    - 400240
+    - 3300188
+    - 2300188
+    - 13500014
+    t_mortar06_lead_child:polySurface1411 1:
+    - 100242
+    - 400242
+    - 3300190
+    - 2300190
+    - 13500066
+    t_mortar06_lead_child:polySurface1414:
+    - 100244
+    - 400244
+    - 3300192
+    - 2300192
+    - 13500024
+    t_mortar06_lead_child:rotate_xuuu 1:
+    - 100246
+    - 400246
+    t_mortar06_lead_child:polySurface1415:
+    - 100248
+    - 400248
+    - 3300194
+    - 2300194
+    - 13500072
+    t_mortar06_lead_child:polySurface1412 2:
+    - 100250
+    - 400250
+    - 3300196
+    - 2300196
+    - 13500046
+    t_mortar06_lead_child:polySurface1420:
+    - 100252
+    - 400252
+    - 3300198
+    - 2300198
+    - 13500038
+    t_mortar06_lead_child:nurbsCircle47:
+    - 100254
+    - 400254
+    t_mortar06_lead_child:polySurface1411 3:
+    - 100256
+    - 400256
+    - 3300200
+    - 2300200
+    - 13500048
+    t_mortar06_lead_child:polySurface1409 2:
+    - 100258
+    - 400258
+    - 3300202
+    - 2300202
+    - 13500004
+    t_mortar06_lead_child:nurbsCircle48:
+    - 100260
+    - 400260
+    t_mortar06_lead_child:polySurface1410:
+    - 100262
+    - 400262
+    - 3300204
+    - 2300204
+    - 13500044
+    t_mortar06_lead_child:nurbsCircle60 1:
+    - 100264
+    - 400264
+    t_mortar06_lead_child:polySurface1410 1:
+    - 100266
+    - 400266
+    - 3300206
+    - 2300206
+    - 13500028
+    t_mortar06_lead_child:polySurface1415 1:
+    - 100268
+    - 400268
+    - 3300208
+    - 2300208
+    - 13500056
+    t_mortar06_lead_child:nurbsCircle48 1:
+    - 100270
+    - 400270
+    t_mortar06_lead_child:cube104:
+    - 100272
+    - 400272
+    t_mortar06_lead_child:cube83 1:
+    - 100274
+    - 400274
+    t_mortar06_lead_child:cube105:
+    - 100276
+    - 400276
+    t_mortar06_lead_child:group21:
+    - 100278
+    - 400278
+    t_mortar06_lead_child:cube100:
+    - 100280
+    - 400280
+    t_mortar06_lead_child:cube89:
+    - 100282
+    - 400282
+    t_mortar06_lead_child:cube106:
+    - 100284
+    - 400284
+    t_mortar06_lead_child:cube102:
+    - 100286
+    - 400286
+    t_mortar06_lead_child:group41:
+    - 100288
+    - 400288
+    t_mortar06_lead_child:group45:
+    - 100290
+    - 400290
+    t_mortar06_lead_child:cube82 2:
+    - 100292
+    - 400292
+    t_mortar06_lead_child:cube89 1:
+    - 100294
+    - 400294
+    t_mortar06_lead_child:cube96 1:
+    - 100296
+    - 400296
+    t_mortar06_lead_child:cube97:
+    - 100298
+    - 400298
+    t_mortar06_lead_child:cube87:
+    - 100300
+    - 400300
+    t_mortar06_lead_child:cube88:
+    - 100302
+    - 400302
+    t_mortar06_lead_child:cube103:
+    - 100304
+    - 400304
+    t_mortar06_lead_child:group75:
+    - 100306
+    - 400306
+    t_mortar06_lead_child:cube95:
+    - 100308
+    - 400308
+    t_mortar06_lead_child:cube93 1:
+    - 100310
+    - 400310
+    t_mortar06_lead_child:pPlane6:
+    - 100312
+    - 400312
+    - 3300210
+    - 2300210
+    - 13500074
+    t_mortar06_lead_child:group140:
+    - 100314
+    - 400314
+    t_mortar06_lead_child:cube97 1:
+    - 100316
+    - 400316
+    t_mortar06_lead_child:group148:
+    - 100318
+    - 400318
+    t_mortar06_lead_child:group152:
+    - 100320
+    - 400320
+    t_mortar06_lead_child:cube92:
+    - 100322
+    - 400322
+    t_mortar06_lead_child:cube98:
+    - 100324
+    - 400324
+    t_mortar06_lead_child:cube84:
+    - 100326
+    - 400326
+    t_mortar06_lead_child:cube95 1:
+    - 100328
+    - 400328
+    t_mortar06_lead_child:group138:
+    - 100330
+    - 400330
+    t_mortar06_lead_child:cube94:
+    - 100332
+    - 400332
+    t_mortar06_lead_child:group149:
+    - 100334
+    - 400334
+    //RootNode:
+    - 100336
+    - 400336
+    - 11100000
+    t_mortar06_lead_child:cube82 1:
+    - 100338
+    - 400338
+    t_mortar06_lead_child:cube91:
+    - 100340
+    - 400340
+    t_mortar06_lead_child:group151:
+    - 100342
+    - 400342
+    t_mortar06_lead_child:group150:
+    - 100344
+    - 400344
+    t_mortar06_lead_child:group22:
+    - 100346
+    - 400346
+    t_mortar06_lead_child:cube82 3:
+    - 100348
+    - 400348
+    t_mortar06_lead_child:cube93:
+    - 100350
+    - 400350
+    t_mortar06_lead_child:cube99:
+    - 100352
+    - 400352
+    t_mortar06_lead_child:cube83 3:
+    - 100354
+    - 400354
+    t_mortar06_lead_child:group46:
+    - 100356
+    - 400356
+    t_mortar06_lead_child:ki_pan1:
+    - 100358
+    - 400358
+    t_mortar06_lead_child:cube83:
+    - 100360
+    - 400360
+    t_mortar06_lead_child:pCube2:
+    - 100362
+    - 400362
+    - 3300212
+    - 2300212
+    - 13500076
+    t_mortar06_lead_child:cube82:
+    - 100364
+    - 400364
+    t_mortar06_lead_child:cube84 1:
+    - 100366
+    - 400366
+    t_mortar06_lead_child:cube98 1:
+    - 100368
+    - 400368
+    t_mortar06_lead_child:cube96:
+    - 100370
+    - 400370
+    t_mortar06_lead_child:cube90:
+    - 100372
+    - 400372
+    t_mortar06_lead_child:group142:
+    - 100374
+    - 400374
+    t_mortar06_lead_child:cube99 1:
+    - 100376
+    - 400376
+    t_mortar06_lead_child:group73:
+    - 100378
+    - 400378
+    t_mortar06_lead_child:cube83 2:
+    - 100380
+    - 400380
+    t_mortar06_lead_child:group42:
+    - 100382
+    - 400382
+    t_mortar06_lead_child:group141:
+    - 100384
+    - 400384
+    t_mortar06_lead_child:group26:
+    - 100386
+    - 400386
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: t_mortar06_lead_child:mortar_rank_body_level_c_1_geo
+    4300002: t_mortar06_lead_child:mortar_rank_body_level_c_4_geo
+    4300004: t_mortar06_lead_child:mortar_rank_body_level_c_30_geo
+    4300006: t_mortar06_lead_child:mortar_rank_body_level_c_31_geo
+    4300008: t_mortar06_lead_child:polySurface190
+    4300010: t_mortar06_lead_child:polySurface191
+    4300012: t_mortar06_lead_child:pPlane6
+    4300014: t_mortar06_lead_child:mortar_rank_body_level_c_5_geo
+    4300016: t_mortar06_lead_child:mortar_rank_body_level_c_33_geo
+    4300018: t_mortar06_lead_child:mortar_rank_body_level_c_34_geo
+    4300020: t_mortar06_lead_child:mortar_rank_body_level_c_35_geo
+    4300022: t_mortar06_lead_child:pCube2
+    4300024: t_mortar06_lead_child:mortar_rank_body_level_c_20_geo1
+    4300026: t_mortar06_lead_child:mortar_rank_body_level_c_29_geo
+    4300028: t_mortar06_lead_child:polySurface1417
+    4300030: t_mortar06_lead_child:mortar_rank_body_level_c_11_geo
+    4300032: t_mortar06_lead_child:mortar_rank_body_level_c_10_geo
+    4300034: t_mortar06_lead_child:mortar_rank_body_level_c_20_geo
+    4300036: t_mortar06_lead_child:mortar_rank_body_level_c_18_geo
+    4300038: t_mortar06_lead_child:mortar_rank_body_level_c_14_geo
+    4300040: t_mortar06_lead_child:polySurface1418
+    4300042: t_mortar06_lead_child:polySurface1419
+    4300044: t_mortar06_lead_child:mortar_rank_level_a_19_geo2
+    4300046: t_mortar06_lead_child:mortar_rank_level_a_19_geo1
+    4300048: t_mortar06_lead_child:mortar_rank_level_a_19_geo2
+    4300050: t_mortar06_lead_child:mortar_rank_level_a_19_geo1
+    4300052: t_mortar06_lead_child:polySurface1420
+    4300054: t_mortar06_lead_child:mortar_rank_weapon_level_c_11_geo
+    4300056: t_mortar06_lead_child:mortar_rank_weapon_level_c_8_geo
+    4300058: t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo
+    4300060: t_mortar06_lead_child:mortar_rank_weapon_level_c_4_geo
+    4300062: t_mortar06_lead_child:mortar_rank_weapon_level_c_5_geo
+    4300064: t_mortar06_lead_child:mortar_rank_weapon_level_c_9_geo
+    4300066: t_mortar06_lead_child:polySurface1415
+    4300068: t_mortar06_lead_child:mortar_rank_weapon_level_c_10_geo
+    4300070: t_mortar06_lead_child:polySurface1411
+    4300072: t_mortar06_lead_child:polySurface1409
+    4300074: t_mortar06_lead_child:polySurface1410
+    4300076: t_mortar06_lead_child:polySurface1412
+    4300078: t_mortar06_lead_child:polySurface1441
+    4300080: t_mortar06_lead_child:polySurface1421
+    4300082: t_mortar06_lead_child:mortar_rank_weapon_level_c_6_geo
+    4300084: t_mortar06_lead_child:mortar_rank_weapon_level_c_1_geo
+    4300086: t_mortar06_lead_child:mortar_rank_weapon_level_c_2_geo
+    4300088: t_mortar06_lead_child:mortar_rank_weapon_level_c_7_geo
+    4300090: t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo
+    4300092: t_mortar06_lead_child:mortar_rank_weapon_level_c_5_geo
+    4300094: t_mortar06_lead_child:mortar_rank_weapon_level_c_9_geo
+    4300096: t_mortar06_lead_child:polySurface1415
+    4300098: t_mortar06_lead_child:mortar_rank_weapon_level_c_10_geo
+    4300100: t_mortar06_lead_child:mortar_rank_weapon_level_c_1_geo
+    4300102: t_mortar06_lead_child:mortar_rank_weapon_level_c_6_geo
+    4300104: t_mortar06_lead_child:polySurface1414
+    4300106: t_mortar06_lead_child:polySurface1411
+    4300108: t_mortar06_lead_child:polySurface1409
+    4300110: t_mortar06_lead_child:polySurface1410
+    4300112: t_mortar06_lead_child:polySurface1412
+    4300114: t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo1
+    4300116: t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo4
+    4300118: t_mortar06_lead_child:mortar_rank_weapon_level_c_7_geo
+    4300120: t_mortar06_lead_child:mortar_rank_weapon_level_c_11_geo
+    4300122: t_mortar06_lead_child:mortar_rank_weapon_level_c_8_geo
+    4300124: t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo
+    4300126: t_mortar06_lead_child:mortar_rank_weapon_level_c_4_geo
+    4300128: t_mortar06_lead_child:mortar_rank_weapon_level_c_5_geo
+    4300130: t_mortar06_lead_child:mortar_rank_weapon_level_c_9_geo
+    4300132: t_mortar06_lead_child:polySurface1415
+    4300134: t_mortar06_lead_child:mortar_rank_weapon_level_c_10_geo
+    4300136: t_mortar06_lead_child:polySurface1411
+    4300138: t_mortar06_lead_child:polySurface1409
+    4300140: t_mortar06_lead_child:polySurface1410
+    4300142: t_mortar06_lead_child:polySurface1412
+    4300144: t_mortar06_lead_child:polySurface1440
+    4300146: t_mortar06_lead_child:polySurface1421
+    4300148: t_mortar06_lead_child:mortar_rank_weapon_level_c_6_geo
+    4300150: t_mortar06_lead_child:mortar_rank_weapon_level_c_1_geo
+    4300152: t_mortar06_lead_child:mortar_rank_weapon_level_c_2_geo
+    4300154: t_mortar06_lead_child:mortar_rank_weapon_level_c_7_geo
+    4300156: t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo
+    4300158: t_mortar06_lead_child:mortar_rank_weapon_level_c_5_geo
+    4300160: t_mortar06_lead_child:mortar_rank_weapon_level_c_9_geo
+    4300162: t_mortar06_lead_child:polySurface1415
+    4300164: t_mortar06_lead_child:mortar_rank_weapon_level_c_10_geo
+    4300166: t_mortar06_lead_child:mortar_rank_weapon_level_c_1_geo
+    4300168: t_mortar06_lead_child:mortar_rank_weapon_level_c_6_geo
+    4300170: t_mortar06_lead_child:polySurface1414
+    4300172: t_mortar06_lead_child:polySurface1411
+    4300174: t_mortar06_lead_child:polySurface1409
+    4300176: t_mortar06_lead_child:polySurface1410
+    4300178: t_mortar06_lead_child:polySurface1412
+    4300180: t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo1
+    4300182: t_mortar06_lead_child:mortar_rank_weapon_level_c_12_geo4
+    4300184: t_mortar06_lead_child:mortar_rank_weapon_level_c_7_geo
+    4300186: t_mortar06_lead_child:polySurface1424
+    4300188: t_mortar06_lead_child:mortar_rank_weapon_level_e_1_geo
+    4300190: t_mortar06_lead_child:mortar_rank_weapon_level_e_1_geo1
+    4300192: t_mortar06_lead_child:mortar_rank_weapon_level_e_19_geo
+    4300194: t_mortar06_lead_child:mortar_rank_weapon_level_e_18_geo
+    4300196: t_mortar06_lead_child:polySurface1426
+    4300198: t_mortar06_lead_child:polySurface1426
+    4300200: t_mortar06_lead_child:polySurface1418
+    4300202: t_mortar06_lead_child:polySurface1419
+    4300204: t_mortar06_lead_child:mortar_rank_level_a_25_geo2
+    4300206: t_mortar06_lead_child:mortar_rank_body_level_c_21_geo
+    4300208: t_mortar06_lead_child:mortar_rank_body_level_c_40_geo
+    4300210: t_mortar06_lead_child:mortar_rank_body_level_c_2_geo
+    4300212: t_mortar06_lead_child:mortar_rank_body_level_c_22_geo
+    7400000: Take 001 //// t_mortar06_lead_child
+    7400002: Build //// t_mortar06_lead_child
+    7400004: Idle0 //// t_mortar06_lead_child
+    7400006: Idle1 //// t_mortar06_lead_child
+    7400008: Attack0 //// t_mortar06_lead_child
+    7400010: Destroy //// t_mortar06_lead_child
+    7400012: NormalPose //// t_mortar06_lead_child
+    7400014: NormalBody //// t_mortar06_lead_child

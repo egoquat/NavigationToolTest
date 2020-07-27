@@ -1,0 +1,432 @@
+fileFormatVersion: 1
+guid: 2fee0aa9e107d8c41baa05aa9771cd3d
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 1
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    rock07:
+    - 100000
+    - 400000
+    rock01_0008:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    - 6500000
+    rock02:
+    - 100004
+    - 400004
+    rock01_0001:
+    - 100006
+    - 400006
+    - 3300002
+    - 2300002
+    - 6500002
+    rock03_0003:
+    - 100008
+    - 400008
+    - 3300004
+    - 2300004
+    - 6500004
+    wing_0001:
+    - 100010
+    - 400010
+    - 3300006
+    - 2300006
+    - 6500006
+    bulding_0002:
+    - 100012
+    - 400012
+    - 3300008
+    - 2300008
+    - 6500008
+    rock01_0015:
+    - 100014
+    - 400014
+    - 3300010
+    - 2300010
+    - 6500010
+    rock01_0016:
+    - 100016
+    - 400016
+    - 3300012
+    - 2300012
+    - 6500012
+    rock01_0011:
+    - 100018
+    - 400018
+    - 3300014
+    - 2300014
+    - 6500014
+    rock01_0007:
+    - 100020
+    - 400020
+    - 3300016
+    - 2300016
+    - 6500016
+    rock03:
+    - 100022
+    - 400022
+    rock01:
+    - 100024
+    - 400024
+    side:
+    - 100026
+    - 400026
+    - 3300018
+    - 2300018
+    - 6500018
+    wing1:
+    - 100028
+    - 400028
+    rock02_0001:
+    - 100030
+    - 400030
+    - 3300020
+    - 2300020
+    - 6500020
+    rock01_0006:
+    - 100032
+    - 400032
+    - 3300022
+    - 2300022
+    - 6500022
+    deco:
+    - 100034
+    - 400034
+    rock01_0010:
+    - 100036
+    - 400036
+    - 3300024
+    - 2300024
+    - 6500024
+    rock01_0017:
+    - 100038
+    - 400038
+    - 3300026
+    - 2300026
+    - 6500026
+    bulding:
+    - 100040
+    - 400040
+    rock02_0002:
+    - 100042
+    - 400042
+    - 3300028
+    - 2300028
+    - 6500028
+    rock07__0001:
+    - 100044
+    - 400044
+    - 3300030
+    - 2300030
+    - 6500030
+    rock03_0001:
+    - 100046
+    - 400046
+    - 3300032
+    - 2300032
+    - 6500032
+    rock01_0003:
+    - 100048
+    - 400048
+    - 3300034
+    - 2300034
+    - 6500034
+    wing_0002:
+    - 100050
+    - 400050
+    - 3300036
+    - 2300036
+    - 6500036
+    rock01_0018:
+    - 100052
+    - 400052
+    - 3300038
+    - 2300038
+    - 6500038
+    rock01_0014:
+    - 100054
+    - 400054
+    - 3300040
+    - 2300040
+    - 6500040
+    rock07__0002:
+    - 100056
+    - 400056
+    - 3300042
+    - 2300042
+    - 6500042
+    rock07__0003:
+    - 100058
+    - 400058
+    - 3300044
+    - 2300044
+    - 6500044
+    rock01_0002:
+    - 100060
+    - 400060
+    - 3300046
+    - 2300046
+    - 6500046
+    bulding_0001:
+    - 100062
+    - 400062
+    - 3300048
+    - 2300048
+    - 6500048
+    rock03_0002:
+    - 100064
+    - 400064
+    - 3300050
+    - 2300050
+    - 6500050
+    rock01_0013:
+    - 100066
+    - 400066
+    - 3300052
+    - 2300052
+    - 6500052
+    rock01_0004:
+    - 100068
+    - 400068
+    - 3300054
+    - 2300054
+    - 6500054
+    rock01_0019:
+    - 100070
+    - 400070
+    - 3300056
+    - 2300056
+    - 6500056
+    rock01_0009:
+    - 100072
+    - 400072
+    - 3300058
+    - 2300058
+    - 6500058
+    rock07__0004:
+    - 100074
+    - 400074
+    - 3300060
+    - 2300060
+    - 6500060
+    rock01_0012:
+    - 100076
+    - 400076
+    - 3300062
+    - 2300062
+    - 6500062
+    rock01_0005:
+    - 100078
+    - 400078
+    - 3300064
+    - 2300064
+    - 6500064
+    //RootNode:
+    - 100116
+    - 400116
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: middle1:Group2
+    4300002: transform19
+    4300004: polySurface1784
+    4300006: polySurface1785
+    4300008: polySurface1786
+    4300010: polySurface1787
+    4300012: polySurface1788
+    4300014: polySurface1790
+    4300016: polySurface1791
+    4300018: polySurface1792
+    4300020: polySurface1793
+    4300022: polySurface1794
+    4300024: polySurface1795
+    4300026: polySurface1796
+    4300028: polySurface1797
+    4300030: polySurface1798
+    4300032: polySurface1799
+    4300034: polySurface1800
+    4300036: polySurface1801
+    4300038: polySurface1802
+    4300040: polySurface1803
+    4300042: polySurface1804
+    4300044: polySurface1805
+    4300046: polySurface1806
+    4300048: polySurface1807
+    4300050: polySurface1808
+    4300052: polySurface1809
+    4300054: transform20
+    4300056: polySurface1670
+    4300058: polySurface1671
+    4300060: polySurface1678
+    4300062: polySurface1684
+    4300064: polySurface1685
+    4300066: polySurface1672
+    4300068: polySurface1673
+    4300070: polySurface1674
+    4300072: polySurface1676
+    4300074: polySurface1680
+    4300076: polySurface1681
+    4300078: polySurface1683
+    4300080: polySurface1682
+    4300082: polySurface1669
+    4300084: piece:polySurface1
+    4300086: polySurface1659
+    4300088: polySurface1660
+    4300090: polySurface1661
+    4300092: polySurface1663
+    4300094: polySurface1664
+    4300096: polySurface1662
+    4300098: polySurface1679
+    4300100: pCube25
+    4300102: polySurface1666
+    4300104: polySurface1665
+    4300106: polySurface1675
+    4300108: polySurface1677
+    4300110: pCube32
+    4300112: pCube24
+    4300114: polySurface1667
+    4300116: polySurface1658
+    4300118: polySurface1945
+    4300120: polySurface1948
+    4300122: polySurface1949
+    4300124: polySurface1944
+    4300126: polySurface1946
+    4300128: polySurface1947
+    4300130: polySurface1810
+    4300132: polySurface1811
+    4300134: polySurface1812
+    4300136: polySurface1816
+    4300138: polySurface1818
+    4300140: polySurface1819
+    4300142: polySurface1822
+    4300144: polySurface1823
+    4300146: polySurface1828
+    4300148: polySurface1829
+    4300150: polySurface1830
+    4300152: polySurface1834
+    4300154: polySurface1838
+    4300156: polySurface1840
+    4300158: polySurface1841
+    4300160: polySurface1842
+    4300162: polySurface1843
+    4300164: polySurface1844
+    4300166: polySurface1845
+    4300168: transform22
+    4300170: transform21
+    4300172: polySurface1854
+    4300174: polySurface1856
+    4300176: polySurface1859
+    4300178: polySurface1861
+    4300180: polySurface1862
+    4300182: polySurface1863
+    4300184: polySurface1864
+    4300186: polySurface1865
+    4300188: polySurface1867
+    4300190: polySurface1884
+    4300192: polySurface1885
+    4300194: polySurface1887
+    4300196: polySurface1889
+    4300198: transform24
+    4300200: polySurface1897
+    4300202: polySurface1898
+    4300204: polySurface1899
+    4300206: transform23
+    4300208: polySurface1911
+    4300210: polySurface1915
+    4300212: polySurface1916
+    4300214: polySurface1917
+    4300216: polySurface1918
+    4300218: polySurface1919
+    4300220: polySurface1920
+    4300222: polySurface1921
+    4300224: polySurface1922
+    4300226: polySurface1923
+    4300228: polySurface1924
+    4300230: polySurface1928
+    4300232: polySurface1929
+    4300234: polySurface1930
+    4300236: polySurface1931
+    4300238: polySurface1932
+    4300240: polySurface1933
+    4300242: polySurface1934
+    4300244: polySurface1935
+    4300246: polySurface1936
+    4300248: polySurface1937
+    4300250: polySurface1938
+    4300252: polySurface1939
+    4300254: polySurface1940
+    4300256: polySurface1941
+    4300258: polySurface1942
+    4300260: polySurface1943
+    4300262: polySurface1855
+    4300264: polySurface1904
+    4300266: transform25
+    4300268: polySurface1925
+    4300270: polySurface1907
+    4300272: polySurface1909
+    4300274: polySurface1912
+    4300276: polySurface1950
+    4300278: polySurface1951
+    4300280: polySurface1952
+    4300282: polySurface1953
+    4300284: polySurface1954
+    4300286: polySurface1955
+    4300288: polySurface1956
+    4300290: polySurface1957
+    4300292: polySurface1958
+    4300294: polySurface1959
+    4300296: polySurface1960
+    4300298: rock01_0001
+    4300300: rock01_0002
+    4300302: rock01_0003
+    4300304: rock01_0004
+    4300306: rock01_0005
+    4300308: rock01_0006
+    4300310: rock01_0007
+    4300312: rock01_0008
+    4300314: rock01_0009
+    4300316: rock01_0010
+    4300318: rock01_0011
+    4300320: rock01_0012
+    4300322: rock01_0013
+    4300324: rock01_0014
+    4300326: rock01_0015
+    4300328: rock01_0016
+    4300330: rock01_0017
+    4300332: rock01_0018
+    4300334: rock01_0019
+    4300336: rock02_0002
+    4300338: rock02_0001
+    4300340: rock03_0003
+    4300342: rock03_0002
+    4300344: rock03_0001
+    4300346: rock07__0001
+    4300348: rock07__0002
+    4300350: rock07__0003
+    4300352: rock07__0004
+    4300354: bulding_0001
+    4300356: bulding_0002
+    4300358: wing_0001
+    4300360: wing_0002
+    4300362: side

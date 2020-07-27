@@ -1,0 +1,215 @@
+fileFormatVersion: 1
+guid: 8ea92aff157570c4a93ed36fe90fa1c6
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      move:
+        firstFrame: 1
+        lastFrame: 180
+        loop: 0
+        wrapMode: 0
+      attack:
+        firstFrame: 221
+        lastFrame: 373
+        loop: 0
+        wrapMode: 0
+      die:
+        firstFrame: 661
+        lastFrame: 780
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    act_boss_04:polySurface70:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 13500000
+    act_boss_04:polySurface73:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    - 13500002
+    act_boss_04:cube5:
+    - 100004
+    - 400004
+    act_boss_04:act_boss_04_s:
+    - 100008
+    - 400008
+    act_boss_04:cube1:
+    - 100010
+    - 400010
+    act_boss_04:cube1 1:
+    - 100012
+    - 400012
+    act_boss_04:polySurface64:
+    - 100014
+    - 400014
+    - 3300006
+    - 2300006
+    - 13500006
+    act_boss_04:polySurface58:
+    - 100016
+    - 400016
+    - 3300008
+    - 2300008
+    - 13500008
+    act_boss_04:nurbsCircle1:
+    - 100018
+    - 400018
+    act_boss_04:polySurface65:
+    - 100020
+    - 400020
+    - 3300010
+    - 2300010
+    - 13500010
+    act_boss_04:cube2:
+    - 100022
+    - 400022
+    act_boss_04:polySurface66:
+    - 100024
+    - 400024
+    - 3300012
+    - 2300012
+    - 13500012
+    act_boss_04:cube3:
+    - 100026
+    - 400026
+    act_boss_04:polySurface67:
+    - 100028
+    - 400028
+    - 3300014
+    - 2300014
+    - 13500014
+    act_boss_04:cube2 1:
+    - 100030
+    - 400030
+    act_boss_04:cube7:
+    - 100032
+    - 400032
+    act_boss_04:polySurface56:
+    - 100034
+    - 400034
+    - 3300016
+    - 2300016
+    - 13500016
+    act_boss_04:polySurface55:
+    - 100036
+    - 400036
+    - 3300018
+    - 2300018
+    - 13500018
+    act_boss_04:polySurface61:
+    - 100038
+    - 400038
+    - 3300020
+    - 2300020
+    - 13500020
+    act_boss_04:nurbsCircle2 1:
+    - 100040
+    - 400040
+    act_boss_04:polySurface71:
+    - 100042
+    - 400042
+    - 3300022
+    - 2300022
+    - 13500022
+    act_boss_04:polySurface72:
+    - 100044
+    - 400044
+    - 3300024
+    - 2300024
+    - 13500024
+    act_boss_04:cube4:
+    - 100046
+    - 400046
+    act_boss_04:polySurface54:
+    - 100048
+    - 400048
+    - 3300026
+    - 2300026
+    - 13500026
+    act_boss_04:cube5 1:
+    - 100050
+    - 400050
+    act_boss_04:nurbsCircle2:
+    - 100052
+    - 400052
+    act_boss_04:polySurface74:
+    - 100054
+    - 400054
+    - 3300028
+    - 2300028
+    - 13500028
+    act_boss_04:cube6:
+    - 100056
+    - 400056
+    act_boss_04:cube4 1:
+    - 100058
+    - 400058
+    act_boss_04:Boss04_0001:
+    - 100060
+    - 400060
+    act_boss_04:polySurface68:
+    - 100062
+    - 400062
+    - 3300030
+    - 2300030
+    - 13500030
+    act_boss_04:cube8:
+    - 100064
+    - 400064
+    act_boss_04:nurbsCircle1 1:
+    - 100066
+    - 400066
+    act_boss_04:cube3 1:
+    - 100068
+    - 400068
+    //RootNode:
+    - 100070
+    - 400070
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: act_boss_04:polySurface29
+    4300002: act_boss_04:polySurface56
+    4300004: act_boss_04:polySurface65
+    4300006: act_boss_04:polySurface64
+    4300008: act_boss_04:polySurface66
+    4300010: act_boss_04:polySurface58
+    4300012: act_boss_04:polySurface67
+    4300014: act_boss_04:polySurface68
+    4300016: act_boss_04:polySurface55
+    4300018: act_boss_04:polySurface71
+    4300020: act_boss_04:polySurface70
+    4300022: act_boss_04:polySurface72
+    4300024: act_boss_04:polySurface61
+    4300026: act_boss_04:polySurface73
+    4300028: act_boss_04:polySurface74
+    4300030: act_boss_04:polySurface54
+    7400000: Take 001 //// act_boss_04
+    7400002: fly //// act_boss_04
+    7400004: attack //// act_boss_04
+    7400006: die //// act_boss_04
+    7400008: move //// act_boss_04

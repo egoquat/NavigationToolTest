@@ -1,0 +1,408 @@
+fileFormatVersion: 1
+guid: 03318a0a9389e4c49bc9bb1c12c0b07e
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 2
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      spawn:
+        firstFrame: 21
+        lastFrame: 30
+        loop: 0
+        wrapMode: 0
+      move:
+        firstFrame: 31
+        lastFrame: 54
+        loop: 0
+        wrapMode: 0
+      attack:
+        firstFrame: 191
+        lastFrame: 219
+        loop: 0
+        wrapMode: 0
+      die:
+        firstFrame: 391
+        lastFrame: 440
+        loop: 0
+        wrapMode: 0
+  nodeInfo:
+    e_walk_bio02:e_walk_bio_01:
+    - 100000
+    - 400000
+    e_walk_bio02:e_walk_bio01:
+    - 100002
+    - 400002
+    e_walk_bio02:ikHandle1 2:
+    - 100004
+    - 400004
+    e_walk_bio02:cube7:
+    - 100006
+    - 400006
+    e_walk_bio02:ikHandle1 1:
+    - 100008
+    - 400008
+    e_walk_bio02:cube11:
+    - 100010
+    - 400010
+    e_walk_bio02:ikHandle7:
+    - 100012
+    - 400012
+    e_walk_bio02:cube4:
+    - 100014
+    - 400014
+    e_walk_bio02:joint5:
+    - 100016
+    - 400016
+    e_walk_bio02:joint6:
+    - 100018
+    - 400018
+    e_walk_bio02:joint16:
+    - 100020
+    - 400020
+    e_walk_bio02:cube9:
+    - 100022
+    - 400022
+    e_walk_bio02:cube6:
+    - 100024
+    - 400024
+    e_walk_bio02:cube10:
+    - 100026
+    - 400026
+    e_walk_bio02:nurbsCircle1:
+    - 100028
+    - 400028
+    e_walk_bio02:group1:
+    - 100030
+    - 400030
+    e_walk_bio02:joint24:
+    - 100032
+    - 400032
+    e_walk_bio02:ikHandle3 1:
+    - 100034
+    - 400034
+    e_walk_bio02:ikHandle6:
+    - 100036
+    - 400036
+    e_walk_bio02:cube3:
+    - 100038
+    - 400038
+    e_walk_bio02:ikHandle1:
+    - 100040
+    - 400040
+    e_walk_bio02:cube8:
+    - 100042
+    - 400042
+    e_walk_bio02:e_walk_bio01_s:
+    - 100044
+    - 400044
+    e_walk_bio02:joint23:
+    - 100046
+    - 400046
+    e_walk_bio02:joint2:
+    - 100048
+    - 400048
+    e_walk_bio02:joint3:
+    - 100050
+    - 400050
+    e_walk_bio02:joint4:
+    - 100052
+    - 400052
+    e_walk_bio02:ikHandle3:
+    - 100054
+    - 400054
+    e_walk_bio02:joint1:
+    - 100056
+    - 400056
+    - 13700000
+    e_walk_bio02:ikHandle8:
+    - 100058
+    - 400058
+    e_walk_bio02:ikHandle9:
+    - 100060
+    - 400060
+    e_walk_bio02:cube4 1:
+    - 100062
+    - 400062
+    e_walk_bio02:nurbsCircle1 1:
+    - 100064
+    - 400064
+    e_walk_bio02:ikHandle10:
+    - 100066
+    - 400066
+    e_walk_bio02:joint17:
+    - 100068
+    - 400068
+    e_walk_bio02:joint25:
+    - 100070
+    - 400070
+    e_walk_bio02:ikHandle4:
+    - 100072
+    - 400072
+    e_walk_bio02:joint19:
+    - 100074
+    - 400074
+    e_walk_bio02:joint26:
+    - 100076
+    - 400076
+    e_walk_bio02:joint15:
+    - 100078
+    - 400078
+    e_walk_bio02:joint21:
+    - 100080
+    - 400080
+    e_walk_bio02:joint28:
+    - 100082
+    - 400082
+    e_walk_bio02:joint9:
+    - 100084
+    - 400084
+    e_walk_bio02:joint27:
+    - 100086
+    - 400086
+    e_walk_bio02:joint8:
+    - 100088
+    - 400088
+    e_walk_bio02:joint29:
+    - 100090
+    - 400090
+    e_walk_bio02:joint20:
+    - 100092
+    - 400092
+    e_walk_bio02:cube1 1:
+    - 100094
+    - 400094
+    e_walk_bio02:cube5:
+    - 100096
+    - 400096
+    e_walk_bio02:joint12:
+    - 100098
+    - 400098
+    e_walk_bio02:joint13:
+    - 100100
+    - 400100
+    e_walk_bio02:joint14:
+    - 100102
+    - 400102
+    e_walk_bio02:joint22:
+    - 100104
+    - 400104
+    e_walk_bio02:joint10:
+    - 100106
+    - 400106
+    e_walk_bio02:joint7:
+    - 100108
+    - 400108
+    e_walk_bio02:polySurface43:
+    - 100110
+    - 400110
+    - 3300000
+    - 2300000
+    - 13500000
+    e_walk_bio02:joint11:
+    - 100112
+    - 400112
+    e_walk_bio02:cube1:
+    - 100114
+    - 400114
+    e_walk_bio02:joint18:
+    - 100116
+    - 400116
+    e_walk_bio02:polySurface40:
+    - 100118
+    - 400118
+    - 3300002
+    - 2300002
+    - 13500002
+    e_walk_bio02:polySurface46:
+    - 100120
+    - 400120
+    //RootNode:
+    - 100122
+    - 400122
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: e_walk_bio02:polySurface43
+    4300002: e_walk_bio02:polySurface40
+    4300004: e_walk_bio02:polySurface46
+    7400000: Take 001 //// E_walk_bio_01
+    7400002: idle //// E_walk_bio_01
+    7400004: idle0 //// E_walk_bio_01
+    7400006: idle01 //// E_walk_bio_01
+    7400008: spawn //// E_walk_bio_01
+    7400010: walking //// E_walk_bio_01
+    7400012: attacking //// E_walk_bio_01
+    7400014: die //// E_walk_bio_01
+    7400016: attaking //// E_walk_bio_01
+    7400018: spawn //// walk_bio_01
+    7400020: walking //// walk_bio_01
+    7400022: attacking //// walk_bio_01
+    7400024: die //// walk_bio_01
+    7400026: spawn //// e_walk_bio02:cube5
+    7400028: walking //// e_walk_bio02:cube5
+    7400030: attacking //// e_walk_bio02:cube5
+    7400032: die //// e_walk_bio02:cube5
+    7400034: spawn //// e_walk_bio02:cube9
+    7400036: walking //// e_walk_bio02:cube9
+    7400038: attacking //// e_walk_bio02:cube9
+    7400040: die //// e_walk_bio02:cube9
+    7400042: spawn //// e_walk_bio02:cube6
+    7400044: walking //// e_walk_bio02:cube6
+    7400046: attacking //// e_walk_bio02:cube6
+    7400048: die //// e_walk_bio02:cube6
+    7400050: spawn //// e_walk_bio02:cube10
+    7400052: walking //// e_walk_bio02:cube10
+    7400054: attacking //// e_walk_bio02:cube10
+    7400056: die //// e_walk_bio02:cube10
+    7400058: spawn //// e_walk_bio02:cube4 1
+    7400060: walking //// e_walk_bio02:cube4 1
+    7400062: attacking //// e_walk_bio02:cube4 1
+    7400064: die //// e_walk_bio02:cube4 1
+    7400066: spawn //// e_walk_bio02:nurbsCircle1 1
+    7400068: walking //// e_walk_bio02:nurbsCircle1 1
+    7400070: attacking //// e_walk_bio02:nurbsCircle1 1
+    7400072: die //// e_walk_bio02:nurbsCircle1 1
+    7400074: spawn //// e_walk_bio02:cube3
+    7400076: walking //// e_walk_bio02:cube3
+    7400078: attacking //// e_walk_bio02:cube3
+    7400080: die //// e_walk_bio02:cube3
+    7400082: spawn //// e_walk_bio02:cube8
+    7400084: walking //// e_walk_bio02:cube8
+    7400086: attacking //// e_walk_bio02:cube8
+    7400088: die //// e_walk_bio02:cube8
+    7400090: spawn //// e_walk_bio02:cube7
+    7400092: walking //// e_walk_bio02:cube7
+    7400094: attacking //// e_walk_bio02:cube7
+    7400096: die //// e_walk_bio02:cube7
+    7400098: spawn //// e_walk_bio02:cube11
+    7400100: walking //// e_walk_bio02:cube11
+    7400102: attacking //// e_walk_bio02:cube11
+    7400104: die //// e_walk_bio02:cube11
+    7400106: spawn //// e_walk_bio02:cube4
+    7400108: walking //// e_walk_bio02:cube4
+    7400110: attacking //// e_walk_bio02:cube4
+    7400112: die //// e_walk_bio02:cube4
+    7400114: spawn //// e_walk_bio02:nurbsCircle1
+    7400116: walking //// e_walk_bio02:nurbsCircle1
+    7400118: attacking //// e_walk_bio02:nurbsCircle1
+    7400120: die //// e_walk_bio02:nurbsCircle1
+    7400122: spawn //// e_walk_bio02:joint1
+    7400124: walking //// e_walk_bio02:joint1
+    7400126: attacking //// e_walk_bio02:joint1
+    7400128: die //// e_walk_bio02:joint1
+    7400130: spawn //// e_walk_bio02:joint2
+    7400132: walking //// e_walk_bio02:joint2
+    7400134: attacking //// e_walk_bio02:joint2
+    7400136: die //// e_walk_bio02:joint2
+    7400138: spawn //// e_walk_bio02:joint4
+    7400140: walking //// e_walk_bio02:joint4
+    7400142: attacking //// e_walk_bio02:joint4
+    7400144: die //// e_walk_bio02:joint4
+    7400146: spawn //// e_walk_bio02:joint5
+    7400148: walking //// e_walk_bio02:joint5
+    7400150: attacking //// e_walk_bio02:joint5
+    7400152: die //// e_walk_bio02:joint5
+    7400154: spawn //// e_walk_bio02:joint16
+    7400156: walking //// e_walk_bio02:joint16
+    7400158: attacking //// e_walk_bio02:joint16
+    7400160: die //// e_walk_bio02:joint16
+    7400162: spawn //// e_walk_bio02:joint17
+    7400164: walking //// e_walk_bio02:joint17
+    7400166: attacking //// e_walk_bio02:joint17
+    7400168: die //// e_walk_bio02:joint17
+    7400170: spawn //// e_walk_bio02:joint13
+    7400172: walking //// e_walk_bio02:joint13
+    7400174: attacking //// e_walk_bio02:joint13
+    7400176: die //// e_walk_bio02:joint13
+    7400178: spawn //// e_walk_bio02:joint14
+    7400180: walking //// e_walk_bio02:joint14
+    7400182: attacking //// e_walk_bio02:joint14
+    7400184: die //// e_walk_bio02:joint14
+    7400186: spawn //// e_walk_bio02:cube1 1
+    7400188: walking //// e_walk_bio02:cube1 1
+    7400190: attacking //// e_walk_bio02:cube1 1
+    7400192: die //// e_walk_bio02:cube1 1
+    7400194: spawn //// e_walk_bio02:joint25
+    7400196: walking //// e_walk_bio02:joint25
+    7400198: attacking //// e_walk_bio02:joint25
+    7400200: die //// e_walk_bio02:joint25
+    7400202: spawn //// e_walk_bio02:joint26
+    7400204: walking //// e_walk_bio02:joint26
+    7400206: attacking //// e_walk_bio02:joint26
+    7400208: die //// e_walk_bio02:joint26
+    7400210: spawn //// e_walk_bio02:joint27
+    7400212: walking //// e_walk_bio02:joint27
+    7400214: attacking //// e_walk_bio02:joint27
+    7400216: die //// e_walk_bio02:joint27
+    7400218: spawn //// e_walk_bio02:joint28
+    7400220: walking //// e_walk_bio02:joint28
+    7400222: attacking //// e_walk_bio02:joint28
+    7400224: die //// e_walk_bio02:joint28
+    7400226: spawn //// e_walk_bio02:cube1
+    7400228: walking //// e_walk_bio02:cube1
+    7400230: attacking //// e_walk_bio02:cube1
+    7400232: die //// e_walk_bio02:cube1
+    7400234: spawn //// e_walk_bio02:joint18
+    7400236: walking //// e_walk_bio02:joint18
+    7400238: attacking //// e_walk_bio02:joint18
+    7400240: die //// e_walk_bio02:joint18
+    7400242: spawn //// e_walk_bio02:joint7
+    7400244: walking //// e_walk_bio02:joint7
+    7400246: attacking //// e_walk_bio02:joint7
+    7400248: die //// e_walk_bio02:joint7
+    7400250: spawn //// e_walk_bio02:joint8
+    7400252: walking //// e_walk_bio02:joint8
+    7400254: attacking //// e_walk_bio02:joint8
+    7400256: die //// e_walk_bio02:joint8
+    7400258: spawn //// e_walk_bio02:joint9
+    7400260: walking //// e_walk_bio02:joint9
+    7400262: attacking //// e_walk_bio02:joint9
+    7400264: die //// e_walk_bio02:joint9
+    7400266: spawn //// e_walk_bio02:joint10
+    7400268: walking //// e_walk_bio02:joint10
+    7400270: attacking //// e_walk_bio02:joint10
+    7400272: die //// e_walk_bio02:joint10
+    7400274: spawn //// e_walk_bio02:joint11
+    7400276: walking //// e_walk_bio02:joint11
+    7400278: attacking //// e_walk_bio02:joint11
+    7400280: die //// e_walk_bio02:joint11
+    7400282: spawn //// e_walk_bio02:joint19
+    7400284: walking //// e_walk_bio02:joint19
+    7400286: attacking //// e_walk_bio02:joint19
+    7400288: die //// e_walk_bio02:joint19
+    7400290: spawn //// e_walk_bio02:joint20
+    7400292: walking //// e_walk_bio02:joint20
+    7400294: attacking //// e_walk_bio02:joint20
+    7400296: die //// e_walk_bio02:joint20
+    7400298: spawn //// e_walk_bio02:joint21
+    7400300: walking //// e_walk_bio02:joint21
+    7400302: attacking //// e_walk_bio02:joint21
+    7400304: die //// e_walk_bio02:joint21
+    7400306: spawn //// e_walk_bio02:joint22
+    7400308: walking //// e_walk_bio02:joint22
+    7400310: attacking //// e_walk_bio02:joint22
+    7400312: die //// e_walk_bio02:joint22
+    7400314: spawn //// e_walk_bio02:joint23
+    7400316: walking //// e_walk_bio02:joint23
+    7400318: attacking //// e_walk_bio02:joint23
+    7400320: die //// e_walk_bio02:joint23
+    7400322: move //// E_walk_bio_01
+    7400324: attack //// E_walk_bio_01
