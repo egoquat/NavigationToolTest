@@ -13,3 +13,5 @@ Parse mesh fbx based to navi mesh for unit movements on shortest path.
 Unity update 2019, was completely done 2012.
 
 Not using Unity Navmesh.
+
+Scene file (NavigationToolTest/Assets/ToolNaviMesh.unity)
