@@ -186,7 +186,7 @@ Transform:
   m_LocalScale: {x: 1.2912439, y: 1.2912439, z: 1.2912439}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &14
 Transform:
@@ -200,7 +200,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &16
 Transform:
@@ -214,7 +214,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!20 &17
 Camera:
@@ -460,6 +460,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 76.28842
       objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: f3b378796db5caf47953de6b7b8fc4df, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: f3b378796db5caf47953de6b7b8fc4df, type: 3}
       propertyPath: StartNaviMesh
       value: 5
@@ -504,6 +508,10 @@ PrefabInstance:
     - target: {fileID: 400000, guid: d6057225f344eeb44a95593a7d4b154d, type: 3}
       propertyPath: m_LocalPosition.z
       value: -37.74939
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: d6057225f344eeb44a95593a7d4b154d, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: d6057225f344eeb44a95593a7d4b154d, type: 3}
       propertyPath: _navimeshResource
