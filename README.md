@@ -1,16 +1,20 @@
 # NavigationToolTest
 
+A* Pathfinder and basic unit movements.
+
+Tool for save mapping navi.
+
 Purpose to private test, for fun and study.
 
-Tool navi for mapping to unit movements shortest path A*. 
+Tool navi for mapping to unit movements. 
 
-Tool airpath for mapping to air curve path.
+Tool airpath for mapping to air unit movements.
 
-Tool mapping data export and import to use json format.
+Tool mapping data export and import to json.
 
-Parse mesh fbx based to navi mesh for unit movements on shortest path.
+Parse mesh fbx to navi mesh.
 
-Unity update 2019, was completely done 2012.
+Was completely done 2012 but updated 2019 unity refresh version up.
 
 Not using Unity Navmesh.
 
