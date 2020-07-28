@@ -10,7 +10,7 @@ Tool navi for mapping to unit movements.
 
 Tool airpath for mapping to air unit movements.
 
-Tool mapping data export and import to json.
+Tool mapping data export and import to csv (txt).
 
 Parse mesh fbx to navi mesh.
 
