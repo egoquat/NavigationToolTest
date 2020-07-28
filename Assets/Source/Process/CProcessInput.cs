@@ -106,10 +106,9 @@ public class CProcessInput : MonoBehaviour
     //@param : internal
     static readonly E_INPUT_MODE DFLT_INPUT_MODE = E_INPUT_MODE.E_INPUT_MODE_NAVIGATION;
     static readonly Vector2 DFLT_V2ROT_CAM = new Vector2(0.0f, 0.0f);
-    static readonly float DFLT_SPDROTATE_CAM = 200.0f;
-    static readonly float DFLT_SPDMOVE_CAM = 30.0f;
+    static readonly float DFLT_SPDROTATE_CAM = 600.0f;
+    static readonly float DFLT_SPDMOVE_CAM = 20.0f;
     static readonly float DFLT_SPDMOVEWHEEL_CAM = 1000.0f;
-    static readonly float DFLT_SPDMOVEACCEL_CAM = 2.5f;
 
     static readonly bool DFLT_DO_ACCERLMOVE_CAM = false;
     static readonly bool DFLT_READYTOASSIGN_OBJ = false;
@@ -141,7 +140,7 @@ public class CProcessInput : MonoBehaviour
     readonly float _fSpdRot_CAM = DFLT_SPDROTATE_CAM;
     readonly float _fSpdMove_CAM = DFLT_SPDMOVE_CAM;
     readonly float _fSpdMoveWheel_CAM = DFLT_SPDMOVEWHEEL_CAM;
-    readonly float _fSpdMoveAccel_CAM = DFLT_SPDMOVEACCEL_CAM;
+    readonly float _fSpdMoveAccel_CAM = 2.0f;
     bool _bAccelMove_CAM = DFLT_DO_ACCERLMOVE_CAM;
     bool _bOnGUI = DFLT_ONGUI;
     bool _bReadyToAssign_OBJ = DFLT_READYTOASSIGN_OBJ;
