@@ -2,6 +2,7 @@ using UnityEngine;
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 //@ Container collect and construct triangles for navigation.
 public class CTriCollector
@@ -526,6 +527,34 @@ public class CTriCollector
 	    }
 
 	    return bResult;
+    }
+
+    //@ Intersect ray to tries iteration.
+    public CBASE__ GetIntersectedRay(Vector3 lineOrigin, Vector3 lineDir)
+    {
+        if (true == m_listTris.IsNullOrEmpty())
+        {
+            return null;
+        }
+
+        List<CTRI> triesForIteration = m_listTris.Where(t => { return null != t.GetBaseLinked; }).ToListOrDefault();
+        if (true == triesForIteration.IsNullOrEmpty())
+        {
+            return null;
+        }
+        
+        CTRI intersectedTri = triesForIteration.FirstOrDefault(t=> 
+        {
+            return CMATH.IntersectRayTriSimple(lineOrigin, lineDir, t._arrv3PT[0], t._arrv3PT[1], t._arrv3PT[2]); 
+        });
+
+        if (null == intersectedTri)
+        {
+            return null;
+        }
+
+        CBASE__ intersectedBase = intersectedTri.GetBaseLinked;
+        return intersectedBase;
     }
 
 } // public class CTriCollector

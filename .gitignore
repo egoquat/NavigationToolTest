@@ -4,6 +4,6 @@ Assembly-CSharp.csproj
 Library/
 Logs/Packages-Update.log
 NavigationToolTest.sln
-obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
-Packages/manifest.json
+obj/Debug/
+Packages/
 Temp/

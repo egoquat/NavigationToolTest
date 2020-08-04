@@ -440,7 +440,7 @@ public class CNavigation {
             {
                 if (CNAVICELL.NULL_CELL != iIterCell)
                 {
-                    bIntersectedCell = m_arrNavicells[iIterCell].trilinkcell.IntersectRay(v3RayOrigin, v3RayDir, ref posIntersected_out);
+                    bIntersectedCell = m_arrNavicells[iIterCell].trilinkcell.IntersectRayTri(v3RayOrigin, v3RayDir, ref posIntersected_out);
                     if (true == bIntersectedCell)
                     {
                         iIdxIntersectedCell = iIterCell;

@@ -29,9 +29,12 @@ public class CTRI
     public float[] _arrEdgeLength = new float[3];                           // 각 삼각형 변의 길이
     public E_TRI_EDGE _triedge_Hypotenuse = E_TRI_EDGE.E_TRI_EDGE_NULL;     // 이등변-직각삼각형의 빗변
     public bool bIsoscelesRightAngleTriangle = false;
-    //public int 
+    private CBASE__ _baseLinked = null;
 
     //@ Set / Get
+    public CBASE__ GetBaseLinked { get { return _baseLinked; } }
+    public void SetBaseLinked(CBASE__ baseLinked) { _baseLinked = baseLinked; }
+
     public void Set(CTRI triSrc)
     {
         _v3TriNormal = triSrc._v3TriNormal;
@@ -96,7 +99,7 @@ public class CTRI
         } // switch (eTriEdge)
     } // public void GetEdgePoint(E_TRI_EDGE eTriEdge, ref Vector3 v3Pnt0, ref Vector3 v3Pnt1)
 
-    public bool IntersectRay(Vector3 posOriginRay, Vector3 posdirRay, ref Vector3 posIntersected)
+    public bool IntersectRayTri(Vector3 posOriginRay, Vector3 posdirRay, ref Vector3 posIntersected)
     {
         return CMATH.IntersectRayTri_GetPos(posOriginRay, posdirRay, _arrv3PT, ref posIntersected);
     }

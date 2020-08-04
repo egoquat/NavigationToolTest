@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class CMATH
 {
@@ -349,8 +350,7 @@ public class CMATH
     }
 
     //@ Triangle
-    // 교차 검사 (외부/교차/포함) 교차지점 무
-    public static bool IntersectRayTri(Vector3 v3RayOrigin, Vector3 v3RayDir, Vector3 v3T_0, Vector3 v3T_1, Vector3 v3T_2)
+    public static bool IntersectRayTriSimple(Vector3 v3RayOrigin, Vector3 v3RayDir, Vector3 v3T_0, Vector3 v3T_1, Vector3 v3T_2)
     {
         if (Mathf.Abs(1.0f - v3RayDir.magnitude) < FEPSILON_F5)
         {

@@ -41,16 +41,7 @@ public class CBASE__
     } // public static bool IsSimilar(CBASE__ baseRight)
 
 
-    //@ Get/Set
-    public int getIdxBase()
-    {
-        return _IdxBase;
-    }
-
-    public void setIdxBase(int iIdxBase)
-    {
-        _IdxBase = iIdxBase;
-    }
+    //@ Get/Set   
 
     public int getIdxType()
     {
@@ -172,8 +163,9 @@ public class CBASE__
             _listIdxTris.Sort();
         } // if(_listv3Pnts.Count<1)
 
-        return true;
+        tri_in.SetBaseLinked(this);
 
+        return true;
     } // public void InsertNewTri(int iSeqTri, CTRI tri_in)
 
     //@ Construct Base__
