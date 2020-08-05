@@ -75,6 +75,7 @@ MonoBehaviour:
   - Stage18_00
   - Stage19_00
   - Stage20_00
+  - Stage21_00
   arrayStageMesh:
   - {fileID: 11400000, guid: 1a0014d0942b70a4a84bb23ab78acf38, type: 3}
   - {fileID: 11400002, guid: 0b85208822b3fc741981d04fb1f58358, type: 3}
@@ -107,4 +108,5 @@ MonoBehaviour:
   - {fileID: 11400002, guid: 16601e333041b834f9b922a2ea688fb4, type: 3}
   - {fileID: 11400002, guid: 54fd96736e303f64687ed026d894cb81, type: 3}
   - {fileID: 11400002, guid: e4ece468152b3914ea88f7af3e4bf240, type: 3}
-  StartNaviMesh: 0
+  - {fileID: 11400000, guid: 0b273ba1f1a625a40ac88cdcd3dda370, type: 3}
+  StartNaviMesh: 5
