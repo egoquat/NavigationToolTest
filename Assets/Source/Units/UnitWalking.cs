@@ -753,9 +753,9 @@ public class UnitWalking : UnitBase
         BoxCollider boxcollider = gameObject.GetComponent<BoxCollider>();
         if (boxcollider)
         {
-            m_v3Extents.x = boxcollider.extents.x * transform.localScale.x;
-            m_v3Extents.y = boxcollider.extents.y * transform.localScale.y;
-            m_v3Extents.z = boxcollider.extents.z * transform.localScale.z;
+            m_v3Extents.x = boxcollider.size.x * transform.localScale.x;
+            m_v3Extents.y = boxcollider.size.y * transform.localScale.y;
+            m_v3Extents.z = boxcollider.size.z * transform.localScale.z;
 
             m_v2Extents.x = m_v3Extents.x;
             m_v2Extents.y = m_v3Extents.z;

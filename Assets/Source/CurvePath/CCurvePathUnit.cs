@@ -34,7 +34,7 @@ public class CCurvePathUnit : MonoBehaviour
     public void setVisibleCurvePath(bool bVisibleCurvePath)
     {
         m_rendererCurvePath.enabled = bVisibleCurvePath;
-        gameObject.SetActiveRecursively(bVisibleCurvePath);
+        gameObject.SetActive(bVisibleCurvePath);
 
         if (false == bVisibleCurvePath)
         {

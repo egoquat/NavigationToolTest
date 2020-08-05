@@ -7,3 +7,4 @@ NavigationToolTest.sln
 obj/Debug/
 Packages/
 Temp/
+*.csproj

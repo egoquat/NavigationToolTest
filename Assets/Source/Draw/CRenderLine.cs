@@ -14,10 +14,12 @@ public class CRenderLineDebug : MonoBehaviour
         LineRenderer lineRenderer = gameObject.AddComponent<LineRenderer>();
         lineRenderer.material = new Material(Shader.Find("Particles/Additive"));
 
-        lineRenderer.SetColors(c1, c2);
-        lineRenderer.SetWidth(fThicknessOfLine, fThicknessOfLine);
+        lineRenderer.startColor = c1;
+        lineRenderer.endColor = c2;
+        lineRenderer.startWidth = fThicknessOfLine;
+        lineRenderer.endWidth = fThicknessOfLine;
 
-        lineRenderer.SetVertexCount(arrv3PT.Length);
+        lineRenderer.positionCount = arrv3PT.Length;
         for (int iPnt = 0; iPnt < arrv3PT.Length; ++iPnt)
         {
             Vector3 v3Curr = arrv3PT[iPnt];
