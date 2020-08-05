@@ -252,14 +252,14 @@ public class CTriCollector
     }
 
     //@ Function has little risk about triangle match. 
-    protected bool constructAllTris_IVrecompute(int[] arrIV_in,
-                                                Vector3[] arrv3VB_in,
+    protected bool constructAllTris_IVrecompute(int[] arrTri_in,
+                                                Vector3[] arrVertex_in,
                                                 ref List<CTRI> listTris_out)
     {
         Vector3[] arrv3TriVer = new Vector3[CTRI.CNTPNTTRI];
         int[] ariTriIdx = new int[CTRI.CNTPNTTRI];
-        int iCntVB = arrv3VB_in.Length;
-        int iCntIV = arrIV_in.Length;
+        int iCntVB = arrVertex_in.Length;
+        int iCntIV = arrTri_in.Length;
 
         //CHECKOVERLAPPED
         int iCntSameVer__ = 0;
@@ -276,16 +276,16 @@ public class CTriCollector
 
         for (int iterIV = 0; iterIV < iCntIV; ++iterIV)
         {
-            arrIBConvert[iterIV] = arrIV_in[iterIV];
+            arrIBConvert[iterIV] = arrTri_in[iterIV];
         }
 
         for (int iterIV = 0; iterIV < iCntVB; ++iterIV)
         {
-            Vector3 v3VBCurr = arrv3VB_in[iterIV];
+            Vector3 v3VBCurr = arrVertex_in[iterIV];
             iIVCurr = iterIV; bfindEQ = false;
             for (int iIVin = 0; iIVin < iIVCurr; ++iIVin)
             {
-                Vector3 v3VBCurr_ = arrv3VB_in[iIVin];
+                Vector3 v3VBCurr_ = arrVertex_in[iIVin];
 
                 //bfindEQ = CMATH.similarVector3_FIn(v3VBCurr, v3VBCurr_, 0.4f);
                 bfindEQ = (v3VBCurr == v3VBCurr_); 
@@ -304,7 +304,7 @@ public class CTriCollector
             {
                 for (int iSeqIV = 0; iSeqIV < iCntIV; ++iSeqIV)
                 {
-                    int iIBCurr = (int)arrIV_in[iSeqIV];
+                    int iIBCurr = (int)arrTri_in[iSeqIV];
                     if (iIBCurr == iterIV)
                     {
                         arrIBConvert[iSeqIV] = iIVConvert;
@@ -312,12 +312,12 @@ public class CTriCollector
                 }
             }
 
-        } // for(int iterIV=0; iterIV<arrv3VB_in.size(); ++iterIV)
+        } // for(int iterIV=0; iterIV<arrVertex_in.size(); ++iterIV)
 
         //@ Overlap vertex 
         if (0 < iCntSameVer__)
         {
-            Debug.Log("Notice! (overlapped:" + iCntSameVer__ + " vertices.) Count of exactly same position vertices//constructAllTris_IVrecompute()//arrIV_in.Length=" + arrIV_in.Length);
+            Debug.Log("Notice! (overlapped:" + iCntSameVer__ + " vertices.) Count of exactly same position vertices//constructAllTris_IVrecompute()//arrTri_in.Length=" + arrTri_in.Length);
         }
 
         //@Insert only validation succeeded triangle.
@@ -340,7 +340,7 @@ public class CTriCollector
 
             for (int itV = 0; itV < 3; ++itV)
             {
-                v3VerTri = new Vector3(arrv3VB_in[ariTriIdx[itV]].x, arrv3VB_in[ariTriIdx[itV]].y, arrv3VB_in[ariTriIdx[itV]].z);
+                v3VerTri = new Vector3(arrVertex_in[ariTriIdx[itV]].x, arrVertex_in[ariTriIdx[itV]].y, arrVertex_in[ariTriIdx[itV]].z);
 
                 if (v3VerTri.x > v3MaxAABB.x) { v3MaxAABB.x = v3VerTri.x; }
                 if (v3VerTri.y > v3MaxAABB.y) { v3MaxAABB.y = v3VerTri.y; }
@@ -419,15 +419,15 @@ public class CTriCollector
     }	//protected bool CTriContainer::constructAllTris_IVrecompute(
 
     //@ Construct all Triangle refer to Index Buffers, Vertex Buffers.
-    protected bool constructAllTris_IV(   int[] arrIV_in,
-                                        Vector3[] arrv3VB_in,
+    protected bool constructAllTris_IV(   int[] arrTri_in,
+                                        Vector3[] arrVertex_in,
                                         ref List<CTRI> listTris_out )
     {
         Vector3[] arrv3TriVer = new Vector3[CTRI.CNTPNTTRI];
 
         int[] ariTriIdx = new int[CTRI.CNTPNTTRI];
-        int iCntVB = arrv3VB_in.Length;
-        int iCntIV = arrIV_in.Length;
+        int iCntVB = arrVertex_in.Length;
+        int iCntIV = arrTri_in.Length;
         if (iCntIV < 1 || iCntVB < 1)
         {
             Debug.Log("(iCntIV < 1 || iCntVB < 1)");
@@ -444,13 +444,13 @@ public class CTriCollector
 
         for (int iSeqIdx = 0, iTri = 0; iSeqIdx < iCntIV; iSeqIdx += 3, ++iTri)
         {
-            ariTriIdx[0] = arrIV_in[iSeqIdx];
-            ariTriIdx[1] = arrIV_in[iSeqIdx + 1];
-            ariTriIdx[2] = arrIV_in[iSeqIdx + 2];
+            ariTriIdx[0] = arrTri_in[iSeqIdx];
+            ariTriIdx[1] = arrTri_in[iSeqIdx + 1];
+            ariTriIdx[2] = arrTri_in[iSeqIdx + 2];
 
             for (int itV = 0; itV < 3; ++itV)
             {
-                v3VerTri = new Vector3(arrv3VB_in[ariTriIdx[itV]].x, arrv3VB_in[ariTriIdx[itV]].y, arrv3VB_in[ariTriIdx[itV]].z);
+                v3VerTri = new Vector3(arrVertex_in[ariTriIdx[itV]].x, arrVertex_in[ariTriIdx[itV]].y, arrVertex_in[ariTriIdx[itV]].z);
 
                 if (v3VerTri.x > v3MaxAABB.x) { v3MaxAABB.x = v3VerTri.x; }
                 if (v3VerTri.y > v3MaxAABB.y) { v3MaxAABB.y = v3VerTri.y; }
@@ -472,13 +472,13 @@ public class CTriCollector
     } //protected bool constructAllTris_IV(
 	
     //@ Build up all triangles which use navigation.
-    // -arrIV_in:Index Buffer Array
-    // -arrv3VB_in:Vertex Buffer Array
+    // -arrTri_in:Index Buffer Array
+    // -arrVertex_in:Vertex Buffer Array
     // -tmUser_in:Transform
     // -bRecomputeAllIV:Refer to IV directly or indirectly.
     //                   In case of indirectly, all index buffers re-linked based on real position.
-    public bool constructAllTris(	int[]	    arrIV_in,
-							        Vector3[]	arrv3VB_in, 
+    public bool constructAllTris(	int[]	    arrTri_in,
+							        Vector3[]	arrVertex_in, 
                                     Transform   tmUser_in,
                                     bool        bRecomputeAllIV)
     {
@@ -498,31 +498,31 @@ public class CTriCollector
             bNeedtoTransform = true;
         }
 
-        Vector3[] arrv3VB__ = new Vector3[arrv3VB_in.Length];
-        Array.Copy(arrv3VB_in, arrv3VB__, arrv3VB_in.Length);
+        Vector3[] arrVertex__ = new Vector3[arrVertex_in.Length];
+        Array.Copy(arrVertex_in, arrVertex__, arrVertex_in.Length);
 
         Vector3 v3VBCurr;
         if(true == bNeedtoTransform)
         {
-            for (int iVBSeq = 0; iVBSeq < arrv3VB_in.Length; ++iVBSeq)
+            for (int iVBSeq = 0; iVBSeq < arrVertex_in.Length; ++iVBSeq)
             {
-                v3VBCurr = arrv3VB__[iVBSeq];
+                v3VBCurr = arrVertex__[iVBSeq];
                 v3VBCurr = tmUser_in.TransformPoint(v3VBCurr);
 
-                arrv3VB__[iVBSeq] = v3VBCurr;
+                arrVertex__[iVBSeq] = v3VBCurr;
             }
         }
         
         if (true==bRecomputeAllIV)
 	    {
-            bResult = constructAllTris_IVrecompute(arrIV_in,
-                                                    arrv3VB__,
+            bResult = constructAllTris_IVrecompute(arrTri_in,
+                                                    arrVertex__,
 									                ref m_listTris );
 	    }
 	    else
  	    {
-            bResult = constructAllTris_IV(   arrIV_in,
-                                             arrv3VB__,
+            bResult = constructAllTris_IV(   arrTri_in,
+                                             arrVertex__,
                                              ref m_listTris );
 	    }
 

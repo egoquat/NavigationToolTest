@@ -244,7 +244,7 @@ public class CToolModuleNavimesh
 
 
         int iLengthMapping = listTriangle.Count * 3;
-        Vector3[] arrv3VBmapping = new Vector3[iLengthMapping];
+        Vector3[] arrVertexmapping = new Vector3[iLengthMapping];
 
         for (int iSeqTri = 0; iSeqTri < listTriangle.Count; ++iSeqTri)
         {
@@ -253,11 +253,11 @@ public class CToolModuleNavimesh
             {
                 int iSeqPnt = iSeqTri * 3 + iPnt;
                 Vector3 v3PntCurr = triCurr._arrv3PT[iPnt];
-                arrv3VBmapping[iSeqPnt] = v3PntCurr;
+                arrVertexmapping[iSeqPnt] = v3PntCurr;
             }
         }
 
-        m_iSequenceRenderLine_forDebug = m_drawRenderLine_triCollector.DrawNewLine_user(arrv3VBmapping);
+        m_iSequenceRenderLine_forDebug = m_drawRenderLine_triCollector.DrawNewLine_user(arrVertexmapping);
 
     } // public void _drawRenderLine_AllTris_Debug()
 
@@ -292,7 +292,7 @@ public class CToolModuleNavimesh
         }
 
         int iLengthMapping = listTriangle.Count * 3;
-        Vector3[] arrv3VBmapping = new Vector3[iLengthMapping];
+        Vector3[] arrVertexmapping = new Vector3[iLengthMapping];
 
         for (int iSeqTri = 0; iSeqTri < listTriangle.Count; ++iSeqTri)
         {
@@ -302,12 +302,12 @@ public class CToolModuleNavimesh
                 int iSeqPnt = iSeqTri * 3 + iPnt;
                 Vector3 v3PntCurr = triCurr._arrv3PT[iPnt];
 
-                arrv3VBmapping[iSeqPnt] = v3PntCurr;
+                arrVertexmapping[iSeqPnt] = v3PntCurr;
             }
         }
 
         m_iSequenceRenderMesh_forDebug = m_drawRenderMesh_triCollector.DrawNewRendermesh(DFLT_IDX_RENDERNAVIMESH,
-                                                                            arrv3VBmapping,
+                                                                            arrVertexmapping,
                                                                             colorTriangles,
                                                                             CMATH.FEPSILON_F3,
                                                                             -1.0f);
@@ -341,7 +341,7 @@ public class CToolModuleNavimesh
         }
 
         int iLengthMapping = listTrisIdx.Count * 3;
-        Vector3[] arrv3VBmapping = new Vector3[iLengthMapping];
+        Vector3[] arrVertexmapping = new Vector3[iLengthMapping];
 
         for (int iSeqTri = 0; iSeqTri < listTrisIdx.Count; ++iSeqTri)
         {
@@ -353,12 +353,12 @@ public class CToolModuleNavimesh
                 int iSeqPnt = iSeqTri * 3 + iPnt;
                 Vector3 v3PntCurr = triCurr._arrv3PT[iPnt];
 
-                arrv3VBmapping[iSeqPnt] = v3PntCurr;
+                arrVertexmapping[iSeqPnt] = v3PntCurr;
             }
         } // for (int iSeqTri = 0; iSeqTri < listTrisIdx.Count; ++iSeqTri )
 
         m_iSequenceRenderMesh_forDebug = m_drawRenderMesh_triCollector.DrawNewRendermesh(DFLT_IDX_RENDERNAVI_TRIS_IR,
-                                                                                        arrv3VBmapping,
+                                                                                        arrVertexmapping,
                                                                                         colorTris,
                                                                                         0.001f,
                                                                                         -1.0f);

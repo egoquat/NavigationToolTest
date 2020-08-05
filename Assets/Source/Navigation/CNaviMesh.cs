@@ -9,9 +9,9 @@ public class CNaviMesh : MonoBehaviour
     #region geometry_navigationmesh
     private Mesh m_meshGeometry;
     [System.NonSerialized]
-    public Vector3[] m_arrv3VB;
+    public Vector3[] m_arrVertex;
     [System.NonSerialized]
-    public int[] m_arrIV;
+    public int[] m_arrTri;
     #endregion // geometry_navigationmesh
 
     protected CTriCollector _triCollector;
@@ -65,14 +65,14 @@ public class CNaviMesh : MonoBehaviour
 
         m_meshGeometry = GetComponent<MeshFilter>().mesh;
 
-        m_arrv3VB = m_meshGeometry.vertices;
-        m_arrIV = m_meshGeometry.triangles;
+        m_arrVertex = m_meshGeometry.vertices;
+        m_arrTri = m_meshGeometry.triangles;
     }
 
     public void ConstructAllTriangles(bool bRecomputeAllIV)
     {
-        _triCollector.constructAllTris(m_arrIV,
-                                        m_arrv3VB,
+        _triCollector.constructAllTris(m_arrTri,
+                                        m_arrVertex,
                                         transform,
                                         bRecomputeAllIV);
     }

@@ -12,7 +12,7 @@ public class CRenderMeshDebug : MonoBehaviour
     public Color m_colorUser;
 
     public void DrawMesh_user(int iIDX_,
-                                Vector3[] arrv3VB_in,
+                                Vector3[] arrVertex_in,
                                 int[] arriIB,
                                 Color colorUser_,
                                 float fScale_,
@@ -20,25 +20,25 @@ public class CRenderMeshDebug : MonoBehaviour
     {
         m_iIDX = iIDX_;
 
-        int iCntVertices = arrv3VB_in.Length;
-        Vector3[] arrv3VB_to = new Vector3[arrv3VB_in.Length];
+        int iCntVertices = arrVertex_in.Length;
+        Vector3[] arrVertex_to = new Vector3[arrVertex_in.Length];
 
         if (fEpsilonForZFight > CMATH.FEPSILON_F4)
         {
             for (int iVB = 0; iVB < iCntVertices; ++iVB)
             {
-                Vector3 v3Src_ = arrv3VB_in[iVB];
-                arrv3VB_to[iVB] = new Vector3(v3Src_.x, v3Src_.y + fEpsilonForZFight, v3Src_.z);
+                Vector3 v3Src_ = arrVertex_in[iVB];
+                arrVertex_to[iVB] = new Vector3(v3Src_.x, v3Src_.y + fEpsilonForZFight, v3Src_.z);
             }
         }
         else
         {
-            Array.Copy(arrv3VB_in, arrv3VB_to, arrv3VB_in.Length);
+            Array.Copy(arrVertex_in, arrVertex_to, arrVertex_in.Length);
         }
 
         if (fScale_ > 0)
         {
-            CMATH.rescaleVertices(ref arrv3VB_to, fScale_);
+            CMATH.rescaleVertices(ref arrVertex_to, fScale_);
         }
 
         Mesh meshUser = gameObject.AddComponent<MeshFilter>().mesh;
@@ -47,10 +47,10 @@ public class CRenderMeshDebug : MonoBehaviour
 
         for (int iVB = 0; iVB < iCntVertices; ++iVB)
         {
-            arrv2UV[iVB] = new Vector2(arrv3VB_to[iVB].x, arrv3VB_to[iVB].z);
+            arrv2UV[iVB] = new Vector2(arrVertex_to[iVB].x, arrVertex_to[iVB].z);
         }
 
-        meshUser.vertices = arrv3VB_to;
+        meshUser.vertices = arrVertex_to;
         meshUser.triangles = arriIB;
         meshUser.uv = arrv2UV;
         meshUser.RecalculateNormals(); // Option

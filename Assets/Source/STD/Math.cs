@@ -316,26 +316,26 @@ public class CMATH
     } // public static bool lineCross2DPos
 
     //@ Simple Adjust Size // 함수 재검증 필요, 소소한 결과 차이.
-    public static void rescaleVertices(ref Vector3[] arrv3VB_, float fScaleAdj)
+    public static void rescaleVertices(ref Vector3[] arrVertex_, float fScaleAdj)
     {
         Vector3 v3Summary = new Vector3(0.0f, 0.0f ,0.0f);
-        foreach (Vector3 v3VBPnt in arrv3VB_)
+        foreach (Vector3 v3VBPnt in arrVertex_)
         {
             v3Summary += v3VBPnt;
         }
 
-        Vector3 v3Centerof = v3Summary / arrv3VB_.Length;
+        Vector3 v3Centerof = v3Summary / arrVertex_.Length;
 
-        rescaleVertices(ref arrv3VB_, v3Centerof, fScaleAdj);
+        rescaleVertices(ref arrVertex_, v3Centerof, fScaleAdj);
     }
 
     //@ Simple Adjust Size
-    public static void rescaleVertices(ref Vector3[] arrv3VB_, Vector3 v3Center, float fScaleAdj)
+    public static void rescaleVertices(ref Vector3[] arrVertex_, Vector3 v3Center, float fScaleAdj)
     {
         int iSeq = 0;
-        foreach (Vector3 v3VBPNT in arrv3VB_)
+        foreach (Vector3 v3VBPNT in arrVertex_)
         {
-            arrv3VB_[iSeq++] = ((v3VBPNT - v3Center) * fScaleAdj) + v3Center;
+            arrVertex_[iSeq++] = ((v3VBPNT - v3Center) * fScaleAdj) + v3Center;
         }
     } 
 
