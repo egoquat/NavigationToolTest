@@ -26,4 +26,18 @@ public static class CommonContainer
             return null;
         return container.ToArray();
     }
+
+    public static bool IsRanged<T>(this IEnumerable<T> container, int idx)
+    {
+        if (true == container.IsNullOrEmpty())
+            return false;
+        return idx >= 0 && idx <= container.Count() - 1;
+    }
+
+    public static T GetSafe<T>(this IEnumerable<T> container, int idx)
+    {
+        if (true == container.IsNullOrEmpty() || false == container.IsRanged(idx))
+            return default(T);
+        return container.ElementAt(idx);
+    }
 }

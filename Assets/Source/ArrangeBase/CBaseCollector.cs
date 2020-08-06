@@ -402,10 +402,10 @@ public class CBaseCollector
     //@ Construct New Base__
     protected int setNewBase_fromListTris(List<int> listTriIdx_Instant)
     {
-        if (m_listTrisAll_copy.Count < 1 || listTriIdx_Instant.Count < 1)
+        if (true == m_listTrisAll_copy.IsNullOrEmpty() 
+            || true == listTriIdx_Instant.IsNullOrEmpty())
         {
-            Debug.Log(" (m_listTrisAll_copy.Count < 1)=" + (m_listTrisAll_copy.Count < 1) + ") || (listTriIdx_Instant.Count)=" + (listTriIdx_Instant.Count) + "");
-
+            Debug.LogError("(true == m_listTrisAll_copy.IsNullOrEmpty() || true == listTriIdx_Instant.IsNullOrEmpty())");
             return -1;
         }
 
@@ -415,7 +415,12 @@ public class CBaseCollector
         for (int iTri_ = 0; iTri_ < listTriIdx_Instant.Count; ++iTri_)
         {
             int iSeqTri_ = listTriIdx_Instant[iTri_];
-            CTRI triPicked = m_listTrisAll_copy[iSeqTri_];
+            CTRI triPicked = m_listTrisAll_copy.GetSafe(iSeqTri_);
+            if (null == triPicked)
+            {
+                Debug.LogError("(null == triPicked)/setNewBase_fromListTris");
+                continue;
+            }    
             baseNew.InsertNewTri(iSeqTri_, triPicked, false);
         }
 
