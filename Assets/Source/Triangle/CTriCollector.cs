@@ -129,24 +129,11 @@ public class CTriCollector
                + m_listTris_naviStart.Count);
     }
 
-    public bool searchtriByLinear(int iIdxTri, List<int> listTrinavicells)
+    public bool isExistTri(int iIdxTri, List<int> listTrinavicells)
     {
-        int iFindAt = -1;
-        for (int iterTri = 0; iterTri < listTrinavicells.Count; ++iterTri)
-        {
-            int iCurrentTri = listTrinavicells[iterTri];
-            if (iIdxTri == iCurrentTri)
-            {
-                iFindAt = iterTri;
-            }
-        }
-
-        if (-1 != iFindAt)
-        {
-            return true;
-        }
-
-        return false;
+        bool isExist = false == listTrinavicells.IsNullOrEmpty()
+            && listTrinavicells.Exists(t => { return t == iIdxTri; });
+        return isExist;
     }
 
     public bool deletetriByLinear(int iIdxTri, ref List<int> listTrinavicells)

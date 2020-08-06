@@ -821,7 +821,7 @@ public class CProcessInput : MonoBehaviour
                 if (true == bIntersected)
                 {
                     bool bExistedAlreadyOther = (-1 < m_triCollector.m_listTris_naviGoal.BinarySearch(iIdxTri));
-                    bExistedAlreadyOther |= m_triCollector.searchtriByLinear(iIdxTri, m_triCollector.m_listTris_naviStart);
+                    bExistedAlreadyOther |= m_triCollector.isExistTri(iIdxTri, m_triCollector.m_listTris_naviStart);
 
                     if (false == bExistedAlreadyOther)
                     {
@@ -900,25 +900,31 @@ public class CProcessInput : MonoBehaviour
 
                 if (true == bIntersected)
                 {
-                    bool bExistedAlreadyOthers = m_triCollector.m_listTris_naviBlock.Remove(iIdxTri);
-                    bExistedAlreadyOthers |= m_triCollector.m_listTris_naviBlockRoad.Remove(iIdxTri);
-                    bExistedAlreadyOthers |= m_triCollector.m_listTris_naviGoal.Remove(iIdxTri);
+                    //@DELETE
+                    //bool isContainsAny = m_triCollector.m_listTris_naviBlock.Remove(iIdxTri);
+                    //isContainsAny |= m_triCollector.m_listTris_naviBlockRoad.Remove(iIdxTri);
+                    //isContainsAny |= m_triCollector.m_listTris_naviGoal.Remove(iIdxTri);
 
-                    if (false == bExistedAlreadyOthers)
+                    bool isContainsAny = m_triCollector.m_listTris_naviBlock.Remove(iIdxTri);
+                    //isContainsAny |= m_triCollector.m_listTris_naviBlockRoad.Remove(iIdxTri);
+                    //isContainsAny |= m_triCollector.m_listTris_naviGoal.Remove(iIdxTri);
+
+                    if (false == isContainsAny)
                     {
-                        bool bExistedAlready = m_triCollector.searchtriByLinear(iIdxTri, m_triCollector.m_listTris_naviStart);
+                        bool bExistedAlready = m_triCollector.isExistTri(iIdxTri, m_triCollector.m_listTris_naviStart);
 
-                        if (true == bExistedAlready)
-                        {
-                            //m_triCollector.m_listTris_naviStart.Remove(iIdxTri);
-                            //m_triCollector.m_listTris_naviStart.Sort();
-
-                            m_triCollector.deletetriByLinear(iIdxTri, ref m_triCollector.m_listTris_naviStart);
-
-                            m_intervalUnitwalking.deleteInterval(iIdxTri);
-
-                        }
-                        else
+                        //@DELETE
+                        //if (true == bExistedAlready)
+                        //{
+                        //    //m_triCollector.m_listTris_naviStart.Remove(iIdxTri);
+                        //    //m_triCollector.m_listTris_naviStart.Sort();
+                        //
+                        //    m_triCollector.deletetriByLinear(iIdxTri, ref m_triCollector.m_listTris_naviStart);
+                        //
+                        //    m_intervalUnitwalking.deleteInterval(iIdxTri);
+                        //
+                        //}
+                        //else
                         {
                             m_triCollector.m_listTris_naviStart.Add(iIdxTri);
                             //m_triCollector.m_listTris_naviStart.Sort();
@@ -951,7 +957,7 @@ public class CProcessInput : MonoBehaviour
                 {
                     bool bExistedAlreadyOthers = (-1 < m_triCollector.m_listTris_naviBlock.BinarySearch(iIdxTri));
                     bExistedAlreadyOthers |= (-1 < m_triCollector.m_listTris_naviBlockRoad.BinarySearch(iIdxTri));
-                    bExistedAlreadyOthers |= m_triCollector.searchtriByLinear(iIdxTri, m_triCollector.m_listTris_naviStart);
+                    bExistedAlreadyOthers |= m_triCollector.isExistTri(iIdxTri, m_triCollector.m_listTris_naviStart);
 
                     if (false == bExistedAlreadyOthers)
                     {
@@ -962,22 +968,23 @@ public class CProcessInput : MonoBehaviour
                             bExistedAlready = bExistedAlready | (-1 < m_triCollector.m_listTris_naviGoal.BinarySearch(iHypotenuseTri));
                         }
 
-                        if (true == bExistedAlready)
-                        {
-                            bool bResultDeleted = m_triCollector.m_listTris_naviGoal.Remove(iIdxTri);
-                            if (true == bResultDeleted)
-                            {
-                                m_triCollector.m_listTris_naviGoal.Sort();
-                            }
-
-                            if (iHypotenuseTri > -1)
-                            {
-                                bResultDeleted = m_triCollector.m_listTris_naviGoal.Remove(iHypotenuseTri);
-                            }
-
-                            m_triCollector.m_listTris_naviGoal.Sort();
-                        }
-                        else
+                        //@DELETE
+                        //if (true == bExistedAlready)
+                        //{
+                        //    bool bResultDeleted = m_triCollector.m_listTris_naviGoal.Remove(iIdxTri);
+                        //    if (true == bResultDeleted)
+                        //    {
+                        //        m_triCollector.m_listTris_naviGoal.Sort();
+                        //    }
+                        //
+                        //    if (iHypotenuseTri > -1)
+                        //    {
+                        //        bResultDeleted = m_triCollector.m_listTris_naviGoal.Remove(iHypotenuseTri);
+                        //    }
+                        //
+                        //    m_triCollector.m_listTris_naviGoal.Sort();
+                        //}
+                        //else
                         {
                             m_triCollector.m_listTris_naviGoal.Add(iIdxTri);
                             if (iHypotenuseTri > -1)
@@ -1168,7 +1175,7 @@ public class CProcessInput : MonoBehaviour
                     }
                     else
                     {
-                        bool bThisis_StartCell = m_triCollector.searchtriByLinear(iIdxTri, m_triCollector.m_listTris_naviStart);
+                        bool bThisis_StartCell = m_triCollector.isExistTri(iIdxTri, m_triCollector.m_listTris_naviStart);
 
                         if (true == bThisis_StartCell)
                         {
