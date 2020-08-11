@@ -1,11 +1,23 @@
-﻿using System.Collections;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using UnityEngine;
 
 public static class CommonContainer
 {
+    public static void Each<T>(this IEnumerable<T> container, Action<T, int> action)
+    {
+        int i = 0;
+
+        foreach (T x in container)
+            action(x, i++);
+    }
+
+    public static void Each<T>(this IEnumerable<T> container, Action<T> action)
+    {
+        foreach (T x in container)
+            action(x);
+    }
+
     public static bool IsNullOrEmpty<T>(this IEnumerable<T> container)
     {
         if (null == container)
