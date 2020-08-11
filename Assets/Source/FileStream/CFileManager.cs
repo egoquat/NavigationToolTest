@@ -4,8 +4,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
-
-
 class CachingFile
 {
     public string m_Name;
@@ -24,6 +22,30 @@ public sealed class CFileManager
     {
         get { return Singleton<CFileManager>.GetInstance; }
 
+    }
+
+    public List<string> LoadFileTexts(string pathName)
+    {
+        Stream ms = LoadFile(pathName);
+        if (ms == null)
+        {
+            return null;
+        }
+
+        StreamReader sr = new StreamReader(ms);
+        if (true == sr.EndOfStream)
+        {
+            return null;
+        }
+
+        List<string> buffers = new List<string>();
+        while (!sr.EndOfStream)
+        {
+            string linebuffer = sr.ReadLine();
+            buffers.Add(linebuffer);
+        }
+
+        return buffers;
     }
 
     public Stream LoadFile(string pFileName)

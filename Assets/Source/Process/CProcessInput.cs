@@ -1606,8 +1606,7 @@ public class CProcessInput : MonoBehaviour
             }
 
             //@ Initialize all managers
-            bool bResult = false;
-            bResult = processCycle.GetInstance.resetGlobal(iIdxNaviMesh, false);
+            bool bResult = processCycle.GetInstance.resetGlobal(iIdxNaviMesh, true);
             if (false == bResult)
             {
                 Debug.Log("Error. OnGUI_inputControl_SELMAP()//resetGlobal//NaviMesh=" + iIdxNaviMesh + "//");
@@ -1963,7 +1962,6 @@ public class CProcessInput : MonoBehaviour
     {
         processCycle.GetInstance.resetGlobal(m_selectbox_Navimesh.GetIdxSelect(), true); 
     } // void _ClearAll()
-
 
     //@ Process : Save 
     void _SaveAll()

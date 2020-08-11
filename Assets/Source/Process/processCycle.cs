@@ -255,8 +255,22 @@ public class processCycle
         splinecurveManufacturer.LoadCurvePath_CMapTemplate(m_stageMap.FlyUnitPath_List);
 
         return true;
-    } 
+    }
 
+    private void LoadNaviFromTemplate()
+    {
+        foreach (int block in m_stageMap.GroundBlockPoint_List)
+            m_triCollector.m_listTris_naviBlock.Add(block);
+
+        foreach (int blockroad in m_stageMap.GroundBlockRoadPoint_List)
+            m_triCollector.m_listTris_naviBlockRoad.Add(blockroad);
+
+        foreach (int goal in m_stageMap.GoalPoint_List)
+            m_triCollector.m_listTris_naviGoal.Add(goal);
+
+        foreach (int start in m_stageMap.GroundStartPoint_List)
+            m_triCollector.m_listTris_naviStart.Add(start);
+    } // void _LoadNaviFromTemplate()
 
     public bool resetGlobal_constantObjects(CTriCollector triCollector, bool bConstantlyCreateObj)
     {
@@ -296,7 +310,7 @@ public class processCycle
         bool bResultProcess = false;
 
         //@ Clear all managers
-        bResultProcess = clearGLOBAL();
+        bResultProcess = clearGLOBAL(true);
         if (false == bResultProcess)
         {
             Debug.Log("Error. clearGLOBAL()!/////");
@@ -332,6 +346,22 @@ public class processCycle
                                         ref m_baseStartCollector, 
                                         ref m_baseBlockCollector,
                                         m_triCollector );
+
+            LoadNaviFromTemplate();
+
+            //@ Load bases.
+            Load_BaseTower_Binary(ref m_baseTowerCollector);
+            Load_BaseCore_Binary(ref m_baseCoreCollector);
+            Load_BaseCoreSub_Binary(ref m_baseCoresubCollector);
+            Load_BaseStart_Binary(ref m_baseStartCollector);
+            Load_BaseBlock_Binary(ref m_baseBlockCollector);
+
+            //@ Load Curve Path through script
+            bResultProcess = Load_CurvePath_Binary(ref m_SplineCurve);
+            if (false == bResultProcess)
+            {
+                Debug.Log("loadingProcess_Binary Load_CurvePath_Binary_error. //");
+            }
 
             //@ Construct Navigation 
             bResultProcess = resetGlobal_NavigationCells(m_triCollector, ref m_meshNavigation_global);
@@ -487,7 +517,7 @@ public class processCycle
         gamecontext.ShowDebugInfo = false;
     } // void Initialize
 
-    protected bool clearGLOBAL()
+    protected bool clearGLOBAL(bool isSkipLoadedData = false)
     {
         try
         {
@@ -498,7 +528,10 @@ public class processCycle
             m_intervalUnitWalking.DestructIntervalsAll();
             m_processInput.DestructInput();
 
-            m_stageMap.Release();
+            if (false == isSkipLoadedData)
+            {
+                m_stageMap.Release();
+            }
 
             m_baseTowerCollector.DestructBaseAll();
             m_baseCoreCollector.DestructBaseAll();
