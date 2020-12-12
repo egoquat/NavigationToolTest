@@ -20,4 +20,4 @@ Not using Unity Navmesh.
 
 Scene file (NavigationToolTest/Assets/ToolNaviMesh.unity)
 
-unity 2019 lts version.
+Unity 2019 lts version.
