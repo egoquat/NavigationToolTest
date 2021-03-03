@@ -347,6 +347,7 @@ public class processCycle
                                         ref m_baseBlockCollector,
                                         m_triCollector );
 
+            //@ Re-load navi cells from template pre-loads.
             LoadNaviFromTemplate();
 
             //@ Load bases.

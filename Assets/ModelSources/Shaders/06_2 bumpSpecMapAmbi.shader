@@ -25,11 +25,11 @@ Shader "Study/BumpSpecMapAmbi" {
 			sampler2D _AmbiTex;
 
 			struct Input {
-				float4 vertex;
-				float3 normal;
-				float4 texcoord;
+				float4 vertex : POSITION;
+				float3 normal : NORMAL;
+				float4 texcoord : TEXCOORD0;
 	//			float4 texcoord1;
-				float4 tangent;
+				float4 tangent : TANGENT;
 	//			float4 color;
 			};
 

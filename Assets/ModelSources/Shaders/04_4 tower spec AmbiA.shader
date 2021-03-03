@@ -23,15 +23,6 @@ Shader "Study/TowerSpecAmbiA" {
 			sampler2D _MainTex;
 			float4 _AmbiColor;
 
-			struct Input {
-				float4 vertex;
-				float3 normal;
-				float4 texcoord;
-	//			float4 texcoord1;
-	//			float4 tangent;
-	//			float4 color;
-			};
-
 			struct v2f {
 				float4 position : POSITION;
 				float2 uv : TEXCOORD0;
@@ -40,13 +31,13 @@ Shader "Study/TowerSpecAmbiA" {
 				float3 halfVector : TEXCOORD3;
 			};
 
-			v2f vert (Input inp) {
+			v2f vert (appdata_base v) {
 				v2f outp;
-				outp.position = UnityObjectToClipPos(inp.vertex);
-				outp.uv = inp.texcoord.xy;
-				outp.normal = inp.normal;
-				outp.lightDir = normalize(ObjSpaceLightDir(inp.vertex));
-				float3 eyeDir = normalize(ObjSpaceViewDir(inp.vertex));//float3(1,0,0);
+				outp.position = UnityObjectToClipPos(v.vertex);
+				outp.uv = v.texcoord.xy;
+				outp.normal = v.normal;
+				outp.lightDir = normalize(ObjSpaceLightDir(v.vertex));
+				float3 eyeDir = normalize(ObjSpaceViewDir(v.vertex));//float3(1,0,0);
 				outp.halfVector = normalize(outp.lightDir + eyeDir);
 
 				return outp;

@@ -8,3 +8,7 @@ obj/Debug/
 Packages/
 Temp/
 *.csproj
+*.db
+*.db-shm
+*.db-wal
+*.opendb
