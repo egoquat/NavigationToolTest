@@ -19,3 +19,5 @@ Was completely done 2012 but updated 2019 unity refresh version up.
 Not using Unity Navmesh.
 
 Scene file (NavigationToolTest/Assets/ToolNaviMesh.unity)
+
+Unity 2019 lts version.
