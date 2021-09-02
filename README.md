@@ -1,8 +1,8 @@
 # NavigationToolTest
 
-A* Pathfinder and basic unit movements.
+2011 year private A* test.
 
-Tool for save mapping navi.
+A* Pathfinder and basic unit movements, save load mapping navi json format.
 
 Purpose to private test, for fun and study.
 
@@ -14,10 +14,4 @@ Tool mapping data export and import to csv (txt).
 
 Parse mesh fbx to navi mesh.
 
-Was completely done 2012 but updated 2019 unity refresh version up.
-
 Not using Unity Navmesh.
-
-Scene file (NavigationToolTest/Assets/ToolNaviMesh.unity)
-
-Unity 2019 lts version.
