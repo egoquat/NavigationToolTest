@@ -1,6 +1,6 @@
 # NavigationToolTest
 
-2011 year private A* test.
+2010-2011 year A* project for private test includes implementation A* not using Unity Navi.
 
 A* base ground unit movement, save load mapping navi json format.
 
