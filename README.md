@@ -2,9 +2,9 @@
 
 2010-2011 year A* project for private test includes implementation A* not using Unity Navi.
 
-A* based movement ground units.
+A* based ground unit movenents.
 
-Bezier curve base aircraft unit movement.
+Bezier spline curve based aircraft unit movements.
 
 Save Load ground units and aircraft units movement to csv formats.
 
